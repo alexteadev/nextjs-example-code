@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "Filme",
+        "actors": "Actorii",
+        "directors": "Regizori",
+        "my-lists": "Listele Mele",
+        "about-us": "Despre Noi",
+        "login": "Autentificare",
+        "registration": "Înregistrare",
+        "my-profile": "Profilul Meu",
+        "logout": "Deconectare",
+        "validation": "Validare"
+    },
+    "FooterNavigation": {
+        "slogan": "Vizionează Filmele Potrivite",
+        "terms-of-use": "Termeni de utilizare",
+        "privacy-policy": "Politica de confidențialitate",
+        "cookies-policy": "Politica de cookie-uri",
+        "about-us": "Despre noi",
+        "contact-us": "Contactează-ne"
+    },
+    "LocaleLayoutPage": {
+        "name": "FilmAdvise",
+        "title": "Recomandare de filme",
+        "description": "Prin utilizarea filtrului de gen, etichete, evaluare și multe alte parametri, veți putea alege un film de vizionat"
+    },
+    "NotFoundPage": {
+        "title": "404: Pagina nu a fost găsită",
+        "description": "Oups! Se pare că pagina la care încercați să ajungeți fie s-a mutat, fie nu există. Dar nu vă faceți griji, puteți reveni la pagina noastră de pornire sau explorați site-ul nostru pentru a găsi recenzii de filme, știri de ultimă oră și mai multe despre lumea fascinantă a cinematografiei."
+    },
+    "LocaleSwitcher": {
+        "label": "Schimbă limba",
+        "locale": "{locale, select, en {Engleză} fr {Franceză} es {Spaniolă} de {Germană} pt {Portugheză} it {Italiană} nl {Olandeză} sv {Suedeză} no {Norvegiană} da {Daneză} fi {Finlandeză} cs {Cehă} pl {Poloneză} uk {Ucraineană} be {Bielorusă} et {Estoniană} lv {Letoneză} lt {Lituaniană} ro {Română} kk {Kazahă} ru {Rusă} tr {Turcă} he {Ebraică} ko {Coreeană} ja {Japoneză} zh {Chineză} hi {Hindi} ar {Arabă} id {Indoneziană} bg {Bulgară} ka {Georgiană} el {Greacă} other {Necunoscut}}",
+        "select-language": "Selectați limba dvs"
+    },
+    "ActorsPage": {
+        "title": "Listă cu toți actorii",
+        "note": "Alegeți filme după actori, ținând cont de talentul lor unic, diversitatea rolurilor și specializarea în genuri, folosind filtre"
+    },
+    "ActorPage": {
+        "title": "Despre pagina actorului",
+        "birthday": "Ziua de naștere",
+        "deathday": "Ziua decesului",
+        "bplace": "Locul nașterii",
+        "biography": "Biografie"
+    },
+    "DirectorsPage": {
+        "title": "Listă cu toți regizorii",
+        "note": "Selectați filme după regizor, explorând stilul lor unic, calitatea lucrării și specializarea în anumite teme, folosind filtre"
+    },
+    "DirectorPage": {
+        "title": "Despre pagina regizorului",
+        "birthday": "Ziua de naștere",
+        "deathday": "Ziua decesului",
+        "bplace": "Locul nașterii",
+        "biography": "Biografie"
+    },
+    "FilmPage": {
+        "title": "Pagina filmului",
+        "director": "Regizor",
+        "overview": "Prezentare generală",
+        "release": "Lansare",
+        "rating": "Evaluare",
+        "genres": "Genuri și subgenuri",
+        "tags": "Etichete",
+        "character": "ca",
+        "add": "Adaugă la Listele Mele",
+        "remove": "Elimină din Listele Mele"
+    },
+    "SeriesPage": {
+        "title": "Pagina serialului",
+        "director": "Regizor",
+        "overview": "Prezentare generală",
+        "release": "Lansare",
+        "rating": "Evaluare",
+        "genres": "Genuri și subgenuri",
+        "tags": "Etichete",
+        "character": "ca",
+        "seasons": "Sezoane",
+        "number_of_seasons": "Număr de sezoane",
+        "add": "Adaugă la Listele Mele",
+        "remove": "Elimină din Listele Mele"
+    },
+    "MyListPage": {
+        "title": "Listele Mele",
+        "note": "Pentru a adăuga filme sau seriale la favorite, vă rugăm",
+        "or": "sau",
+        "login": "Autentificare",
+        "registration": "Înregistrare"
+    },
+    "AboutUsPage": {
+        "title": "Bine ați venit la FilmAdvise!",
+        "contact": "Dacă aveți sugestii, întrebări sau reclamații, puteți",
+        "contact-us": "să ne scrieți",
+        "text": {
+            "part1": "Pe site-ul FilmAdvise, oferim o abordare unică în selecția de filme și seriale care se distinge de tot ce ați văzut înainte. Platforma noastră este creată pentru cei care apreciază cinematografia și doresc să găsească opera cinematografică perfectă pentru vizionare fără a se pierde într-o mare de opțiuni infinite. Înțelegem cât de important este să găsiți un film care să vă satisfacă starea de spirit, interesele și preferințele. De aceea, FilmAdvise se specializează în selectarea filmelor pe baza unui set unic de criterii: genuri și subgenuri, etichete, evaluări, ani de lansare, țări de producție, epoci în care au loc acțiunile filmului, premii și restricții de vârstă.",
+            "part2": "Site-ul nostru oferă o descriere detaliată a fiecărui criteriu de selecție, începând de la o listă completă a genurilor și subgenurilor - de la comedie la filme biografice, și terminând cu epocile evenimentelor, care variază de la perioada preistorică până în zilele noastre. Acordăm o atenție specială etichetelor, cum ar fi motivațional, îmbunătățirea stării de spirit, pentru companie și multe altele, astfel încât să puteți alege un film care să se potrivească perfect stării dvs. de spirit sau situației. O caracteristică importantă a site-ului nostru este evaluarea filmului, care începe de la 5, excluzând lucrările de calitate inferioară și asigurându-vă doar cea mai bună alegere.",
+            "part3": "În plus, FilmAdvise oferă o oportunitate unică de a selecta filme după regizori și actori cunoscuți, luând în considerare evaluarea medie a tuturor filmelor lor, numărul de lucrări cinematografice și premii. Acest lucru permite fanilor anumitor creatori să găsească cu ușurință operele lor care îndeplinesc standardele de calitate și interesele înalte.",
+            "part4": "La FilmAdvise, nu veți găsi opțiunea de a viziona filme direct pe site, dar veți obține cel mai cuprinzător și detaliat instrument pentru selectarea unei opere cinematografice pe care apoi o puteți viziona pe alte platforme sau în cinematograf. Misiunea noastră este să simplificăm procesul de selecție, oferindu-vă toate instrumentele necesare pentru a găsi un film care va fi o adevărată descoperire pentru dvs. Într-o lume în care zeci de filme și seriale noi apar în fiecare zi, FilmAdvise este ghidul dvs. de încredere în lumea cinematografiei, ajutându-vă să găsiți adevăratele bijuterii printre diversitatea vastă a operelor cinematografice."
+        }
+    },
+    "TermsPage": {
+        "title": "Termeni și condiții de utilizare a site-ului"
+    },
+    "PrivacyPage": {
+        "title": "Politica de confidențialitate"
+    },
+    "CookiePage": {
+        "title": "Politica de cookie-uri"
+    },
+    "ContactUsPage": {
+        "title": "Contacte",
+        "note": "Ne puteți trimite sugestiile, întrebările, reclamațiile sau să ne notificați despre erori în date sau traducere",
+        "name": "Nume",
+        "email": "Email",
+        "text": "Mesaj",
+        "send": "Trimite"
+    },
+    "LoginPage": {
+        "title": "Autentificare",
+        "note": "Conectați-vă la contul dvs. pentru a salva filmele favorite și a crea o listă de vizionare personală pentru vizionări viitoare",
+        "no-account": "Nu aveți un cont?",
+        "registration": "Înregistrare",
+        "forgot-password": "Dacă ați uitat parola, puteți",
+        "recover": "recuperați-o",
+        "email": "Email",
+        "password": "Parolă",
+        "send": "Autentificare"
+    },
+    "RegistrationPage": {
+        "title": "Înregistrare",
+        "note": "Înregistrați-vă pe FilmAdvise și deblocați capacitatea de a compila o listă de filme pe placul dvs. pentru vizionări viitoare",
+        "name": "Nume",
+        "email": "Email",
+        "password": "Parolă",
+        "password-repeat": "Repetare parolă",
+        "send": "Înregistrare"
+    },
+    "RecoverPage": {
+        "title": "Recuperare parolă",
+        "note": "Dacă ați uitat parola, o puteți recupera. Pentru aceasta, trebuie să furnizați adresa dvs. de email și vă vom trimite o nouă parolă prin poștă. Apoi o puteți schimba în contul dvs. personal",
+        "email": "Email",
+        "send": "Recuperare"
+    },
+    "ValidationPage": {
+        "title": "Validare",
+        "ok": "Verificarea emailului a fost efectuată cu succes, bucurați-vă de experiență!",
+        "error": "Verificarea emailului nu a reușit, vă rugăm să reluați procesul de înregistrare"
+    },
+    "MyProfilePage": {
+        "title": "Profilul Meu",
+        "title-ava": "Selectează-ți Avatarul",
+        "ava-color": "Culoarea Avatarului",
+        "ava-img": "Imaginea Avatarului",
+        "email": "Email",
+        "title-password": "Schimbă Parola",
+        "password-current": "Introduceți Parola Curentă",
+        "password-new": "Introduceți Parola Nouă",
+        "password-success": "Parolele au fost schimbate cu succes",
+        "password-error": "Parola curentă nu se potrivește",
+        "title-name": "Nume",
+        "send": "Actualizare",
+        "emailUpdatedSuccess": "Emailul a fost actualizat cu succes",
+        "emailUpdateError": "Nu s-a putut actualiza emailul",
+        "usernameUpdatedSuccess": "Numele de utilizator a fost actualizat cu succes",
+        "usernameUpdateError": "Nu s-a putut actualiza numele de utilizator",
+        "passwordChangedSuccess": "Parola a fost schimbată cu succes",
+        "passwordChangeError": "Nu s-a putut schimba parola"
+    },
+    "MainPage": {
+        "title": "Pagina Principală",
+        "warning": "Site-ul este în mod demo, unele date sunt incomplete",
+        "warningM": "Site-ul este în mod demo, unele date sunt incomplete (marcate)",
+        "ShowButton": "Afișează Filmele",
+        "FilmFilter": {
+            "title": "Filtru de Filme"
+        },
+        "GenresFilter": {
+            "title": "Filtru de Genuri"
+        },
+        "AdditionalFilter": {
+            "title": "Filtru Suplimentar"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "Sortează după",
+            "rating": "Evaluare",
+            "year": "An",
+            "count": "Număr"
+        },
+        "pagenav": {
+            "title": "Navigare Pagină"
+        },
+        "typeformat": {
+            "title": "Tip",
+            "film": "Filme",
+            "series": "Seriale"
+        },
+        "rating": {
+            "title": "Evaluare",
+            "from": "De la",
+            "to": "La"
+        },
+        "filmcount": {
+            "title": "Număr de Filme",
+            "from": "De la",
+            "to": "La"
+        },
+        "directors": {
+            "awards": "Premii",
+            "films": "Număr de Filme",
+            "rating": "Evaluare Medie"
+        },
+        "type": {
+            "title": "Tip",
+            "movie": "Film",
+            "series": "Serial"
+        },
+        "release_year": {
+            "title": "An de Lansare",
+            "from": "De la",
+            "to": "La",
+            "not_released_yet": "Încă nu a fost lansat"
+        },
+        "event_era": {
+            "title": "Era Evenimentului",
+            "from": "De la",
+            "to": "La",
+            "undefined": "Nesetat",
+            "titlePresent": "Prezent",
+            "prehistory": "Perioada Preistorică (Înainte de 3000 î.Hr.)",
+            "ancient_world": "Lumea Antică (3000 î.Hr. - 500 d.Hr.)",
+            "early_middle_ages": "Evul Mediu Timpuriu (500 - 1000)",
+            "high_middle_ages": "Evul Mediu Înalt (1000 - 1300)",
+            "late_middle_ages": "Evul Mediu Târziu (1300 - 1500)",
+            "renaissance": "Renaștere (1500 - 1600)",
+            "baroque_period": "Perioada Barocă (1600 - 1700)",
+            "enlightenment": "Iluminism (1700 - 1800)",
+            "industrial_revolution": "Revoluția Industrială (1800 - 1850)",
+            "victorian_era": "Era Victoriană (1850 - 1900)",
+            "early_20th_century": "Începutul Secolului 20 (1900 - 1930)",
+            "mid_20th_century_pre_ww2": "Pre-WW2 (1930 - 1940)",
+            "mid_20th_century": "Mijlocul Secolului 20 (1940 - 1950)",
+            "late_1950s": "Sfârșitul anilor 1950 (1950 - 1960)",
+            "early_1960s": "Începutul anilor 1960 (1960 - 1970)",
+            "the_1970s": "Anii 1970 (1970 - 1980)",
+            "the_1980s": "Anii 1980 (1980 - 1990)",
+            "late_20th_century": "Sfârșitul Secolului 20 (1990 - 2000)",
+            "early_21st_century": "Începutul Secolului 21 (2000 - 2010)",
+            "the_2010s": "Anii 2010 (2010 - Prezent)"
+        },
+        "age_rating": {
+            "title": "Evaluare pe vârstă",
+            "full": {
+                "G": "G: Audiență Generală",
+                "PG": "PG: Părinții sunt Avertizați",
+                "PG13": "PG 13: Părinții sunt Înștiințați",
+                "R": "R: Restricționat",
+                "NC17": "NC 17: Doar pentru Adulți"
+            },
+            "short": {
+                "G": "G",
+                "PG": "PG",
+                "PG13": "PG 13",
+                "R": "R",
+                "NC17": "NC 17"
+            }
+        },
+        "awards": {
+            "title": "Premii",
+            "oscar": "Oscar",
+            "golden_globe": "Globul de Aur",
+            "cannes": "Festivalul de Film de la Cannes",
+            "berlin": "Festivalul de Film de la Berlin",
+            "venice": "Festivalul de Film de la Veneția",
+            "bafta": "BAFTA"
+        },
+        "countries": {
+            "title": "Țări",
+            "america": {
+                "title": "America",
+                "regions": {
+                    "north_america": {
+                        "title": "America de Nord",
+                        "countries": {
+                            "usa": "Statele Unite",
+                            "canada": "Canada",
+                            "mexico": "Mexic",
+                            "other_noa": "Altele"
+                        }
+                    },
+                    "south_america": {
+                        "title": "America de Sud",
+                        "countries": {
+                            "brazil": "Brazilia",
+                            "argentina": "Argentina",
+                            "chile": "Chile",
+                            "other_soa": "Altele"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "Europa",
+                "regions": {
+                    "western_europe": {
+                        "title": "Europa de Vest",
+                        "countries": {
+                            "uk": "Regatul Unit",
+                            "germany": "Germania",
+                            "ireland": "Irlanda",
+                            "france": "Franța",
+                            "other_wee": "Altele"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "Europa de Nord",
+                        "countries": {
+                            "denmark": "Danemarca",
+                            "norway": "Norvegia",
+                            "finland": "Finlanda",
+                            "sweden": "Suedia",
+                            "other_noe": "Altele"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "Europa Centrală",
+                        "countries": {
+                            "poland": "Polonia",
+                            "czech": "Republica Cehă",
+                            "hungary": "Ungaria",
+                            "other_cee": "Altele"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "Europa de Sud",
+                        "countries": {
+                            "greece": "Grecia",
+                            "spain": "Spania",
+                            "italy": "Italia",
+                            "portugal": "Portugalia",
+                            "other_soe": "Altele"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "Europa de Est",
+                        "countries": {
+                            "ukraine": "Ucraina",
+                            "romania": "România",
+                            "russia": "Rusia",
+                            "bulgaria": "Bulgaria",
+                            "other_eae": "Altele"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "Asia",
+                "regions": {
+                    "east_asia": {
+                        "title": "Asia de Est",
+                        "countries": {
+                            "japan": "Japonia",
+                            "korea": "Coreea de Sud",
+                            "china": "China",
+                            "other_eaa": "Altele"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "Asia de Sud-Est",
+                        "countries": {
+                            "thailand": "Thailanda",
+                            "indonesia": "Indonezia",
+                            "other_soa": "Altele"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "Asia de Sud",
+                        "countries": {
+                            "india": "India",
+                            "other_sua": "Altele"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "Asia Centrală și de Vest",
+                        "countries": {
+                            "turkey": "Turcia",
+                            "israel": "Israel",
+                            "iran": "Iran",
+                            "other_cwa": "Altele"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "Africa",
+                "regions": {
+                    "all": {
+                        "title": "Toate",
+                        "countries": {
+                            "south_africa": "Africa de Sud",
+                            "egypt": "Egipt",
+                            "other_afr": "Altele"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "Selectează Etichete",
+            "motivational": "Motivațional",
+            "feel_good": "Bună Dispoziție",
+            "for_company": "Pentru Companie",
+            "based_on_books": "Bazat pe Cărți",
+            "family": "Familie",
+            "festive": "Festiv",
+            "musical": "Muzical",
+            "arthouse": "Artă",
+            "based_on_true_events": "Bazat pe Evenimente Adevărate"
+        },
+        "genres": {
+            "title": "Selectează Genuri și Subgenuri",
+            "comedy": {
+                "title": "Comedie",
+                "subgenres": {
+                    "parody": "Parodie",
+                    "satire": "Satiră",
+                    "dark_comedy": "Comedie Neagră"
+                }
+            },
+            "drama": {
+                "title": "Dramă",
+                "subgenres": {
+                    "psychological": "Psihologică",
+                    "social": "Socială",
+                    "legal": "Juridică",
+                    "political": "Politica",
+                    "philosophical": "Filozofică",
+                    "religious": "Religioasă",
+                    "spiritual": "Spirituală",
+                    "melancholic": "Melancolică"
+                }
+            },
+            "thriller": {
+                "title": "Thriller",
+                "subgenres": {
+                    "psychological": "Psihologică",
+                    "crime": "Crimă",
+                    "spy": "Spy",
+                    "disaster": "Dezastru",
+                    "legal": "Juridică",
+                    "political": "Politica"
+                }
+            },
+            "horror": {
+                "title": "Horror",
+                "subgenres": {
+                    "psychological": "Psihologică",
+                    "slasher": "Slasher",
+                    "monsters": "Monștri",
+                    "zombies": "Zombi",
+                    "vampires": "Vampiri",
+                    "ghosts": "Fantome"
+                }
+            },
+            "sci_fi": {
+                "title": "Științifico-Fantastic",
+                "subgenres": {
+                    "superheroes": "Supereroi",
+                    "parallel_worlds": "Lumi Paralele",
+                    "alternate_history": "Istorie Alternativă",
+                    "post_apocalyptic": "Post-Apocaliptic"
+                }
+            },
+            "fantasy": {
+                "title": "Fantezie",
+                "subgenres": {
+                    "magical_realism": "Realism Magic",
+                    "fantasy_universe": "Univers Fantastic",
+                    "dark_fantasy": "Fantezie Întunecată",
+                    "fairy_tales": "Povești de Zâne"
+                }
+            },
+            "action": {
+                "title": "Acțiune",
+                "subgenres": {
+                    "adrenaline": "Adrenalină",
+                    "fights": "Lupte",
+                    "survival": "Supraviețuire"
+                }
+            },
+            "romance": {
+                "title": "Romantic",
+                "subgenres": {
+                    "romantic": "Romantic",
+                    "teen": "Adolescent",
+                    "light_romance": "Romantism Ușor"
+                }
+            },
+            "adventure": {
+                "title": "Aventură",
+                "subgenres": {
+                    "adventurism": "Aventură",
+                    "travel": "Călătorie",
+                    "expeditions": "Expediții",
+                    "road_movie": "Road Movie"
+                }
+            },
+            "detective": {
+                "title": "Detectiv",
+                "subgenres": {
+                    "crime": "Crimă",
+                    "detective": "Detectiv",
+                    "special_agents": "Agenți Speciali",
+                    "maniacs": "Maniaci"
+                }
+            },
+            "historical": {
+                "title": "Istoric",
+                "subgenres": {
+                    "ancient_world": "Lumea Antică",
+                    "middle_ages": "Evul Mediu",
+                    "renaissance": "Renaștere",
+                    "victorian_era": "Era Victoriană"
+                }
+            },
+            "war": {
+                "title": "Război",
+                "subgenres": {
+                    "world_war_i": "Primul Război Mondial",
+                    "world_war_ii": "Al Doilea Război Mondial",
+                    "cold_war": "Războiul Rece",
+                    "modern_warfare": "Război Modern",
+                    "anti_war": "Anti-Război"
+                }
+            },
+            "science": {
+                "title": "Științific",
+                "subgenres": {
+                    "technology": "Tehnologie",
+                    "space": "Spațiu",
+                    "research": "Cercetare",
+                    "medicine": "Medicină"
+                }
+            },
+            "animation": {
+                "title": "Animație",
+                "subgenres": {
+                    "drawn": "Desenată",
+                    "computer": "Calculator",
+                    "stop_motion": "Stop Motion",
+                    "anime": "Anime"
+                }
+            },
+            "western": {
+                "title": "Vestern",
+                "subgenres": {
+                    "classic": "Clasic",
+                    "spaghetti_western": "Vestern Spaghetti",
+                    "contemporary": "Contemporan"
+                }
+            },
+            "mystery": {
+                "title": "Mister",
+                "subgenres": {
+                    "paranormal": "Paranormal",
+                    "supernatural": "Supranatural"
+                }
+            },
+            "ethnographic": {
+                "title": "Etnografic",
+                "subgenres": {
+                    "myths": "Miturile",
+                    "legends": "Legendele",
+                    "culture": "Cultură",
+                    "folklore": "Folclor",
+                    "traditions": "Tradiții",
+                    "ethnic_groups": "Grupuri Etnice",
+                    "nature": "Natură"
+                }
+            },
+            "biographical": {
+                "title": "Biografic",
+                "subgenres": {
+                    "musicians": "Muzicieni",
+                    "politicians": "Politicieni",
+                    "athletes": "Sportivi",
+                    "artists": "Artiști",
+                    "scientists": "Oameni de Știință",
+                    "businessmen": "Oameni de Afaceri"
+                }
+            },
+            "sports": {
+                "title": "Sport",
+                "subgenres": {
+                    "racing": "Curse",
+                    "boxing": "Box",
+                    "martial_arts": "Arte Marțiale"
+                }
+            }
+        },
+        "favorite": {
+            "add": "Adaugă la Lista Mea",
+            "remove": "Șterge din Lista Mea"
+        }
+    }
+}

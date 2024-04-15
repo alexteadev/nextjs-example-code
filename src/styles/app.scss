@@ -1,0 +1,25 @@
+// Fonts
+@import "fonts";
+
+// Reset Styles
+@import 'scss-reset/reset';
+
+// Common
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    font-family: 'Work Sans', sans-serif;
+    background-color: #f3f3f3;
+}
+
+#root {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    flex: 1 1 auto;
+}

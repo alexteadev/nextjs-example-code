@@ -1,0 +1,59 @@
+@use '@/styles/mixins' as mixins;
+
+.main {
+    display: flex;
+    flex-direction: column;
+
+    color: #FFFFFF;
+
+    &__container {
+        @include mixins.container;
+    }
+
+    &__header {
+        padding-top: 10px;
+        padding-bottom: 20px;
+
+        background: rgb(16,26,39);
+        background: linear-gradient(90deg, rgba(16,26,39,1) 0%, rgba(40,33,69,1) 100%);        
+    }
+
+    &__info {
+        display: flex;
+        flex-direction: column;
+
+        &_note {
+            // padding: 0px 10px;
+            font-size: 18px;
+            font-weight: 500;
+            color: #cdcdcd;
+        }
+    }
+
+    &__filter {
+        display: flex;
+        flex-direction: column;
+        padding: 20px 0px;
+        gap: 20px;
+
+        &_rating {
+            @media (max-width: 1230px) {
+                padding: 0px 10px;
+            }
+        }
+
+        &_filmcount {
+            @media (max-width: 1230px) {
+                padding: 0px 10px;
+            }
+        }
+    }
+
+    &__body {
+        padding: 5px 0px;
+
+        &_sort {
+            padding: 5px 0px;
+        }
+    }
+}

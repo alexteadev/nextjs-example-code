@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "Films",
+        "actors": "Acteurs",
+        "directors": "Regisseurs",
+        "my-lists": "Mijn Lijsten",
+        "about-us": "Over Ons",
+        "login": "Inloggen",
+        "registration": "Registratie",
+        "my-profile": "Mijn Profiel",
+        "logout": "Uitloggen",
+        "validation": "Validatie"
+    },
+    "FooterNavigation": {
+        "slogan": "Bekijk de juiste films",
+        "terms-of-use": "Gebruiksvoorwaarden",
+        "privacy-policy": "Privacybeleid",
+        "cookies-policy": "Cookiebeleid",
+        "about-us": "Over ons",
+        "contact-us": "Neem contact met ons op"
+    },
+    "LocaleLayoutPage": {
+        "name": "FilmAdvise",
+        "title": "Film aanbeveling",
+        "description": "Door gebruik te maken van het genre, tags, rating en vele andere parameters filter, kunt u een film kiezen om te bekijken"
+    },
+    "NotFoundPage": {
+        "title": "404: Pagina Niet Gevonden",
+        "description": "Oeps! Het lijkt erop dat de pagina die je probeert te bereiken is verhuisd of niet bestaat. Maar geen zorgen, je kunt terugkeren naar onze homepage of onze site verkennen om filmrecensies, het laatste nieuws en meer te vinden over de fascinerende wereld van cinema."
+    },
+    "LocaleSwitcher": {
+        "label": "Taal wijzigen",
+        "locale": "{locale, select, en {Engels} fr {Frans} es {Spaans} de {Duits} pt {Portugees} it {Italiaans} nl {Nederlands} sv {Zweeds} no {Noors} da {Deens} fi {Fins} cs {Tsjechisch} pl {Pools} uk {Oekraïens} be {Wit-Russisch} et {Estisch} lv {Lets} lt {Litouws} ro {Roemeens} kk {Kazachs} ru {Russisch} tr {Turks} he {Hebreeuws} ko {Koreaans} ja {Japans} zh {Chinees} hi {Hindi} ar {Arabisch} id {Indonesisch} bg {Bulgaars} ka {Georgisch} el {Grieks} other {Onbekend}}",
+        "select-language": "Selecteer uw taal"
+    },
+    "ActorsPage": {
+        "title": "Lijst van alle acteurs",
+        "note": "Kies films op basis van acteurs, rekening houdend met hun unieke talent, diversiteit aan rollen en genre-specialisatie, met behulp van filters"
+    },
+    "ActorPage": {
+        "title": "Over acteur pagina",
+        "birthday": "Geboortedatum",
+        "deathday": "Sterfdatum",
+        "bplace": "Geboorteplaats",
+        "biography": "Biografie"
+    },
+    "DirectorsPage": {
+        "title": "Lijst van alle regisseurs",
+        "note": "Selecteer films op regisseur, ontdek hun unieke stijl, kwaliteit van werk en specialisatie in bepaalde thema's, met behulp van filters"
+    },
+    "DirectorPage": {
+        "title": "Over regisseur pagina",
+        "birthday": "Geboortedatum",
+        "deathday": "Sterfdatum",
+        "bplace": "Geboorteplaats",
+        "biography": "Biografie"
+    },
+    "FilmPage": {
+        "title": "Film pagina",
+        "director": "Regisseur",
+        "overview": "Overzicht",
+        "release": "Release",
+        "rating": "Beoordeling",
+        "genres": "Genres & Subgenres",
+        "tags": "Tags",
+        "character": "als",
+        "add": "Toevoegen aan Mijn Lijst",
+        "remove": "Verwijderen uit Mijn Lijst"
+    },
+    "SeriesPage": {
+        "title": "Serie pagina",
+        "director": "Regisseur",
+        "overview": "Overzicht",
+        "release": "Release",
+        "rating": "Beoordeling",
+        "genres": "Genres & Subgenres",
+        "tags": "Tags",
+        "character": "als",
+        "seasons": "Seizoenen",
+        "number_of_seasons": "Aantal seizoenen",
+        "add": "Toevoegen aan Mijn Lijst",
+        "remove": "Verwijderen uit Mijn Lijst"
+    },
+    "MyListPage": {
+        "title": "Mijn Lijst",
+        "note": "Om films of tv-shows aan favorieten toe te voegen, graag",
+        "or": "of",
+        "login": "Inloggen",
+        "registration": "Registreren"
+    },
+    "AboutUsPage": {
+        "title": "Welkom bij FilmAdvise!",
+        "contact": "Als je suggesties, vragen of klachten hebt, kun je",
+        "contact-us": "ons schrijven",
+        "text": {
+            "part1": "Op de FilmAdvise-website bieden we een unieke aanpak voor het selecteren van films en series die zich onderscheidt van alles wat je eerder hebt gezien. Ons platform is gemaakt voor degenen die cinema waarderen en de perfecte cinematografische werk willen vinden om te bekijken zonder te verdwalen in de eindeloze zee van opties. We begrijpen hoe belangrijk het is om een film te vinden die past bij je stemming, interesses en voorkeuren. Daarom is FilmAdvise gespecialiseerd in het selecteren van films op basis van een unieke set criteria: genres en subgenres, tags, beoordelingen, releasejaren, productielanden, tijdperken waarin de acties van de film plaatsvinden, prijzen en leeftijdsbeperkingen.",
+            "part2": "Onze site biedt een gedetailleerde beschrijving van elk selectiecriterium, te beginnen met een volledige lijst van genres en subgenres — van komedie tot biografische films, en eindigend met de tijdperken van gebeurtenissen, variërend van de prehistorie tot moderne tijden. We besteden speciale aandacht aan tags, zoals motiverend, feel-good, voor bedrijf, en vele anderen, zodat je een film kunt kiezen die perfect past bij je stemming of situatie. Een belangrijk kenmerk van onze site is de filmbespreking, die begint bij 5, waardoor minder kwaliteitswerken worden uitgesloten en je alleen de beste keuze krijgt.",
+            "part3": "Daarnaast biedt FilmAdvise een unieke mogelijkheid om films te selecteren op basis van bekende regisseurs en acteurs, rekening houdend met de gemiddelde beoordeling van al hun films, het aantal cinematografische werken en prijzen. Dit stelt fans van bepaalde makers in staat om hun werken die voldoen aan hoge kwaliteitsnormen en interesses gemakkelijk te vinden.",
+            "part4": "Bij FilmAdvise vind je niet de optie om films rechtstreeks op de site te bekijken, maar je krijgt wel het meest uitgebreide en gedetailleerde gereedschap om een cinematografisch werk te selecteren dat vervolgens op andere platforms of in de bioscoop kan worden bekeken. Onze missie is om het selectieproces te vereenvoudigen door je alle benodigde tools te bieden om een film te vinden die een echte ontdekking voor je zal zijn. In een wereld waar tientallen nieuwe films en series elke dag uitkomen, is FilmAdvise jouw betrouwbare gids in de wereld van cinema, die helpt om echte pareltjes te vinden te midden van de enorme diversiteit aan cinematografische werken."
+        }
+    },
+    "TermsPage": {
+        "title": "Website Gebruiksvoorwaarden"
+    },
+    "PrivacyPage": {
+        "title": "Privacybeleid"
+    },
+    "CookiePage": {
+        "title": "Cookiebeleid"
+    },
+    "ContactUsPage": {
+        "title": "Contact",
+        "note": "Je kunt ons je suggesties, vragen, klachten of fouten in gegevens of vertalingen laten weten",
+        "name": "Naam",
+        "email": "Email",
+        "text": "Bericht",
+        "send": "Verzenden"
+    },
+    "LoginPage": {
+        "title": "Inloggen",
+        "note": "Log in op je account om favoriete films op te slaan en een persoonlijke kijklijst te maken voor toekomstige vertoningen",
+        "no-account": "Heb je geen account?",
+        "registration": "Registratie",
+        "forgot-password": "Als je je wachtwoord bent vergeten, kun je",
+        "recover": "herstellen",
+        "email": "Email",
+        "password": "Wachtwoord",
+        "send": "Inloggen"
+    },
+    "RegistrationPage": {
+        "title": "Registratie",
+        "note": "Registreer op FilmAdvise en ontgrendel de mogelijkheid om een lijst van favoriete films samen te stellen voor toekomstige vertoningen",
+        "name": "Naam",
+        "email": "Email",
+        "password": "Wachtwoord",
+        "password-repeat": "Herhaal Wachtwoord",
+        "send": "Registreren"
+    },
+    "RecoverPage": {
+        "title": "Wachtwoord herstellen",
+        "note": "Als je je wachtwoord bent vergeten, kun je het herstellen. Hiervoor moet je je e-mailadres opgeven, en we sturen je een nieuw wachtwoord per e-mail. Daarna kun je het in je persoonlijke account wijzigen",
+        "email": "Email",
+        "send": "Herstellen"
+    },
+    "ValidationPage": {
+        "title": "Validatie",
+        "ok": "E-mailverificatie succesvol, geniet van je ervaring!",
+        "error": "E-mailverificatie mislukt, ga alstublieft opnieuw door het registratieproces"
+    },
+    "MyProfilePage": {
+        "title": "Mijn Profiel",
+        "title-ava": "Selecteer jouw Avatar",
+        "ava-color": "Avatar Kleur",
+        "ava-img": "Avatar Afbeelding",
+        "email": "Email",
+        "title-password": "Wachtwoord Wijzigen",
+        "password-current": "Voer Huidig Wachtwoord In",
+        "password-new": "Voer Nieuw Wachtwoord In",
+        "password-success": "Wachtwoordwijzigingen succesvol",
+        "password-error": "Huidig wachtwoord komt niet overeen",
+        "title-name": "Naam",
+        "send": "Bijwerken",
+        "emailUpdatedSuccess": "Email succesvol bijgewerkt",
+        "emailUpdateError": "Kon email niet bijwerken",
+        "usernameUpdatedSuccess": "Gebruikersnaam succesvol bijgewerkt",
+        "usernameUpdateError": "Kon gebruikersnaam niet bijwerken",
+        "passwordChangedSuccess": "Wachtwoord succesvol gewijzigd",
+        "passwordChangeError": "Kon wachtwoord niet wijzigen"
+    },
+    "MainPage": {
+        "title": "Hoofdpagina",
+        "warning": "De site bevindt zich in demomodus, sommige gegevens zijn incompleet",
+        "warningM": "De site bevindt zich in demomodus, sommige gegevens zijn incompleet (gemarkeerd)",
+        "ShowButton": "Toon Films",
+        "FilmFilter": {
+            "title": "Film Filter"
+        },
+        "GenresFilter": {
+            "title": "Genres Filter"
+        },
+        "AdditionalFilter": {
+            "title": "Extra Filter"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "Sorteren op",
+            "rating": "Beoordeling",
+            "year": "Jaar",
+            "count": "Aantal"
+        },
+        "pagenav": {
+            "title": "Pagina Navigatie"
+        },
+        "typeformat": {
+            "title": "Type",
+            "film": "Films",
+            "series": "Series"
+        },
+        "rating": {
+            "title": "Beoordeling",
+            "from": "Van",
+            "to": "Tot"
+        },
+        "filmcount": {
+            "title": "Filmaantal",
+            "from": "Van",
+            "to": "Tot"
+        },
+        "directors": {
+            "awards": "Prijzen",
+            "films": "Aantal Films",
+            "rating": "Gemiddelde Beoordeling"
+        },
+        "type": {
+            "title": "Type",
+            "movie": "Film",
+            "series": "Serie"
+        },
+        "release_year": {
+            "title": "Releasedatum",
+            "from": "Van",
+            "to": "Tot",
+            "not_released_yet": "Nog Niet Uitgebracht"
+        },
+        "event_era": {
+            "title": "Tijdperk",
+            "from": "Van",
+            "to": "Tot",
+            "undefined": "Niet ingesteld",
+            "titlePresent": "Heden",
+            "prehistory": "Prehistorische Periode (Voor 3000 BCE)",
+            "ancient_world": "Oude Wereld (3000 BCE - 500 CE)",
+            "early_middle_ages": "Vroege Middeleeuwen (500 - 1000)",
+            "high_middle_ages": "Hoge Middeleeuwen (1000 - 1300)",
+            "late_middle_ages": "Late Middeleeuwen (1300 - 1500)",
+            "renaissance": "Renaissance (1500 - 1600)",
+            "baroque_period": "Barok Periode (1600 - 1700)",
+            "enlightenment": "Verlichting (1700 - 1800)",
+            "industrial_revolution": "Industriële Revolutie (1800 - 1850)",
+            "victorian_era": "Victoriaanse Tijdperk (1850 - 1900)",
+            "early_20th_century": "Vroeg 20e Eeuw (1900 - 1930)",
+            "mid_20th_century_pre_ww2": "Voor-WO2 (1930 - 1940)",
+            "mid_20th_century": "Midden 20e Eeuw (1940 - 1950)",
+            "late_1950s": "Laat 1950s (1950 - 1960)",
+            "early_1960s": "Vroeg 1960s (1960 - 1970)",
+            "the_1970s": "1970s (1970 - 1980)",
+            "the_1980s": "1980s (1980 - 1990)",
+            "late_20th_century": "Laat 20e Eeuw (1990 - 2000)",
+            "early_21st_century": "Vroeg 21e Eeuw (2000 - 2010)",
+            "the_2010s": "2010s (2010 - Heden)"
+        },
+        "age_rating": {
+            "title": "Leeftijdsclassificatie",
+            "full": {
+                "G": "G: Algemene Kijkers",
+                "PG": "PG: Ouderlijk Toezicht Aanbevolen",
+                "PG13": "PG 13: Ouders Zeer Gewaarschuwd",
+                "R": "R: Beperkt",
+                "NC17": "NC 17: Alleen voor Volwassenen"
+            },
+            "short": {
+                "G": "G",
+                "PG": "PG",
+                "PG13": "PG 13",
+                "R": "R",
+                "NC17": "NC 17"
+            }
+        },
+        "awards": {
+            "title": "Prijzen",
+            "oscar": "Oscar",
+            "golden_globe": "Golden Globe",
+            "cannes": "Cannes Filmfestival",
+            "berlin": "Berlijn Filmfestival",
+            "venice": "Venetië Filmfestival",
+            "bafta": "BAFTA"
+        },
+        "countries": {
+            "title": "Landen",
+            "america": {
+                "title": "Amerika",
+                "regions": {
+                    "north_america": {
+                        "title": "Noord-Amerika",
+                        "countries": {
+                            "usa": "Verenigde Staten",
+                            "canada": "Canada",
+                            "mexico": "Mexico",
+                            "other_noa": "Overige"
+                        }
+                    },
+                    "south_america": {
+                        "title": "Zuid-Amerika",
+                        "countries": {
+                            "brazil": "Brazilië",
+                            "argentina": "Argentinië",
+                            "chile": "Chili",
+                            "other_soa": "Overige"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "Europa",
+                "regions": {
+                    "western_europe": {
+                        "title": "West-Europa",
+                        "countries": {
+                            "uk": "Verenigd Koninkrijk",
+                            "germany": "Duitsland",
+                            "ireland": "Ierland",
+                            "france": "Frankrijk",
+                            "other_wee": "Overige"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "Noord-Europa",
+                        "countries": {
+                            "denmark": "Denemarken",
+                            "norway": "Noorwegen",
+                            "finland": "Finland",
+                            "sweden": "Zweden",
+                            "other_noe": "Overige"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "Centraal-Europa",
+                        "countries": {
+                            "poland": "Polen",
+                            "czech": "Tsjechië",
+                            "hungary": "Hongarije",
+                            "other_cee": "Overige"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "Zuid-Europa",
+                        "countries": {
+                            "greece": "Griekenland",
+                            "spain": "Spanje",
+                            "italy": "Italië",
+                            "portugal": "Portugal",
+                            "other_soe": "Overige"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "Oost-Europa",
+                        "countries": {
+                            "ukraine": "Oekraïne",
+                            "romania": "Roemenië",
+                            "russia": "Rusland",
+                            "bulgaria": "Bulgarije",
+                            "other_eae": "Overige"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "Azië",
+                "regions": {
+                    "east_asia": {
+                        "title": "Oost-Azië",
+                        "countries": {
+                            "japan": "Japan",
+                            "korea": "Zuid-Korea",
+                            "china": "China",
+                            "other_eaa": "Overige"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "Zuidoost-Azië",
+                        "countries": {
+                            "thailand": "Thailand",
+                            "indonesia": "Indonesië",
+                            "other_soa": "Overige"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "Zuid-Azië",
+                        "countries": {
+                            "india": "India",
+                            "other_sua": "Overige"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "Centraal en West-Azië",
+                        "countries": {
+                            "turkey": "Turkije",
+                            "israel": "Israël",
+                            "iran": "Iran",
+                            "other_cwa": "Overige"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "Afrika",
+                "regions": {
+                    "all": {
+                        "title": "Alles",
+                        "countries": {
+                            "south_africa": "Zuid-Afrika",
+                            "egypt": "Egypte",
+                            "other_afr": "Overige"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "Selecteer Tags",
+            "motivational": "Motiverend",
+            "feel_good": "Goed gevoel",
+            "for_company": "Voor Gezelschap",
+            "based_on_books": "Gebaseerd op Boeken",
+            "family": "Familie",
+            "festive": "Feestelijk",
+            "musical": "Muzikaal",
+            "arthouse": "Arthouse",
+            "based_on_true_events": "Gebaseerd op Ware Gebeurtenissen"
+        },
+        "genres": {
+            "title": "Selecteer Genres & Subgenres",
+            "comedy": {
+                "title": "Komedie",
+                "subgenres": {
+                    "parody": "Parodie",
+                    "satire": "Satire",
+                    "dark_comedy": "Donkere Komedie"
+                }
+            },
+            "drama": {
+                "title": "Drama",
+                "subgenres": {
+                    "psychological": "Psychologisch",
+                    "social": "Sociaal",
+                    "legal": "Juridisch",
+                    "political": "Politiek",
+                    "philosophical": "Filosofisch",
+                    "religious": "Religieus",
+                    "spiritual": "Spiritueel",
+                    "melancholic": "Melancholisch"
+                }
+            },
+            "thriller": {
+                "title": "Thriller",
+                "subgenres": {
+                    "psychological": "Psychologisch",
+                    "crime": "Misdaad",
+                    "spy": "Spionage",
+                    "disaster": "Rampen",
+                    "legal": "Juridisch",
+                    "political": "Politiek"
+                }
+            },
+            "horror": {
+                "title": "Horror",
+                "subgenres": {
+                    "psychological": "Psychologisch",
+                    "slasher": "Slasher",
+                    "monsters": "Monsters",
+                    "zombies": "Zombies",
+                    "vampires": "Vampiers",
+                    "ghosts": "Geesten"
+                }
+            },
+            "sci_fi": {
+                "title": "Sciencefiction",
+                "subgenres": {
+                    "superheroes": "Superhelden",
+                    "parallel_worlds": "Parallelle Werelden",
+                    "alternate_history": "Alternatieve Geschiedenis",
+                    "post_apocalyptic": "Post-apocalyptisch"
+                }
+            },
+            "fantasy": {
+                "title": "Fantasie",
+                "subgenres": {
+                    "magical_realism": "Magisch Realisme",
+                    "fantasy_universe": "Fantasie Universum",
+                    "dark_fantasy": "Donkere Fantasie",
+                    "fairy_tales": "Sprookjes"
+                }
+            },
+            "action": {
+                "title": "Actie",
+                "subgenres": {
+                    "adrenaline": "Adrenaline",
+                    "fights": "Gevechten",
+                    "survival": "Overleven"
+                }
+            },
+            "romance": {
+                "title": "Romantiek",
+                "subgenres": {
+                    "romantic": "Romantisch",
+                    "teen": "Tiener",
+                    "light_romance": "Lichte Romantiek"
+                }
+            },
+            "adventure": {
+                "title": "Avontuur",
+                "subgenres": {
+                    "adventurism": "Avontuurlijkheid",
+                    "travel": "Reizen",
+                    "expeditions": "Expeditie",
+                    "road_movie": "Wegfilm"
+                }
+            },
+            "detective": {
+                "title": "Detective",
+                "subgenres": {
+                    "crime": "Misdaad",
+                    "detective": "Detective",
+                    "special_agents": "Speciale Agenten",
+                    "maniacs": "Maniakken"
+                }
+            },
+            "historical": {
+                "title": "Historisch",
+                "subgenres": {
+                    "ancient_world": "Oude Wereld",
+                    "middle_ages": "Middeleeuwen",
+                    "renaissance": "Renaissance",
+                    "victorian_era": "Victoriaanse Tijdperk"
+                }
+            },
+            "war": {
+                "title": "Oorlog",
+                "subgenres": {
+                    "world_war_i": "Eerste Wereldoorlog",
+                    "world_war_ii": "Tweede Wereldoorlog",
+                    "cold_war": "Koude Oorlog",
+                    "modern_warfare": "Moderne Oorlogsvoering",
+                    "anti_war": "Anti-Oorlog"
+                }
+            },
+            "science": {
+                "title": "Wetenschap",
+                "subgenres": {
+                    "technology": "Technologie",
+                    "space": "Ruimte",
+                    "research": "Onderzoek",
+                    "medicine": "Geneeskunde"
+                }
+            },
+            "animation": {
+                "title": "Animatie",
+                "subgenres": {
+                    "drawn": "Getekend",
+                    "computer": "Computer",
+                    "stop_motion": "Stop Motion",
+                    "anime": "Anime"
+                }
+            },
+            "western": {
+                "title": "Western",
+                "subgenres": {
+                    "classic": "Klassiek",
+                    "spaghetti_western": "Spaghetti Western",
+                    "contemporary": "Hedendaags"
+                }
+            },
+            "mystery": {
+                "title": "Mysterie",
+                "subgenres": {
+                    "paranormal": "Paranormaal",
+                    "supernatural": "Supernatuurlijk"
+                }
+            },
+            "ethnographic": {
+                "title": "Etnografisch",
+                "subgenres": {
+                    "myths": "Mythen",
+                    "legends": "Legendes",
+                    "culture": "Cultuur",
+                    "folklore": "Volksverhalen",
+                    "traditions": "Tradities",
+                    "ethnic_groups": "Etnische Groepen",
+                    "nature": "Natuur"
+                }
+            },
+            "biographical": {
+                "title": "Biografisch",
+                "subgenres": {
+                    "musicians": "Muzikanten",
+                    "politicians": "Politici",
+                    "athletes": "Atleten",
+                    "artists": "Artiesten",
+                    "scientists": "Wetenschappers",
+                    "businessmen": "Zakenmensen"
+                }
+            },
+            "sports": {
+                "title": "Sport",
+                "subgenres": {
+                    "racing": "Racen",
+                    "boxing": "Boksen",
+                    "martial_arts": "Vechtsporten"
+                }
+            }
+        },
+        "favorite": {
+            "add": "Toevoegen aan Mijn Lijst",
+            "remove": "Verwijderen van Mijn Lijst"
+        }
+    }
+}

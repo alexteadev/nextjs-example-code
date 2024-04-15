@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "映画",
+        "actors": "俳優",
+        "directors": "監督",
+        "my-lists": "マイリスト",
+        "about-us": "私たちについて",
+        "login": "ログイン",
+        "registration": "登録",
+        "my-profile": "マイプロフィール",
+        "logout": "ログアウト",
+        "validation": "検証"
+    },
+    "FooterNavigation": {
+        "slogan": "正しい映画を見る",
+        "terms-of-use": "利用規約",
+        "privacy-policy": "プライバシーポリシー",
+        "cookies-policy": "クッキーポリシー",
+        "about-us": "私たちについて",
+        "contact-us": "お問い合わせ"
+    },
+    "LocaleLayoutPage": {
+        "name": "FilmAdvise",
+        "title": "映画のおすすめ",
+        "description": "ジャンル、タグ、評価などのフィルターを使用して、映画を選択できます。"
+    },
+    "NotFoundPage": {
+        "title": "404：ページが見つかりません",
+        "description": "おっと！お探しのページは移動したか、存在しないようです。でも心配しないで、ホームページに戻るか、映画のレビューや最新ニュース、映画の魅力的な世界についてさらに詳しく知るためにサイトを探索できます。"
+    },
+    "LocaleSwitcher": {
+        "label": "言語を変更する",
+        "locale": "{locale, select, en {英語} fr {フランス語} es {スペイン語} de {ドイツ語} pt {ポルトガル語} it {イタリア語} nl {オランダ語} sv {スウェーデン語} no {ノルウェー語} da {デンマーク語} fi {フィンランド語} cs {チェコ語} pl {ポーランド語} uk {ウクライナ語} be {ベラルーシ語} et {エストニア語} lv {ラトビア語} lt {リトアニア語} ro {ルーマニア語} kk {カザフ語} ru {ロシア語} tr {トルコ語} he {ヘブライ語} ko {韓国語} ja {日本語} zh {中国語} hi {ヒンディー語} ar {アラビア語} id {インドネシア語} bg {ブルガリア語} ka {ジョージア語} el {ギリシャ語} other {不明}}",
+        "select-language": "言語を選択してください"
+    },
+    "ActorsPage": {
+        "title": "すべての俳優のリスト",
+        "note": "フィルターを使用して、ユニークな才能、役割の多様性、およびジャンルの専門化に注意して、俳優による映画を選択してください。"
+    },
+    "ActorPage": {
+        "title": "俳優ページについて",
+        "birthday": "誕生日",
+        "deathday": "死亡日",
+        "bplace": "出生地",
+        "biography": "伝記"
+    },
+    "DirectorsPage": {
+        "title": "すべての監督のリスト",
+        "note": "フィルターを使用して、独自のスタイル、作品の質、特定のテーマへの専門化を探索する監督による映画を選択してください。"
+    },
+    "DirectorPage": {
+        "title": "監督ページについて",
+        "birthday": "誕生日",
+        "deathday": "死亡日",
+        "bplace": "出生地",
+        "biography": "伝記"
+    },
+    "FilmPage": {
+        "title": "映画ページ",
+        "director": "監督",
+        "overview": "概要",
+        "release": "リリース",
+        "rating": "評価",
+        "genres": "ジャンル＆サブジャンル",
+        "tags": "タグ",
+        "character": "として",
+        "add": "マイリストに追加",
+        "remove": "マイリストから削除"
+    },
+    "SeriesPage": {
+        "title": "シリーズページ",
+        "director": "監督",
+        "overview": "概要",
+        "release": "リリース",
+        "rating": "評価",
+        "genres": "ジャンル＆サブジャンル",
+        "tags": "タグ",
+        "character": "として",
+        "seasons": "シーズン",
+        "number_of_seasons": "シーズン数",
+        "add": "マイリストに追加",
+        "remove": "マイリストから削除"
+    },
+    "MyListPage": {
+        "title": "マイリスト",
+        "note": "お気に入りの映画やテレビ番組を追加するには",
+        "or": "または",
+        "login": "ログイン",
+        "registration": "登録"
+    },
+    "AboutUsPage": {
+        "title": "FilmAdviseへようこそ！",
+        "contact": "ご提案、質問、苦情がある場合は、",
+        "contact-us": "お問い合わせください",
+        "text": {
+            "part1": "FilmAdviseウェブサイトでは、これまでにない映画とシリーズの選択方法を提供しています。私たちのプラットフォームは、映画を価値あるものと考え、無限の選択肢の中で迷わずに見るための完璧な映画を見つけたい人々のために作られています。映画を選ぶことの重要性を理解しています。映画の選択基準は、ジャンルやサブジャンル、タグ、評価、製作年、映画の行動が起こる時代、受賞歴、年齢制限などの一意のセットに基づいています。",
+            "part2": "私たちのサイトでは、各選択基準の詳細な説明が提供されており、コメディから伝記映画までの完全なジャンルおよびサブジャンルのリストから始まり、先史時代から現代までの出来事の時代まで終わります。映画の選択肢には、モチベーション、気分の良い、会社用などのタグに特に注意が払われており、自分の気分や状況に完璧に一致する映画を選択できます。サイトの重要な特徴は、5から始まる映画の評価であり、質の低い作品を除外し、最良の選択肢のみを提供します。",
+            "part3": "さらに、FilmAdviseは、有名な監督や俳優による映画を平均評価、映画の数、受賞歴などを考慮して選択するユニークな機会を提供しています。これにより、特定の作家のファンが高品質基準と興味に合う作品を簡単に見つけることができます。",
+            "part4": "FilmAdviseでは、サイトで直接映画を視聴するオプションはありませんが、他のプラットフォームや映画館で視聴できるシネマ作品を選択するための最も包括的で詳細なツールを提供します。私たちの使命は、映画の選択プロセスを簡素化し、あなたに本当に新しい発見となる映画を見つけるために必要なすべてのツールを提供することです。毎日何十もの新しい映画やシリーズが出る世界で、FilmAdviseは、シネマの世界で本当の宝石を見つけるのに役立つ信頼できるガイドです。"
+        }
+    },
+    "TermsPage": {
+        "title": "ウェブサイトの利用規約"
+    },
+    "PrivacyPage": {
+        "title": "プライバシーポリシー"
+    },
+    "CookiePage": {
+        "title": "クッキーポリシー"
+    },
+    "ContactUsPage": {
+        "title": "お問い合わせ",
+        "note": "データや翻訳のエラーをお知らせいただくか、ご提案、質問、苦情をお送りいただけます",
+        "name": "名前",
+        "email": "電子メール",
+        "text": "メッセージ",
+        "send": "送信"
+    },
+    "LoginPage": {
+        "title": "ログイン",
+        "note": "お気に入りの映画を保存し、将来の視聴のための個人のウォッチリストを作成するためにアカウントにログインします",
+        "no-account": "アカウントを持っていませんか？",
+        "registration": "登録",
+        "forgot-password": "パスワードを忘れた場合は、",
+        "recover": "回復する",
+        "email": "電子メール",
+        "password": "パスワード",
+        "send": "ログイン"
+    },
+    "RegistrationPage": {
+        "title": "登録",
+        "note": "FilmAdviseに登録して、将来の視聴のための好きな映画のリストを作成する機能をアンロックします",
+        "name": "名前",
+        "email": "電子メール",
+        "password": "パスワード",
+        "password-repeat": "パスワードの再入力",
+        "send": "登録"
+    },
+    "RecoverPage": {
+        "title": "パスワードの回復",
+        "note": "パスワードを忘れた場合は、それを回復することができます。これには、電子メールを提供する必要があります。その後、メールで新しいパスワードを送信します。その後、個人のアカウントで変更できます。",
+        "email": "電子メール",
+        "send": "回復"
+    },
+    "ValidationPage": {
+        "title": "検証",
+        "ok": "電子メールの確認が成功しました。お楽しみください！",
+        "error": "電子メールの確認に失敗しました。もう一度登録プロセスを行ってください。"
+    },
+    "MyProfilePage": {
+        "title": "マイプロフィール",
+        "title-ava": "アバターを選択",
+        "ava-color": "アバターカラー",
+        "ava-img": "アバター画像",
+        "email": "メール",
+        "title-password": "パスワード変更",
+        "password-current": "現在のパスワードを入力",
+        "password-new": "新しいパスワードを入力",
+        "password-success": "パスワードが正常に変更されました",
+        "password-error": "現在のパスワードが一致しません",
+        "title-name": "名前",
+        "send": "更新",
+        "emailUpdatedSuccess": "メールが正常に更新されました",
+        "emailUpdateError": "メールの更新に失敗しました",
+        "usernameUpdatedSuccess": "ユーザー名が正常に更新されました",
+        "usernameUpdateError": "ユーザー名の更新に失敗しました",
+        "passwordChangedSuccess": "パスワードが正常に変更されました",
+        "passwordChangeError": "パスワードの変更に失敗しました"
+    },
+    "MainPage": {
+        "title": "メインページ",
+        "warning": "サイトはデモモードです。一部のデータが不完全です",
+        "warningM": "サイトはデモモードです。一部のデータが不完全です（マークされています）",
+        "ShowButton": "映画を表示",
+        "FilmFilter": {
+            "title": "映画フィルター"
+        },
+        "GenresFilter": {
+            "title": "ジャンルフィルター"
+        },
+        "AdditionalFilter": {
+            "title": "追加のフィルター"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "並べ替え",
+            "rating": "評価",
+            "year": "年",
+            "count": "カウント"
+        },
+        "pagenav": {
+            "title": "ページナビゲーション"
+        },
+        "typeformat": {
+            "title": "タイプ",
+            "film": "映画",
+            "series": "シリーズ"
+        },
+        "rating": {
+            "title": "評価",
+            "from": "から",
+            "to": "まで"
+        },
+        "filmcount": {
+            "title": "映画数",
+            "from": "から",
+            "to": "まで"
+        },
+        "directors": {
+            "awards": "受賞",
+            "films": "映画数",
+            "rating": "平均評価"
+        },
+        "type": {
+            "title": "タイプ",
+            "movie": "映画",
+            "series": "シリーズ"
+        },
+        "release_year": {
+            "title": "リリース年",
+            "from": "から",
+            "to": "まで",
+            "not_released_yet": "未公開"
+        },
+        "event_era": {
+            "title": "イベント時代",
+            "from": "から",
+            "to": "まで",
+            "undefined": "設定されていない",
+            "titlePresent": "現代",
+            "prehistory": "先史時代（紀元前3000年以前）",
+            "ancient_world": "古代（紀元前3000年 - 西暦500年）",
+            "early_middle_ages": "中世初期（500年 - 1000年）",
+            "high_middle_ages": "中世盛期（1000年 - 1300年）",
+            "late_middle_ages": "中世後期（1300年 - 1500年）",
+            "renaissance": "ルネサンス（1500年 - 1600年）",
+            "baroque_period": "バロック期（1600年 - 1700年）",
+            "enlightenment": "啓蒙時代（1700年 - 1800年）",
+            "industrial_revolution": "産業革命（1800年 - 1850年）",
+            "victorian_era": "ヴィクトリア時代（1850年 - 1900年）",
+            "early_20th_century": "20世紀初頭（1900年 - 1930年）",
+            "mid_20th_century_pre_ww2": "第二次世界大戦前（1930年 - 1940年）",
+            "mid_20th_century": "20世紀中期（1940年 - 1950年）",
+            "late_1950s": "1950年代後半（1950年 - 1960年）",
+            "early_1960s": "1960年代初頭（1960年 - 1970年）",
+            "the_1970s": "1970年代（1970年 - 1980年）",
+            "the_1980s": "1980年代（1980年 - 1990年）",
+            "late_20th_century": "20世紀後半（1990年 - 2000年）",
+            "early_21st_century": "21世紀初頭（2000年 - 2010年）",
+            "the_2010s": "2010年代（2010年 - 現在）"
+        },
+        "age_rating": {
+            "title": "年齢制限",
+            "full": {
+                "G": "G：一般向け",
+                "PG": "PG：保護者同伴推奨",
+                "PG13": "PG 13：保護者強制",
+                "R": "R：制限付き",
+                "NC17": "NC 17：成人のみ"
+            },
+            "short": {
+                "G": "G",
+                "PG": "PG",
+                "PG13": "PG 13",
+                "R": "R",
+                "NC17": "NC 17"
+            }
+        },
+        "awards": {
+            "title": "受賞",
+            "oscar": "オスカー",
+            "golden_globe": "ゴールデングローブ",
+            "cannes": "カンヌ映画祭",
+            "berlin": "ベルリン映画祭",
+            "venice": "ヴェネツィア映画祭",
+            "bafta": "BAFTA"
+        },
+        "countries": {
+            "title": "国",
+            "america": {
+                "title": "アメリカ",
+                "regions": {
+                    "north_america": {
+                        "title": "北アメリカ",
+                        "countries": {
+                            "usa": "アメリカ合衆国",
+                            "canada": "カナダ",
+                            "mexico": "メキシコ",
+                            "other_noa": "その他"
+                        }
+                    },
+                    "south_america": {
+                        "title": "南アメリカ",
+                        "countries": {
+                            "brazil": "ブラジル",
+                            "argentina": "アルゼンチン",
+                            "chile": "チリ",
+                            "other_soa": "その他"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "ヨーロッパ",
+                "regions": {
+                    "western_europe": {
+                        "title": "西ヨーロッパ",
+                        "countries": {
+                            "uk": "イギリス",
+                            "germany": "ドイツ",
+                            "ireland": "アイルランド",
+                            "france": "フランス",
+                            "other_wee": "その他"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "北ヨーロッパ",
+                        "countries": {
+                            "denmark": "デンマーク",
+                            "norway": "ノルウェー",
+                            "finland": "フィンランド",
+                            "sweden": "スウェーデン",
+                            "other_noe": "その他"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "中央ヨーロッパ",
+                        "countries": {
+                            "poland": "ポーランド",
+                            "czech": "チェコ共和国",
+                            "hungary": "ハンガリー",
+                            "other_cee": "その他"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "南ヨーロッパ",
+                        "countries": {
+                            "greece": "ギリシャ",
+                            "spain": "スペイン",
+                            "italy": "イタリア",
+                            "portugal": "ポルトガル",
+                            "other_soe": "その他"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "東ヨーロッパ",
+                        "countries": {
+                            "ukraine": "ウクライナ",
+                            "romania": "ルーマニア",
+                            "russia": "ロシア",
+                            "bulgaria": "ブルガリア",
+                            "other_eae": "その他"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "アジア",
+                "regions": {
+                    "east_asia": {
+                        "title": "東アジア",
+                        "countries": {
+                            "japan": "日本",
+                            "korea": "韓国",
+                            "china": "中国",
+                            "other_eaa": "その他"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "東南アジア",
+                        "countries": {
+                            "thailand": "タイ",
+                            "indonesia": "インドネシア",
+                            "other_soa": "その他"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "南アジア",
+                        "countries": {
+                            "india": "インド",
+                            "other_sua": "その他"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "中央および西アジア",
+                        "countries": {
+                            "turkey": "トルコ",
+                            "israel": "イスラエル",
+                            "iran": "イラン",
+                            "other_cwa": "その他"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "アフリカ",
+                "regions": {
+                    "all": {
+                        "title": "すべて",
+                        "countries": {
+                            "south_africa": "南アフリカ",
+                            "egypt": "エジプト",
+                            "other_afr": "その他"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "タグを選択",
+            "motivational": "モチベーション",
+            "feel_good": "気分が良い",
+            "for_company": "社交的",
+            "based_on_books": "原作本に基づく",
+            "family": "ファミリー",
+            "festive": "祝祭",
+            "musical": "ミュージカル",
+            "arthouse": "アートハウス",
+            "based_on_true_events": "実話に基づく"
+        },
+        "genres": {
+            "title": "ジャンル＆サブジャンルを選択",
+            "comedy": {
+                "title": "コメディ",
+                "subgenres": {
+                    "parody": "パロディ",
+                    "satire": "風刺",
+                    "dark_comedy": "ブラックコメディ"
+                }
+            },
+            "drama": {
+                "title": "ドラマ",
+                "subgenres": {
+                    "psychological": "心理的",
+                    "social": "社会的",
+                    "legal": "法的",
+                    "political": "政治的",
+                    "philosophical": "哲学的",
+                    "religious": "宗教的",
+                    "spiritual": "精神的",
+                    "melancholic": "メランコリック"
+                }
+            },
+            "thriller": {
+                "title": "スリラー",
+                "subgenres": {
+                    "psychological": "心理的",
+                    "crime": "犯罪",
+                    "spy": "スパイ",
+                    "disaster": "災害",
+                    "legal": "法的",
+                    "political": "政治的"
+                }
+            },
+            "horror": {
+                "title": "ホラー",
+                "subgenres": {
+                    "psychological": "心理的",
+                    "slasher": "スラッシャー",
+                    "monsters": "モンスター",
+                    "zombies": "ゾンビ",
+                    "vampires": "ヴァンパイア",
+                    "ghosts": "幽霊"
+                }
+            },
+            "sci_fi": {
+                "title": "SF",
+                "subgenres": {
+                    "superheroes": "スーパーヒーロー",
+                    "parallel_worlds": "平行世界",
+                    "alternate_history": "オルタナティブヒストリー",
+                    "post_apocalyptic": "ポストアポカリプス"
+                }
+            },
+            "fantasy": {
+                "title": "ファンタジー",
+                "subgenres": {
+                    "magical_realism": "マジカルリアリズム",
+                    "fantasy_universe": "ファンタジーの世界",
+                    "dark_fantasy": "ダークファンタジー",
+                    "fairy_tales": "童話"
+                }
+            },
+            "action": {
+                "title": "アクション",
+                "subgenres": {
+                    "adrenaline": "アドレナリン",
+                    "fights": "戦闘",
+                    "survival": "サバイバル"
+                }
+            },
+            "romance": {
+                "title": "ロマンス",
+                "subgenres": {
+                    "romantic": "ロマンティック",
+                    "teen": "ティーン",
+                    "light_romance": "ライトロマンス"
+                }
+            },
+            "adventure": {
+                "title": "冒険",
+                "subgenres": {
+                    "adventurism": "冒険心",
+                    "travel": "旅行",
+                    "expeditions": "探検",
+                    "road_movie": "ロードムービー"
+                }
+            },
+            "detective": {
+                "title": "探偵",
+                "subgenres": {
+                    "crime": "犯罪",
+                    "detective": "探偵",
+                    "special_agents": "特別捜査官",
+                    "maniacs": "マニアック"
+                }
+            },
+            "historical": {
+                "title": "歴史",
+                "subgenres": {
+                    "ancient_world": "古代世界",
+                    "middle_ages": "中世",
+                    "renaissance": "ルネサンス",
+                    "victorian_era": "ヴィクトリア時代"
+                }
+            },
+            "war": {
+                "title": "戦争",
+                "subgenres": {
+                    "world_war_i": "第一次世界大戦",
+                    "world_war_ii": "第二次世界大戦",
+                    "cold_war": "冷戦",
+                    "modern_warfare": "現代戦争",
+                    "anti_war": "反戦"
+                }
+            },
+            "science": {
+                "title": "科学",
+                "subgenres": {
+                    "technology": "技術",
+                    "space": "宇宙",
+                    "research": "研究",
+                    "medicine": "医学"
+                }
+            },
+            "animation": {
+                "title": "アニメーション",
+                "subgenres": {
+                    "drawn": "描かれた",
+                    "computer": "コンピューター",
+                    "stop_motion": "ストップモーション",
+                    "anime": "アニメ"
+                }
+            },
+            "western": {
+                "title": "西部劇",
+                "subgenres": {
+                    "classic": "クラシック",
+                    "spaghetti_western": "スパゲッティウェスタン",
+                    "contemporary": "現代"
+                }
+            },
+            "mystery": {
+                "title": "ミステリー",
+                "subgenres": {
+                    "paranormal": "超常現象",
+                    "supernatural": "超自然的"
+                }
+            },
+            "ethnographic": {
+                "title": "民族学",
+                "subgenres": {
+                    "myths": "神話",
+                    "legends": "伝説",
+                    "culture": "文化",
+                    "folklore": "民間伝承",
+                    "traditions": "伝統",
+                    "ethnic_groups": "民族",
+                    "nature": "自然"
+                }
+            },
+            "biographical": {
+                "title": "伝記",
+                "subgenres": {
+                    "musicians": "音楽家",
+                    "politicians": "政治家",
+                    "athletes": "アスリート",
+                    "artists": "芸術家",
+                    "scientists": "科学者",
+                    "businessmen": "実業家"
+                }
+            },
+            "sports": {
+                "title": "スポーツ",
+                "subgenres": {
+                    "racing": "レース",
+                    "boxing": "ボクシング",
+                    "martial_arts": "武道"
+                }
+            }
+        },
+        "favorite": {
+            "add": "マイリストに追加",
+            "remove": "マイリストから削除"
+        }
+    }
+}

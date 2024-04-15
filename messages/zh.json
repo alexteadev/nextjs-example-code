@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "电影",
+        "actors": "演员",
+        "directors": "导演",
+        "my-lists": "我的清单",
+        "about-us": "关于我们",
+        "login": "登录",
+        "registration": "注册",
+        "my-profile": "我的资料",
+        "logout": "登出",
+        "validation": "验证"
+    },
+    "FooterNavigation": {
+        "slogan": "观看正确的电影",
+        "terms-of-use": "使用条款",
+        "privacy-policy": "隐私政策",
+        "cookies-policy": "Cookie政策",
+        "about-us": "关于我们",
+        "contact-us": "联系我们"
+    },
+    "LocaleLayoutPage": {
+        "name": "电影建议",
+        "title": "电影推荐",
+        "description": "通过使用流派、标签、评分和许多其他参数进行筛选，您将能够选择要观看的电影"
+    },
+    "NotFoundPage": {
+        "title": "404：页面未找到",
+        "description": "糟糕！看起来您正在尝试访问的页面已经移动或不存在。但是别担心，您可以返回我们的主页或者探索我们的网站，找到电影评论、最新新闻，以及更多有关电影世界的迷人内容。"
+    },
+    "LocaleSwitcher": {
+        "label": "更改语言",
+        "locale": "{locale, select, en {英语} fr {法语} es {西班牙语} de {德语} pt {葡萄牙语} it {意大利语} nl {荷兰语} sv {瑞典语} no {挪威语} da {丹麦语} fi {芬兰语} cs {捷克语} pl {波兰语} uk {乌克兰语} be {白俄罗斯语} et {爱沙尼亚语} lv {拉脱维亚语} lt {立陶宛语} ro {罗马尼亚语} kk {哈萨克语} ru {俄语} tr {土耳其语} he {希伯来语} ko {韩语} ja {日语} zh {中文} hi {印地语} ar {阿拉伯语} id {印度尼西亚语} bg {保加利亚语} ka {格鲁吉亚语} el {希腊语} other {未知}}",
+        "select-language": "选择您的语言"
+    },
+    "ActorsPage": {
+        "title": "所有演员列表",
+        "note": "通过演员选择电影，考虑他们独特的才华、角色的多样性和流派专业化，使用过滤器"
+    },
+    "ActorPage": {
+        "title": "关于演员页面",
+        "birthday": "生日",
+        "deathday": "去世日期",
+        "bplace": "出生地",
+        "biography": "传记"
+    },
+    "DirectorsPage": {
+        "title": "所有导演列表",
+        "note": "通过导演选择电影，探索他们独特的风格、工作质量和特定主题的专业化，使用过滤器"
+    },
+    "DirectorPage": {
+        "title": "关于导演页面",
+        "birthday": "生日",
+        "deathday": "去世日期",
+        "bplace": "出生地",
+        "biography": "传记"
+    },
+    "FilmPage": {
+        "title": "电影页面",
+        "director": "导演",
+        "overview": "概述",
+        "release": "发行",
+        "rating": "评分",
+        "genres": "流派和子流派",
+        "tags": "标签",
+        "character": "作为",
+        "add": "添加到我的清单",
+        "remove": "从我的清单中删除"
+    },
+    "SeriesPage": {
+        "title": "系列页面",
+        "director": "导演",
+        "overview": "概述",
+        "release": "发行",
+        "rating": "评分",
+        "genres": "流派和子流派",
+        "tags": "标签",
+        "character": "作为",
+        "seasons": "季数",
+        "number_of_seasons": "季节数",
+        "add": "添加到我的清单",
+        "remove": "从我的清单中删除"
+    },
+    "MyListPage": {
+        "title": "我的清单",
+        "note": "要添加电影或电视节目到收藏夹，请",
+        "or": "或者",
+        "login": "登录",
+        "registration": "注册"
+    },
+    "AboutUsPage": {
+        "title": "欢迎来到电影建议！",
+        "contact": "如果您有任何建议、问题或投诉，您可以",
+        "contact-us": "与我们联系",
+        "text": {
+            "part1": "在电影建议网站上，我们提供了一种与以往任何内容都不同的选择电影和系列的独特方法。我们的平台是为那些重视电影并希望找到完美的电影作品进行观看的人创建的，而不会在无尽的选择中迷失方向。我们理解找到符合您的心情、兴趣和偏好的电影是多么重要。这就是为什么电影建议专门根据一套独特的标准选择电影：流派和子流派、标签、评分、发行年份、制作国家、电影行为发生的时代、奖项和年龄限制。",
+            "part2": "我们的网站提供了每个选择标准的详细描述，从完整的流派和子流派列表——从喜剧到传记片，以及从史前时期到现代的事件时代。我们特别关注标签，例如激励、感觉良好、适合陪伴等等，因此您可以选择完全符合您心情或情境的电影。我们网站的一个重要特征是电影评分，从5分开始，排除质量较低的作品，确保您只得到最佳选择。",
+            "part3": "此外，电影建议还提供了通过知名导演和演员选择电影的独特机会，考虑到所有他们电影的平均评分、电影数量和奖项。这使得某些创作者的粉丝能够轻松找到符合高质量标准和兴趣的作品。",
+            "part4": "在电影建议，您不会找到在网站上直接观看电影的选项，但您将获得最全面和详细的选择电影工具，然后可以在其他平台或电影院观看。我们的使命是通过为您提供所有必要的工具来简化选择过程，以找到对您来说是真正发现的电影。在每天涌现出数十部新电影和系列的世界中，电影建议是您在电影世界中的可靠向导，帮助您在庞大的电影作品多样性中找到真正的宝藏。"
+        }
+    },
+    "TermsPage": {
+        "title": "网站使用条款"
+    },
+    "PrivacyPage": {
+        "title": "隐私政策"
+    },
+    "CookiePage": {
+        "title": "Cookie政策"
+    },
+    "ContactUsPage": {
+        "title": "联系我们",
+        "note": "您可以向我们发送您的建议、问题、投诉或通知我们有关数据或翻译错误",
+        "name": "姓名",
+        "email": "电子邮件",
+        "text": "消息",
+        "send": "发送"
+    },
+    "LoginPage": {
+        "title": "登录",
+        "note": "登录您的账户，保存您喜欢的电影，并为将来观看创建个人观看清单",
+        "no-account": "没有账户？",
+        "registration": "注册",
+        "forgot-password": "如果您忘记了密码，您可以",
+        "recover": "找回它",
+        "email": "电子邮件",
+        "password": "密码",
+        "send": "登录"
+    },
+    "RegistrationPage": {
+        "title": "注册",
+        "note": "在电影建议上注册，解锁编译喜欢电影列表的能力，以供将来观看",
+        "name": "姓名",
+        "email": "电子邮件",
+        "password": "密码",
+        "password-repeat": "重复密码",
+        "send": "注册"
+    },
+    "RecoverPage": {
+        "title": "找回密码",
+        "note": "如果您忘记了密码，您可以找回它。为此，您需要提供您的电子邮件，我们将通过邮件向您发送一个新密码。然后您可以在个人帐户中更改它",
+        "email": "电子邮件",
+        "send": "找回"
+    },
+    "ValidationPage": {
+        "title": "验证",
+        "ok": "邮箱验证成功，请享受您的体验！",
+        "error": "邮箱验证失败，请重新进行注册流程"
+    },
+    "MyProfilePage": {
+        "title": "我的资料",
+        "title-ava": "选择您的头像",
+        "ava-color": "头像颜色",
+        "ava-img": "头像图片",
+        "email": "邮箱",
+        "title-password": "修改密码",
+        "password-current": "输入当前密码",
+        "password-new": "输入新密码",
+        "password-success": "密码修改成功",
+        "password-error": "当前密码不匹配",
+        "title-name": "姓名",
+        "send": "更新",
+        "emailUpdatedSuccess": "邮箱更新成功",
+        "emailUpdateError": "邮箱更新失败",
+        "usernameUpdatedSuccess": "用户名更新成功",
+        "usernameUpdateError": "用户名更新失败",
+        "passwordChangedSuccess": "密码修改成功",
+        "passwordChangeError": "密码修改失败"
+    },
+    "MainPage": {
+        "title": "主页",
+        "warning": "该网站处于演示模式，部分数据不完整",
+        "warningM": "该网站处于演示模式，部分数据不完整（已标记）",
+        "ShowButton": "显示电影",
+        "FilmFilter": {
+            "title": "电影过滤"
+        },
+        "GenresFilter": {
+            "title": "流派过滤"
+        },
+        "AdditionalFilter": {
+            "title": "其他过滤器"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "排序方式",
+            "rating": "评分",
+            "year": "年份",
+            "count": "数量"
+        },
+        "pagenav": {
+            "title": "页面导航"
+        },
+        "typeformat": {
+            "title": "类型",
+            "film": "电影",
+            "series": "系列"
+        },
+        "rating": {
+            "title": "评分",
+            "from": "从",
+            "to": "到"
+        },
+        "filmcount": {
+            "title": "电影数量",
+            "from": "从",
+            "to": "到"
+        },
+        "directors": {
+            "awards": "奖项",
+            "films": "电影数量",
+            "rating": "平均评分"
+        },
+        "type": {
+            "title": "类型",
+            "movie": "电影",
+            "series": "系列"
+        },
+        "release_year": {
+            "title": "发行年份",
+            "from": "从",
+            "to": "到",
+            "not_released_yet": "尚未发布"
+        },
+        "event_era": {
+            "title": "事件时代",
+            "from": "从",
+            "to": "到",
+            "undefined": "未设置",
+            "titlePresent": "现代",
+            "prehistory": "史前时期（公元前3000年前）",
+            "ancient_world": "古代世界（公元前3000年 - 公元500年）",
+            "early_middle_ages": "早期中世纪（公元500年 - 1000年）",
+            "high_middle_ages": "中世纪（公元1000年 - 1300年）",
+            "late_middle_ages": "晚期中世纪（公元1300年 - 1500年）",
+            "renaissance": "文艺复兴时期（公元1500年 - 1600年）",
+            "baroque_period": "巴洛克时期（公元1600年 - 1700年）",
+            "enlightenment": "启蒙运动时期（公元1700年 - 1800年）",
+            "industrial_revolution": "工业革命时期（公元1800年 - 1850年）",
+            "victorian_era": "维多利亚时代（公元1850年 - 1900年）",
+            "early_20th_century": "20世纪初期（公元1900年 - 1930年）",
+            "mid_20th_century_pre_ww2": "二战前期（公元1930年 - 1940年）",
+            "mid_20th_century": "20世纪中期（公元1940年 - 1950年）",
+            "late_1950s": "1950年代末期（公元1950年 - 1960年）",
+            "early_1960s": "1960年代初期（公元1960年 - 1970年）",
+            "the_1970s": "1970年代（公元1970年 - 1980年）",
+            "the_1980s": "1980年代（公元1980年 - 1990年）",
+            "late_20th_century": "20世纪末期（公元1990年 - 2000年）",
+            "early_21st_century": "21世纪初期（公元2000年 - 2010年）",
+            "the_2010s": "2010年代（公元2010年 - 至今）"
+        },
+        "age_rating": {
+            "title": "年龄评级",
+            "full": {
+                "G": "G：普通观众",
+                "PG": "PG：家长指导建议",
+                "PG13": "PG 13：父母强烈建议",
+                "R": "R：受限制",
+                "NC17": "NC 17：仅限成人"
+            },
+            "short": {
+                "G": "G",
+                "PG": "PG",
+                "PG13": "PG 13",
+                "R": "R",
+                "NC17": "NC 17"
+            }
+        },
+        "awards": {
+            "title": "奖项",
+            "oscar": "奥斯卡",
+            "golden_globe": "金球奖",
+            "cannes": "戛纳电影节",
+            "berlin": "柏林电影节",
+            "venice": "威尼斯电影节",
+            "bafta": "英国电影学院奖"
+        },
+        "countries": {
+            "title": "国家",
+            "america": {
+                "title": "美洲",
+                "regions": {
+                    "north_america": {
+                        "title": "北美洲",
+                        "countries": {
+                            "usa": "美国",
+                            "canada": "加拿大",
+                            "mexico": "墨西哥",
+                            "other_noa": "其他"
+                        }
+                    },
+                    "south_america": {
+                        "title": "南美洲",
+                        "countries": {
+                            "brazil": "巴西",
+                            "argentina": "阿根廷",
+                            "chile": "智利",
+                            "other_soa": "其他"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "欧洲",
+                "regions": {
+                    "western_europe": {
+                        "title": "西欧",
+                        "countries": {
+                            "uk": "英国",
+                            "germany": "德国",
+                            "ireland": "爱尔兰",
+                            "france": "法国",
+                            "other_wee": "其他"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "北欧",
+                        "countries": {
+                            "denmark": "丹麦",
+                            "norway": "挪威",
+                            "finland": "芬兰",
+                            "sweden": "瑞典",
+                            "other_noe": "其他"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "中欧",
+                        "countries": {
+                            "poland": "波兰",
+                            "czech": "捷克共和国",
+                            "hungary": "匈牙利",
+                            "other_cee": "其他"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "南欧",
+                        "countries": {
+                            "greece": "希腊",
+                            "spain": "西班牙",
+                            "italy": "意大利",
+                            "portugal": "葡萄牙",
+                            "other_soe": "其他"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "东欧",
+                        "countries": {
+                            "ukraine": "乌克兰",
+                            "romania": "罗马尼亚",
+                            "russia": "俄罗斯",
+                            "bulgaria": "保加利亚",
+                            "other_eae": "其他"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "亚洲",
+                "regions": {
+                    "east_asia": {
+                        "title": "东亚",
+                        "countries": {
+                            "japan": "日本",
+                            "korea": "韩国",
+                            "china": "中国",
+                            "other_eaa": "其他"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "东南亚",
+                        "countries": {
+                            "thailand": "泰国",
+                            "indonesia": "印度尼西亚",
+                            "other_soa": "其他"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "南亚",
+                        "countries": {
+                            "india": "印度",
+                            "other_sua": "其他"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "中亚和西亚",
+                        "countries": {
+                            "turkey": "土耳其",
+                            "israel": "以色列",
+                            "iran": "伊朗",
+                            "other_cwa": "其他"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "非洲",
+                "regions": {
+                    "all": {
+                        "title": "全部",
+                        "countries": {
+                            "south_africa": "南非",
+                            "egypt": "埃及",
+                            "other_afr": "其他"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "选择标签",
+            "motivational": "激励",
+            "feel_good": "让人感觉良好",
+            "for_company": "陪伴",
+            "based_on_books": "改编自书籍",
+            "family": "家庭",
+            "festive": "节日",
+            "musical": "音乐",
+            "arthouse": "艺术",
+            "based_on_true_events": "根据真实事件"
+        },
+        "genres": {
+            "title": "选择类型和子类型",
+            "comedy": {
+                "title": "喜剧",
+                "subgenres": {
+                    "parody": "模仿",
+                    "satire": "讽刺",
+                    "dark_comedy": "黑色喜剧"
+                }
+            },
+            "drama": {
+                "title": "戏剧",
+                "subgenres": {
+                    "psychological": "心理",
+                    "social": "社会",
+                    "legal": "法律",
+                    "political": "政治",
+                    "philosophical": "哲学",
+                    "religious": "宗教",
+                    "spiritual": "精神",
+                    "melancholic": "忧郁"
+                }
+            },
+            "thriller": {
+                "title": "惊悚",
+                "subgenres": {
+                    "psychological": "心理",
+                    "crime": "犯罪",
+                    "spy": "间谍",
+                    "disaster": "灾难",
+                    "legal": "法律",
+                    "political": "政治"
+                }
+            },
+            "horror": {
+                "title": "恐怖",
+                "subgenres": {
+                    "psychological": "心理",
+                    "slasher": "杀人",
+                    "monsters": "怪物",
+                    "zombies": "僵尸",
+                    "vampires": "吸血鬼",
+                    "ghosts": "幽灵"
+                }
+            },
+            "sci_fi": {
+                "title": "科幻",
+                "subgenres": {
+                    "superheroes": "超级英雄",
+                    "parallel_worlds": "平行世界",
+                    "alternate_history": "另类历史",
+                    "post_apocalyptic": "末日后"
+                }
+            },
+            "fantasy": {
+                "title": "奇幻",
+                "subgenres": {
+                    "magical_realism": "魔幻现实主义",
+                    "fantasy_universe": "幻想宇宙",
+                    "dark_fantasy": "黑暗奇幻",
+                    "fairy_tales": "童话故事"
+                }
+            },
+            "action": {
+                "title": "动作",
+                "subgenres": {
+                    "adrenaline": "肾上腺素",
+                    "fights": "搏斗",
+                    "survival": "生存"
+                }
+            },
+            "romance": {
+                "title": "浪漫",
+                "subgenres": {
+                    "romantic": "浪漫",
+                    "teen": "青少年",
+                    "light_romance": "轻松浪漫"
+                }
+            },
+            "adventure": {
+                "title": "冒险",
+                "subgenres": {
+                    "adventurism": "冒险精神",
+                    "travel": "旅行",
+                    "expeditions": "远征",
+                    "road_movie": "公路电影"
+                }
+            },
+            "detective": {
+                "title": "侦探",
+                "subgenres": {
+                    "crime": "犯罪",
+                    "detective": "侦探",
+                    "special_agents": "特工",
+                    "maniacs": "狂人"
+                }
+            },
+            "historical": {
+                "title": "历史",
+                "subgenres": {
+                    "ancient_world": "古代世界",
+                    "middle_ages": "中世纪",
+                    "renaissance": "文艺复兴",
+                    "victorian_era": "维多利亚时代"
+                }
+            },
+            "war": {
+                "title": "战争",
+                "subgenres": {
+                    "world_war_i": "第一次世界大战",
+                    "world_war_ii": "第二次世界大战",
+                    "cold_war": "冷战",
+                    "modern_warfare": "现代战争",
+                    "anti_war": "反战"
+                }
+            },
+            "science": {
+                "title": "科学",
+                "subgenres": {
+                    "technology": "技术",
+                    "space": "太空",
+                    "research": "研究",
+                    "medicine": "医学"
+                }
+            },
+            "animation": {
+                "title": "动画",
+                "subgenres": {
+                    "drawn": "手绘",
+                    "computer": "电脑",
+                    "stop_motion": "定格动画",
+                    "anime": "动漫"
+                }
+            },
+            "western": {
+                "title": "西部",
+                "subgenres": {
+                    "classic": "经典",
+                    "spaghetti_western": "西部面条",
+                    "contemporary": "现代"
+                }
+            },
+            "mystery": {
+                "title": "神秘",
+                "subgenres": {
+                    "paranormal": "超自然",
+                    "supernatural": "神秘"
+                }
+            },
+            "ethnographic": {
+                "title": "民族学",
+                "subgenres": {
+                    "myths": "神话",
+                    "legends": "传说",
+                    "culture": "文化",
+                    "folklore": "民俗",
+                    "traditions": "传统",
+                    "ethnic_groups": "族群",
+                    "nature": "自然"
+                }
+            },
+            "biographical": {
+                "title": "传记",
+                "subgenres": {
+                    "musicians": "音乐家",
+                    "politicians": "政治家",
+                    "athletes": "运动员",
+                    "artists": "艺术家",
+                    "scientists": "科学家",
+                    "businessmen": "商人"
+                }
+            },
+            "sports": {
+                "title": "体育",
+                "subgenres": {
+                    "racing": "赛车",
+                    "boxing": "拳击",
+                    "martial_arts": "武术"
+                }
+            }
+        },
+        "favorite": {
+            "add": "添加到我的列表",
+            "remove": "从我的列表中移除"
+        }
+    }
+}

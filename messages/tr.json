@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "Filmler",
+        "actors": "Aktörler",
+        "directors": "Yönetmenler",
+        "my-lists": "Listelerim",
+        "about-us": "Hakkımızda",
+        "login": "Giriş",
+        "registration": "Kayıt Ol",
+        "my-profile": "Profilim",
+        "logout": "Çıkış",
+        "validation": "Doğrulama"
+    },
+    "FooterNavigation": {
+        "slogan": "Doğru Filmleri İzleyin",
+        "terms-of-use": "Kullanım Şartları",
+        "privacy-policy": "Gizlilik Politikası",
+        "cookies-policy": "Çerez Politikası",
+        "about-us": "Hakkımızda",
+        "contact-us": "Bizimle iletişime geçin"
+    },
+    "LocaleLayoutPage": {
+        "name": "FilmTavsiyesi",
+        "title": "Film Tavsiyesi",
+        "description": "Tür, etiket, derecelendirme ve birçok diğer parametreyi kullanarak filtreleyerek izlemek için bir film seçebilirsiniz"
+    },
+    "NotFoundPage": {
+        "title": "404: Sayfa Bulunamadı",
+        "description": "Hop! Ulaşmaya çalıştığınız sayfanın ya taşındığını ya da var olmadığını gösteriyor gibi görünüyor. Ancak endişelenmeyin, ana sayfamıza geri dönebilir veya film incelemeleri, en son haberler ve sinema dünyasının daha fazlası hakkında bilgi edinmek için sitemizi keşfedebilirsiniz."
+    },
+    "LocaleSwitcher": {
+        "label": "Dili Değiştir",
+        "locale": "{locale, select, en {İngilizce} fr {Fransızca} es {İspanyolca} de {Almanca} pt {Portekizce} it {İtalyanca} nl {Hollandaca} sv {İsveççe} no {Norveççe} da {Danimarkaca} fi {Fince} cs {Çekçe} pl {Lehçe} uk {Ukraynaca} be {Beyaz Rusça} et {Estonca} lv {Letonca} lt {Litvanca} ro {Romence} kk {Kazakça} ru {Rusça} tr {Türkçe} he {İbranice} ko {Korece} ja {Japonca} zh {Çince} hi {Hintçe} ar {Arapça} id {Endonezce} bg {Bulgarca} ka {Gürcüce} el {Yunanca} other {Bilinmiyor}}",
+        "select-language": "Dilinizi Seçin"
+    },
+    "ActorsPage": {
+        "title": "Tüm Aktörlerin Listesi",
+        "note": "Filtreler kullanarak aktörlerin eşsiz yeteneklerini, rollerin çeşitliliğini ve tür uzmanlığını göz önünde bulundurarak filmleri seçin"
+    },
+    "ActorPage": {
+        "title": "Aktör Sayfası Hakkında",
+        "birthday": "Doğum Günü",
+        "deathday": "Ölüm Tarihi",
+        "bplace": "Doğum Yeri",
+        "biography": "Biyografi"
+    },
+    "DirectorsPage": {
+        "title": "Tüm Yönetmenlerin Listesi",
+        "note": "Filtreler kullanarak yönetmenleri seçin, onların eşsiz tarzlarını, çalışma kalitelerini ve belirli temalardaki uzmanlıklarını keşfedin"
+    },
+    "DirectorPage": {
+        "title": "Yönetmen Sayfası Hakkında",
+        "birthday": "Doğum Günü",
+        "deathday": "Ölüm Tarihi",
+        "bplace": "Doğum Yeri",
+        "biography": "Biyografi"
+    },
+    "FilmPage": {
+        "title": "Film Sayfası",
+        "director": "Yönetmen",
+        "overview": "Genel Bakış",
+        "release": "Yayınlanma",
+        "rating": "Derecelendirme",
+        "genres": "Türler ve Alt Türler",
+        "tags": "Etiketler",
+        "character": "olarak",
+        "add": "Listeme Ekle",
+        "remove": "Listemden Kaldır"
+    },
+    "SeriesPage": {
+        "title": "Dizi Sayfası",
+        "director": "Yönetmen",
+        "overview": "Genel Bakış",
+        "release": "Yayınlanma",
+        "rating": "Derecelendirme",
+        "genres": "Türler ve Alt Türler",
+        "tags": "Etiketler",
+        "character": "olarak",
+        "seasons": "Sezonlar",
+        "number_of_seasons": "Sezon Sayısı",
+        "add": "Listeme Ekle",
+        "remove": "Listemden Kaldır"
+    },
+    "MyListPage": {
+        "title": "Listem",
+        "note": "Favorilere filmler veya TV şovları eklemek için lütfen",
+        "or": "veya",
+        "login": "Giriş Yapın",
+        "registration": "Kayıt Olun"
+    },
+    "AboutUsPage": {
+        "title": "FilmTavsiyesi'ne Hoş Geldiniz!",
+        "contact": "Herhangi bir öneriniz, sorunuz veya şikayetiniz varsa, bize",
+        "contact-us": "yazabilirsiniz",
+        "text": {
+            "part1": "FilmTavsiyesi web sitesinde, daha önce gördüğünüz her şeyden farklı bir film ve dizi seçme yaklaşımı sunuyoruz. Platformumuz, sinemayı değer veren ve sonsuz seçenekler denizinde kaybolmadan izlemek için mükemmel bir sinema eseri bulmak isteyenler için oluşturulmuştur. Ruh halinize, ilgi alanlarınıza ve tercihlerinize uygun bir film bulmanın ne kadar önemli olduğunun farkındayız. Bu nedenle FilmTavsiyesi, filmleri belirli bir dizi kriter temelinde seçmeye odaklanır: türler ve alt türler, etiketler, derecelendirmeler, yayın yılları, üretim ülkeleri, filmin olaylarının gerçekleştiği dönemler, ödüller ve yaş kısıtlamaları.",
+            "part2": "Sitemiz, her seçim kriterinin ayrıntılı bir açıklamasını sunar; komediden biyografik filmlere kadar tam bir tür ve alt tür listesi ile başlar ve tarih öncesi dönemden modern zamana kadar uzanan olay dönemleri ile sona erer. Ruhsal durumunuza veya durumunuza tam olarak uygun bir filmi seçebilmeniz için motivasyonel, keyif verici, eğlenceli, topluluk için ve birçok diğer etiketi içeren etiketlere özel önem veririz. Sitemizin önemli bir özelliği, film derecelendirmesidir; daha az kaliteli çalışmaları hariç tutarak 5'ten başlar ve size yalnızca en iyi seçimi garanti eder.",
+            "part3": "Ek olarak, FilmTavsiyesi, tanınmış yönetmenler ve aktörler tarafından filmleri seçme benzersiz bir fırsat sunar; tüm filmlerinin ortalama derecelendirmesini, sinematik eserlerin sayısını ve ödülleri göz önünde bulundurarak. Bu, belirli yaratıcıların hayranlarının, yüksek kalite standartlarını ve ilgi alanlarını karşılayan eserlerini kolayca bulmalarına olanak tanır.",
+            "part4": "FilmTavsiyesi'nde filmleri doğrudan sitede izleme seçeneğini bulamazsınız, ancak diğer platformlarda veya sinemalarda izlenebilecek en kapsamlı ve detaylı film seçme aracını alırsınız. Misyonumuz, size gerçek bir keşif olacak bir filmi bulmanız için gerekli tüm araçları sağlayarak seçim sürecini kolaylaştırmaktır. Her gün onlarca yeni film ve dizi çıktığı bir dünyada, FilmTavsiyesi, sinema dünyasında gerçek mücevherleri bulmanıza yardımcı olan güvenilir rehberinizdir."
+        }
+    },
+    "TermsPage": {
+        "title": "Web Sitesi Kullanım Koşulları"
+    },
+    "PrivacyPage": {
+        "title": "Gizlilik Politikası"
+    },
+    "CookiePage": {
+        "title": "Çerez Politikası"
+    },
+    "ContactUsPage": {
+        "title": "İletişim",
+        "note": "Bize önerilerinizi, sorularınızı, şikayetlerinizi veya veri veya çeviri hatalarını bildirebilirsiniz",
+        "name": "Ad",
+        "email": "E-posta",
+        "text": "Mesaj",
+        "send": "Gönder"
+    },
+    "LoginPage": {
+        "title": "Giriş",
+        "note": "Favori filmlerinizi kaydetmek ve gelecekteki izlemeler için kişisel bir izleme listesi oluşturmak için hesabınıza giriş yapın",
+        "no-account": "Hesabınız yok mu?",
+        "registration": "Kaydolma",
+        "forgot-password": "Şifrenizi mi unuttunuz?",
+        "recover": "yeniden alın",
+        "email": "E-posta",
+        "password": "Şifre",
+        "send": "Giriş Yap"
+    },
+    "RegistrationPage": {
+        "title": "Kayıt",
+        "note": "FilmTavsiyesi'ne kaydolun ve beğendiğiniz filmlerin bir listesini derlemenin kilidini açın",
+        "name": "Ad",
+        "email": "E-posta",
+        "password": "Şifre",
+        "password-repeat": "Şifreyi Tekrarla",
+        "send": "Kaydol"
+    },
+    "RecoverPage": {
+        "title": "Şifreyi Kurtar",
+        "note": "Şifrenizi unuttuysanız, onu kurtarabilirsiniz. Bunun için e-postanızı sağlamanız ve size yeni bir şifre göndereceğiz. Sonra bunu kişisel hesabınızda değiştirebilirsiniz",
+        "email": "E-posta",
+        "send": "Kurtar"
+    },
+    "ValidationPage": {
+        "title": "Doğrulama",
+        "ok": "E-posta doğrulaması başarılı, deneyiminizin tadını çıkarın!",
+        "error": "E-posta doğrulaması başarısız, lütfen kayıt sürecini tekrar geçin"
+    },
+    "MyProfilePage": {
+        "title": "Profilim",
+        "title-ava": "Avatarınızı Seçin",
+        "ava-color": "Avatar Rengi",
+        "ava-img": "Avatar Resmi",
+        "email": "E-posta",
+        "title-password": "Şifre Değiştir",
+        "password-current": "Mevcut Şifreyi Girin",
+        "password-new": "Yeni Şifreyi Girin",
+        "password-success": "Şifre değişiklikleri başarılı",
+        "password-error": "Mevcut şifre eşleşmiyor",
+        "title-name": "Ad",
+        "send": "Güncelle",
+        "emailUpdatedSuccess": "E-posta başarıyla güncellendi",
+        "emailUpdateError": "E-posta güncelleme başarısız",
+        "usernameUpdatedSuccess": "Kullanıcı adı başarıyla güncellendi",
+        "usernameUpdateError": "Kullanıcı adı güncelleme başarısız",
+        "passwordChangedSuccess": "Şifre başarıyla değiştirildi",
+        "passwordChangeError": "Şifre değiştirme başarısız"
+    },
+    "MainPage": {
+        "title": "Ana Sayfa",
+        "warning": "Site demo modunda, bazı veriler eksik",
+        "warningM": "Site demo modunda, bazı veriler eksik (işaretlenmiş)",
+        "ShowButton": "Filmleri Göster",
+        "FilmFilter": {
+            "title": "Film Filtresi"
+        },
+        "GenresFilter": {
+            "title": "Türler Filtresi"
+        },
+        "AdditionalFilter": {
+            "title": "Ek Filtre"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "Sırala",
+            "rating": "Derecelendirme",
+            "year": "Yıl",
+            "count": "Sayı"
+        },
+        "pagenav": {
+            "title": "Sayfa Gezinimi"
+        },
+        "typeformat": {
+            "title": "Tür",
+            "film": "Filmler",
+            "series": "Diziler"
+        },
+        "rating": {
+            "title": "Derecelendirme",
+            "from": "Başlangıç",
+            "to": "Bitiş"
+        },
+        "filmcount": {
+            "title": "Film Sayısı",
+            "from": "Başlangıç",
+            "to": "Bitiş"
+        },
+        "directors": {
+            "awards": "Ödüller",
+            "films": "Film Sayısı",
+            "rating": "Ortalama Derecelendirme"
+        },
+        "type": {
+            "title": "Tür",
+            "movie": "Film",
+            "series": "Dizi"
+        },
+        "release_year": {
+            "title": "Yayın Yılı",
+            "from": "Başlangıç",
+            "to": "Bitiş",
+            "not_released_yet": "Henüz Yayınlanmadı"
+        },
+        "event_era": {
+            "title": "Olay Dönemi",
+            "from": "Başlangıç",
+            "to": "Bitiş",
+            "undefined": "Belirtilmemiş",
+            "titlePresent": "Günümüz",
+            "prehistory": "Tarih Öncesi Dönem (MÖ 3000'den önce)",
+            "ancient_world": "Antik Dünya (MÖ 3000 - MS 500)",
+            "early_middle_ages": "Erken Ortaçağ (MS 500 - 1000)",
+            "high_middle_ages": "Yüksek Ortaçağ (MS 1000 - 1300)",
+            "late_middle_ages": "Geç Ortaçağ (MS 1300 - 1500)",
+            "renaissance": "Rönesans (MS 1500 - 1600)",
+            "baroque_period": "Barok Dönemi (MS 1600 - 1700)",
+            "enlightenment": "Aydınlanma Çağı (MS 1700 - 1800)",
+            "industrial_revolution": "Sanayi Devrimi (MS 1800 - 1850)",
+            "victorian_era": "Viktoriya Dönemi (MS 1850 - 1900)",
+            "early_20th_century": "20. Yüzyılın Başları (MS 1900 - 1930)",
+            "mid_20th_century_pre_ww2": "WW2 Öncesi (MS 1930 - 1940)",
+            "mid_20th_century": "20. Yüzyılın Ortaları (MS 1940 - 1950)",
+            "late_1950s": "1950'lerin Sonu (MS 1950 - 1960)",
+            "early_1960s": "1960'ların Başları (MS 1960 - 1970)",
+            "the_1970s": "1970'ler (MS 1970 - 1980)",
+            "the_1980s": "1980'ler (MS 1980 - 1990)",
+            "late_20th_century": "20. Yüzyılın Sonları (MS 1990 - 2000)",
+            "early_21st_century": "21. Yüzyılın Başları (MS 2000 - 2010)",
+            "the_2010s": "2010'lar (MS 2010 - Günümüz)"
+        },
+        "age_rating": {
+            "title": "Yaş Derecelendirmesi",
+            "full": {
+                "G": "G: Genel İzleyici",
+                "PG": "PG: Veliler İçin Tavsiye Edilir",
+                "PG13": "PG 13: Veliler Şiddetle Uyarılır",
+                "R": "R: Kısıtlı",
+                "NC17": "NC 17: Yalnızca Yetişkinler"
+            },
+            "short": {
+                "G": "G",
+                "PG": "PG",
+                "PG13": "PG 13",
+                "R": "R",
+                "NC17": "NC 17"
+            }
+        },
+        "awards": {
+            "title": "Ödüller",
+            "oscar": "Oscar",
+            "golden_globe": "Altın Küre",
+            "cannes": "Cannes Film Festivali",
+            "berlin": "Berlin Film Festivali",
+            "venice": "Venedik Film Festivali",
+            "bafta": "BAFTA"
+        },
+        "countries": {
+            "title": "Ülkeler",
+            "america": {
+                "title": "Amerika",
+                "regions": {
+                    "north_america": {
+                        "title": "Kuzey Amerika",
+                        "countries": {
+                            "usa": "Amerika Birleşik Devletleri",
+                            "canada": "Kanada",
+                            "mexico": "Meksika",
+                            "other_noa": "Diğerleri"
+                        }
+                    },
+                    "south_america": {
+                        "title": "Güney Amerika",
+                        "countries": {
+                            "brazil": "Brezilya",
+                            "argentina": "Arjantin",
+                            "chile": "Şili",
+                            "other_soa": "Diğerleri"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "Avrupa",
+                "regions": {
+                    "western_europe": {
+                        "title": "Batı Avrupa",
+                        "countries": {
+                            "uk": "Birleşik Krallık",
+                            "germany": "Almanya",
+                            "ireland": "İrlanda",
+                            "france": "Fransa",
+                            "other_wee": "Diğerleri"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "Kuzey Avrupa",
+                        "countries": {
+                            "denmark": "Danimarka",
+                            "norway": "Norveç",
+                            "finland": "Finlandiya",
+                            "sweden": "İsveç",
+                            "other_noe": "Diğerleri"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "Orta Avrupa",
+                        "countries": {
+                            "poland": "Polonya",
+                            "czech": "Çek Cumhuriyeti",
+                            "hungary": "Macaristan",
+                            "other_cee": "Diğerleri"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "Güney Avrupa",
+                        "countries": {
+                            "greece": "Yunanistan",
+                            "spain": "İspanya",
+                            "italy": "İtalya",
+                            "portugal": "Portekiz",
+                            "other_soe": "Diğerleri"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "Doğu Avrupa",
+                        "countries": {
+                            "ukraine": "Ukrayna",
+                            "romania": "Romanya",
+                            "russia": "Rusya",
+                            "bulgaria": "Bulgaristan",
+                            "other_eae": "Diğerleri"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "Asya",
+                "regions": {
+                    "east_asia": {
+                        "title": "Doğu Asya",
+                        "countries": {
+                            "japan": "Japonya",
+                            "korea": "Güney Kore",
+                            "china": "Çin",
+                            "other_eaa": "Diğerleri"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "Güneydoğu Asya",
+                        "countries": {
+                            "thailand": "Tayland",
+                            "indonesia": "Endonezya",
+                            "other_soa": "Diğerleri"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "Güney Asya",
+                        "countries": {
+                            "india": "Hindistan",
+                            "other_sua": "Diğerleri"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "Orta ve Batı Asya",
+                        "countries": {
+                            "turkey": "Türkiye",
+                            "israel": "İsrail",
+                            "iran": "İran",
+                            "other_cwa": "Diğerleri"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "Afrika",
+                "regions": {
+                    "all": {
+                        "title": "Tümü",
+                        "countries": {
+                            "south_africa": "Güney Afrika",
+                            "egypt": "Mısır",
+                            "other_afr": "Diğerleri"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "Etiket Seçin",
+            "motivational": "Motivasyonel",
+            "feel_good": "İyi Hissetme",
+            "for_company": "Arkadaşlarla",
+            "based_on_books": "Kitaba Dayalı",
+            "family": "Aile",
+            "festive": "Festivaller",
+            "musical": "Müzikal",
+            "arthouse": "Sanat Evi",
+            "based_on_true_events": "Gerçek Olaylara Dayalı"
+        },
+        "genres": {
+            "title": "Türleri ve Alt Türleri Seçin",
+            "comedy": {
+                "title": "Komedi",
+                "subgenres": {
+                    "parody": "Parodi",
+                    "satire": "Satire",
+                    "dark_comedy": "Kara Komedi"
+                }
+            },
+            "drama": {
+                "title": "Drama",
+                "subgenres": {
+                    "psychological": "Psikolojik",
+                    "social": "Sosyal",
+                    "legal": "Hukuki",
+                    "political": "Politik",
+                    "philosophical": "Felsefi",
+                    "religious": "Dini",
+                    "spiritual": "Manevi",
+                    "melancholic": "Melankolik"
+                }
+            },
+            "thriller": {
+                "title": "Gerilim",
+                "subgenres": {
+                    "psychological": "Psikolojik",
+                    "crime": "Suç",
+                    "spy": "Casus",
+                    "disaster": "Felaket",
+                    "legal": "Hukuki",
+                    "political": "Politik"
+                }
+            },
+            "horror": {
+                "title": "Korku",
+                "subgenres": {
+                    "psychological": "Psikolojik",
+                    "slasher": "Katliam",
+                    "monsters": "Canavarlar",
+                    "zombies": "Zombiler",
+                    "vampires": "Vampirler",
+                    "ghosts": "Hayaletler"
+                }
+            },
+            "sci_fi": {
+                "title": "Bilim Kurgu",
+                "subgenres": {
+                    "superheroes": "Süper Kahramanlar",
+                    "parallel_worlds": "Paralel Evrenler",
+                    "alternate_history": "Alternatif Tarih",
+                    "post_apocalyptic": "Sonrası Felaket"
+                }
+            },
+            "fantasy": {
+                "title": "Fantastik",
+                "subgenres": {
+                    "magical_realism": "Büyülü Gerçeklik",
+                    "fantasy_universe": "Fantastik Evren",
+                    "dark_fantasy": "Karanlık Fantazi",
+                    "fairy_tales": "Peri Masalları"
+                }
+            },
+            "action": {
+                "title": "Aksiyon",
+                "subgenres": {
+                    "adrenaline": "Adrenalin",
+                    "fights": "Dövüşler",
+                    "survival": "Hayatta Kalma"
+                }
+            },
+            "romance": {
+                "title": "Romantik",
+                "subgenres": {
+                    "romantic": "Romantik",
+                    "teen": "Gençlik",
+                    "light_romance": "Hafif Romantik"
+                }
+            },
+            "adventure": {
+                "title": "Macera",
+                "subgenres": {
+                    "adventurism": "Macera",
+                    "travel": "Seyahat",
+                    "expeditions": "Keşifler",
+                    "road_movie": "Yol Filmi"
+                }
+            },
+            "detective": {
+                "title": "Dedektif",
+                "subgenres": {
+                    "crime": "Suç",
+                    "detective": "Dedektif",
+                    "special_agents": "Özel Ajanlar",
+                    "maniacs": "Manyaklar"
+                }
+            },
+            "historical": {
+                "title": "Tarihi",
+                "subgenres": {
+                    "ancient_world": "Antik Dünya",
+                    "middle_ages": "Orta Çağ",
+                    "renaissance": "Rönesans",
+                    "victorian_era": "Viktorya Dönemi"
+                }
+            },
+            "war": {
+                "title": "Savaş",
+                "subgenres": {
+                    "world_war_i": "1. Dünya Savaşı",
+                    "world_war_ii": "2. Dünya Savaşı",
+                    "cold_war": "Soğuk Savaş",
+                    "modern_warfare": "Modern Savaş",
+                    "anti_war": "Anti-Savaş"
+                }
+            },
+            "science": {
+                "title": "Bilim",
+                "subgenres": {
+                    "technology": "Teknoloji",
+                    "space": "Uzay",
+                    "research": "Araştırma",
+                    "medicine": "Tıp"
+                }
+            },
+            "animation": {
+                "title": "Animasyon",
+                "subgenres": {
+                    "drawn": "Çizgi",
+                    "computer": "Bilgisayar",
+                    "stop_motion": "Stop Hareketi",
+                    "anime": "Anime"
+                }
+            },
+            "western": {
+                "title": "Vahşi Batı",
+                "subgenres": {
+                    "classic": "Klasik",
+                    "spaghetti_western": "Makarna Western",
+                    "contemporary": "Çağdaş"
+                }
+            },
+            "mystery": {
+                "title": "Gizem",
+                "subgenres": {
+                    "paranormal": "Paranormal",
+                    "supernatural": "Doğaüstü"
+                }
+            },
+            "ethnographic": {
+                "title": "Etnografik",
+                "subgenres": {
+                    "myths": "Mitler",
+                    "legends": "Efsaneler",
+                    "culture": "Kültür",
+                    "folklore": "Folklor",
+                    "traditions": "Gelenekler",
+                    "ethnic_groups": "Etnik Gruplar",
+                    "nature": "Doğa"
+                }
+            },
+            "biographical": {
+                "title": "Biografik",
+                "subgenres": {
+                    "musicians": "Müzisyenler",
+                    "politicians": "Politikacılar",
+                    "athletes": "Sporcular",
+                    "artists": "Sanatçılar",
+                    "scientists": "Bilim İnsanları",
+                    "businessmen": "İş İnsanları"
+                }
+            },
+            "sports": {
+                "title": "Spor",
+                "subgenres": {
+                    "racing": "Yarış",
+                    "boxing": "Boks",
+                    "martial_arts": "Dövüş Sanatları"
+                }
+            }
+        },
+        "favorite": {
+            "add": "Listeme Ekle",
+            "remove": "Listemden Kaldır"
+        }
+    }
+}

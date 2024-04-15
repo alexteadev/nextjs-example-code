@@ -1,0 +1,7 @@
+version: '3.5'
+services:
+  appclient:
+    image: projectm-client
+    restart: "always"
+    ports:
+      - 3000:3000

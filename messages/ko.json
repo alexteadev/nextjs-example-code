@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "영화",
+        "actors": "배우",
+        "directors": "감독",
+        "my-lists": "내 목록",
+        "about-us": "소개",
+        "login": "로그인",
+        "registration": "등록",
+        "my-profile": "내 프로필",
+        "logout": "로그아웃",
+        "validation": "유효성 검사"
+    },
+    "FooterNavigation": {
+        "slogan": "적절한 영화를 시청하세요",
+        "terms-of-use": "이용 약관",
+        "privacy-policy": "개인정보 보호 정책",
+        "cookies-policy": "쿠키 정책",
+        "about-us": "소개",
+        "contact-us": "문의하기"
+    },
+    "LocaleLayoutPage": {
+        "name": "영화 추천",
+        "title": "영화 추천",
+        "description": "장르, 태그, 평점 및 기타 다양한 매개변수 필터를 사용하여 영화를 선택할 수 있습니다."
+    },
+    "NotFoundPage": {
+        "title": "404: 페이지를 찾을 수 없음",
+        "description": "죄송합니다! 액세스하려는 페이지가 이동되었거나 존재하지 않는 것 같습니다. 그러나 걱정하지 마세요. 홈페이지로 돌아가거나 영화 리뷰, 최신 뉴스 등을 찾아보세요."
+    },
+    "LocaleSwitcher": {
+        "label": "언어 변경",
+        "locale": "{locale, select, en {영어} fr {프랑스어} es {스페인어} de {독일어} pt {포르투갈어} it {이탈리아어} nl {네덜란드어} sv {스웨덴어} no {노르웨이어} da {덴마크어} fi {핀란드어} cs {체코어} pl {폴란드어} uk {우크라이나어} be {벨라루스어} et {에스토니아어} lv {라트비아어} lt {리투아니아어} ro {루마니아어} kk {카자흐어} ru {러시아어} tr {터키어} he {히브리어} ko {한국어} ja {일본어} zh {중국어} hi {힌디어} ar {아랍어} id {인도네시아어} bg {불가리아어} ka {조지아어} el {그리스어} other {알 수 없음}}",
+        "select-language": "언어 선택"
+    },
+    "ActorsPage": {
+        "title": "모든 배우 목록",
+        "note": "필터를 사용하여 배우의 독특한 재능, 역할 다양성 및 장르 전문화를 고려하여 영화를 선택하세요."
+    },
+    "ActorPage": {
+        "title": "배우 정보 페이지",
+        "birthday": "생일",
+        "deathday": "사망일",
+        "bplace": "출생지",
+        "biography": "전기"
+    },
+    "DirectorsPage": {
+        "title": "모든 감독 목록",
+        "note": "필터를 사용하여 감독의 독특한 스타일, 작업 품질 및 특정 주제 전문화를 탐색하여 영화를 선택하세요."
+    },
+    "DirectorPage": {
+        "title": "감독 정보 페이지",
+        "birthday": "생일",
+        "deathday": "사망일",
+        "bplace": "출생지",
+        "biography": "전기"
+    },
+    "FilmPage": {
+        "title": "영화 페이지",
+        "director": "감독",
+        "overview": "개요",
+        "release": "출시",
+        "rating": "평점",
+        "genres": "장르 및 하위 장르",
+        "tags": "태그",
+        "character": "역할",
+        "add": "내 목록에 추가",
+        "remove": "내 목록에서 제거"
+    },
+    "SeriesPage": {
+        "title": "시리즈 페이지",
+        "director": "감독",
+        "overview": "개요",
+        "release": "출시",
+        "rating": "평점",
+        "genres": "장르 및 하위 장르",
+        "tags": "태그",
+        "character": "역할",
+        "seasons": "시즌",
+        "number_of_seasons": "시즌 수",
+        "add": "내 목록에 추가",
+        "remove": "내 목록에서 제거"
+    },
+    "MyListPage": {
+        "title": "내 목록",
+        "note": "즐겨찾기에 영화 또는 TV 프로그램을 추가하려면",
+        "or": "또는",
+        "login": "로그인",
+        "registration": "등록"
+    },
+    "AboutUsPage": {
+        "title": "FilmAdvise에 오신 것을 환영합니다!",
+        "contact": "의견, 질문 또는 불만이 있으면",
+        "contact-us": "문의하세요",
+        "text": {
+            "part1": "FilmAdvise 웹 사이트에서는 이전과는 다른 영화와 시리즈 선택 방식을 제공합니다. 우리의 플랫폼은 영화를 중요시하는 사람들을 위해 만들어졌으며 끝없는 옵션 해변에서 길을 잃지 않고도 보고 싶은 완벽한 영화를 찾을 수 있습니다. 우리는 영화를 선택할 때 장르 및 하위 장르, 태그, 평점, 개봉 연도, 제작 국가, 영화 내의 시대, 수상 및 연령 제한과 같은 독특한 기준에 따라 영화를 선별합니다.",
+            "part2": "우리의 사이트는 각 선택 기준에 대한 자세한 설명을 제공합니다. 코미디부터 전기 영화까지의 장르 및 하위 장르 목록에서 이벤트 시대인 선사 시대부터 현대 시대까지의 시대 이벤트까지 시작하여 기분이나 상황에 따라 완벽하게 일치하는 영화를 선택할 수 있도록 감정적, 기분 좋은, 동반용 등과 같은 태그에 특별히 주의를 기울입니다. 우리 사이트의 중요한 기능 중 하나는 영화 평점인데, 이는 5점부터 시작하여 품질이 낮은 작품을 제외하고 최상의 선택만을 보장합니다.",
+            "part3": "또한 FilmAdvise는 잘 알려진 감독 및 배우별로 영화를 선택할 수 있는 독특한 기회를 제공합니다. 모든 작품의 평균 평점, 시네마틱 작품 수 및 수상을 고려하여 특정 작가의 팬이라면 고품질의 작품과 관심사를 충족시키는 작품을 쉽게 찾을 수 있습니다.",
+            "part4": "FilmAdvise에서는 사이트에서 직접 영화를 시청할 수는 없지만 다른 플랫폼이나 영화관에서 시청할 수 있는 시네마틱 작품을 선택할 수 있는 가장 포괄적이고 자세한 도구를 제공합니다. 우리의 미션은 필요한 모든 도구를 제공하여 참신한 발견이 될 영화를 찾을 수 있도록 선택 프로세스를 간소화하는 것입니다. 매일 수십 편의 새로운 영화와 시리즈가 나오는 세계에서 FilmAdvise는 영화의 세계에서 진정한 보석을 찾을 수 있는 신뢰할 수 있는 안내서입니다."
+        }
+    },
+    "TermsPage": {
+        "title": "웹 사이트 이용 약관"
+    },
+    "PrivacyPage": {
+        "title": "개인 정보 보호 정책"
+    },
+    "CookiePage": {
+        "title": "쿠키 정책"
+    },
+    "ContactUsPage": {
+        "title": "연락처",
+        "note": "의견, 질문, 불만 또는 데이터 또는 번역 오류를 알려주세요",
+        "name": "이름",
+        "email": "이메일",
+        "text": "메시지",
+        "send": "보내기"
+    },
+    "LoginPage": {
+        "title": "로그인",
+        "note": "즐겨찾는 영화를 저장하고 향후 시청을 위한 개인적인 시청 목록을 만들려면 계정에 로그인하세요",
+        "no-account": "계정이 없으세요?",
+        "registration": "등록",
+        "forgot-password": "비밀번호를 잊으셨나요?",
+        "recover": "복구하세요",
+        "email": "이메일",
+        "password": "비밀번호",
+        "send": "로그인"
+    },
+    "RegistrationPage": {
+        "title": "등록",
+        "note": "FilmAdvise에 등록하여 좋아하는 영화 목록을 작성할 수 있는 기능을 해제하세요",
+        "name": "이름",
+        "email": "이메일",
+        "password": "비밀번호",
+        "password-repeat": "비밀번호 재입력",
+        "send": "등록"
+    },
+    "RecoverPage": {
+        "title": "비밀번호 복구",
+        "note": "비밀번호를 잊으셨다면 복구할 수 있습니다. 이메일을 제공하면 새 비밀번호를 메일로 보내드립니다. 그런 다음 개인 계정에서 변경할 수 있습니다.",
+        "email": "이메일",
+        "send": "복구"
+    },
+    "ValidationPage": {
+        "title": "유효성 검사",
+        "ok": "이메일 확인이 성공적으로 완료되었습니다. 즐거운 시간 되세요!",
+        "error": "이메일 확인이 실패했습니다. 다시 등록 프로세스를 진행해주세요"
+    },
+    "MyProfilePage": {
+        "title": "내 프로필",
+        "title-ava": "아바타 선택",
+        "ava-color": "아바타 색상",
+        "ava-img": "아바타 이미지",
+        "email": "이메일",
+        "title-password": "비밀번호 변경",
+        "password-current": "현재 비밀번호 입력",
+        "password-new": "새 비밀번호 입력",
+        "password-success": "비밀번호가 성공적으로 변경되었습니다",
+        "password-error": "현재 비밀번호가 일치하지 않습니다",
+        "title-name": "이름",
+        "send": "업데이트",
+        "emailUpdatedSuccess": "이메일이 성공적으로 업데이트되었습니다",
+        "emailUpdateError": "이메일 업데이트에 실패했습니다",
+        "usernameUpdatedSuccess": "사용자 이름이 성공적으로 업데이트되었습니다",
+        "usernameUpdateError": "사용자 이름 업데이트에 실패했습니다",
+        "passwordChangedSuccess": "비밀번호가 성공적으로 변경되었습니다",
+        "passwordChangeError": "비밀번호 변경에 실패했습니다"
+    },
+    "MainPage": {
+        "title": "메인 페이지",
+        "warning": "사이트는 데모 모드입니다. 일부 데이터가 불완전합니다",
+        "warningM": "사이트는 데모 모드입니다. 일부 데이터가 불완전합니다 (표시됨)",
+        "ShowButton": "영화 보기",
+        "FilmFilter": {
+            "title": "영화 필터"
+        },
+        "GenresFilter": {
+            "title": "장르 필터"
+        },
+        "AdditionalFilter": {
+            "title": "추가 필터"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "정렬 기준",
+            "rating": "평점",
+            "year": "년도",
+            "count": "수"
+        },
+        "pagenav": {
+            "title": "페이지 탐색"
+        },
+        "typeformat": {
+            "title": "유형",
+            "film": "영화",
+            "series": "시리즈"
+        },
+        "rating": {
+            "title": "평점",
+            "from": "부터",
+            "to": "까지"
+        },
+        "filmcount": {
+            "title": "영화 수",
+            "from": "부터",
+            "to": "까지"
+        },
+        "directors": {
+            "awards": "수상 내역",
+            "films": "영화 수",
+            "rating": "평균 평점"
+        },
+        "type": {
+            "title": "유형",
+            "movie": "영화",
+            "series": "시리즈"
+        },
+        "release_year": {
+            "title": "출시 연도",
+            "from": "부터",
+            "to": "까지",
+            "not_released_yet": "아직 출시되지 않음"
+        },
+        "event_era": {
+            "title": "시대",
+            "from": "부터",
+            "to": "까지",
+            "undefined": "설정되지 않음",
+            "titlePresent": "현재",
+            "prehistory": "선사 시대 (기원전 3000년 이전)",
+            "ancient_world": "고대 세계 (기원전 3000년 - 서기 500년)",
+            "early_middle_ages": "중세 초기 (서기 500년 - 1000년)",
+            "high_middle_ages": "중세 전기 (서기 1000년 - 1300년)",
+            "late_middle_ages": "중세 후기 (서기 1300년 - 1500년)",
+            "renaissance": "르네상스 (서기 1500년 - 1600년)",
+            "baroque_period": "바로크 시대 (서기 1600년 - 1700년)",
+            "enlightenment": "발해시대 (서기 1700년 - 1800년)",
+            "industrial_revolution": "산업 혁명 (서기 1800년 - 1850년)",
+            "victorian_era": "빅토리아 시대 (서기 1850년 - 1900년)",
+            "early_20th_century": "20세기 초 (서기 1900년 - 1930년)",
+            "mid_20th_century_pre_ww2": "2차 세계 대전 이전 (서기 1930년 - 1940년)",
+            "mid_20th_century": "20세기 중반 (서기 1940년 - 1950년)",
+            "late_1950s": "1950년대 후반 (서기 1950년 - 1960년)",
+            "early_1960s": "1960년대 초반 (서기 1960년 - 1970년)",
+            "the_1970s": "1970년대 (서기 1970년 - 1980년)",
+            "the_1980s": "1980년대 (서기 1980년 - 1990년)",
+            "late_20th_century": "20세기 후반 (서기 1990년 - 2000년)",
+            "early_21st_century": "21세기 초 (서기 2000년 - 2010년)",
+            "the_2010s": "2010년대 (서기 2010년 - 현재)"
+        },
+        "age_rating": {
+            "title": "관람 등급",
+            "full": {
+                "G": "G: 전체 관람가",
+                "PG": "PG: 가족 관람가",
+                "PG13": "PG 13: 13세 이상 관람가",
+                "R": "R: 제한된 관람가",
+                "NC17": "NC 17: 성인 전용"
+            },
+            "short": {
+                "G": "G",
+                "PG": "PG",
+                "PG13": "PG 13",
+                "R": "R",
+                "NC17": "NC 17"
+            }
+        },
+        "awards": {
+            "title": "수상",
+            "oscar": "아카데미 시상식",
+            "golden_globe": "골든 글로브 시상식",
+            "cannes": "칸 영화제",
+            "berlin": "베를린 영화제",
+            "venice": "베니스 영화제",
+            "bafta": "BAFTA 시상식"
+        },
+        "countries": {
+            "title": "국가",
+            "america": {
+                "title": "미국",
+                "regions": {
+                    "north_america": {
+                        "title": "북아메리카",
+                        "countries": {
+                            "usa": "미국",
+                            "canada": "캐나다",
+                            "mexico": "멕시코",
+                            "other_noa": "기타"
+                        }
+                    },
+                    "south_america": {
+                        "title": "남아메리카",
+                        "countries": {
+                            "brazil": "브라질",
+                            "argentina": "아르헨티나",
+                            "chile": "칠레",
+                            "other_soa": "기타"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "유럽",
+                "regions": {
+                    "western_europe": {
+                        "title": "서유럽",
+                        "countries": {
+                            "uk": "영국",
+                            "germany": "독일",
+                            "ireland": "아일랜드",
+                            "france": "프랑스",
+                            "other_wee": "기타"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "북유럽",
+                        "countries": {
+                            "denmark": "덴마크",
+                            "norway": "노르웨이",
+                            "finland": "핀란드",
+                            "sweden": "스웨덴",
+                            "other_noe": "기타"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "중유럽",
+                        "countries": {
+                            "poland": "폴란드",
+                            "czech": "체코",
+                            "hungary": "헝가리",
+                            "other_cee": "기타"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "남유럽",
+                        "countries": {
+                            "greece": "그리스",
+                            "spain": "스페인",
+                            "italy": "이탈리아",
+                            "portugal": "포르투갈",
+                            "other_soe": "기타"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "동유럽",
+                        "countries": {
+                            "ukraine": "우크라이나",
+                            "romania": "루마니아",
+                            "russia": "러시아",
+                            "bulgaria": "불가리아",
+                            "other_eae": "기타"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "아시아",
+                "regions": {
+                    "east_asia": {
+                        "title": "동아시아",
+                        "countries": {
+                            "japan": "일본",
+                            "korea": "대한민국",
+                            "china": "중국",
+                            "other_eaa": "기타"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "동남아시아",
+                        "countries": {
+                            "thailand": "태국",
+                            "indonesia": "인도네시아",
+                            "other_soa": "기타"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "남아시아",
+                        "countries": {
+                            "india": "인도",
+                            "other_sua": "기타"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "중앙 및 서아시아",
+                        "countries": {
+                            "turkey": "터키",
+                            "israel": "이스라엘",
+                            "iran": "이란",
+                            "other_cwa": "기타"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "아프리카",
+                "regions": {
+                    "all": {
+                        "title": "전체",
+                        "countries": {
+                            "south_africa": "남아프리카",
+                            "egypt": "이집트",
+                            "other_afr": "기타"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "태그 선택",
+            "motivational": "모티베이션",
+            "feel_good": "기분 좋은",
+            "for_company": "회사용",
+            "based_on_books": "책을 기반으로 함",
+            "family": "가족",
+            "festive": "축제",
+            "musical": "음악",
+            "arthouse": "아트하우스",
+            "based_on_true_events": "실제 이벤트를 기반으로 함"
+        },
+        "genres": {
+            "title": "장르 및 서브장르 선택",
+            "comedy": {
+                "title": "코미디",
+                "subgenres": {
+                    "parody": "패러디",
+                    "satire": "풍자",
+                    "dark_comedy": "다크 코미디"
+                }
+            },
+            "drama": {
+                "title": "드라마",
+                "subgenres": {
+                    "psychological": "심리적",
+                    "social": "사회적",
+                    "legal": "법적",
+                    "political": "정치적",
+                    "philosophical": "철학적",
+                    "religious": "종교적",
+                    "spiritual": "영적",
+                    "melancholic": "멜랑콜리"
+                }
+            },
+            "thriller": {
+                "title": "스릴러",
+                "subgenres": {
+                    "psychological": "심리적",
+                    "crime": "범죄",
+                    "spy": "스파이",
+                    "disaster": "재난",
+                    "legal": "법정",
+                    "political": "정치적"
+                }
+            },
+            "horror": {
+                "title": "호러",
+                "subgenres": {
+                    "psychological": "심리적",
+                    "slasher": "슬래셔",
+                    "monsters": "몬스터",
+                    "zombies": "좀비",
+                    "vampires": "뱀파이어",
+                    "ghosts": "유령"
+                }
+            },
+            "sci_fi": {
+                "title": "과학상",
+                "subgenres": {
+                    "superheroes": "슈퍼히어로",
+                    "parallel_worlds": "평행세계",
+                    "alternate_history": "대안적 역사",
+                    "post_apocalyptic": "포스트 아포칼립스"
+                }
+            },
+            "fantasy": {
+                "title": "판타지",
+                "subgenres": {
+                    "magical_realism": "마법현실",
+                    "fantasy_universe": "판타지 세계",
+                    "dark_fantasy": "다크 판타지",
+                    "fairy_tales": "동화"
+                }
+            },
+            "action": {
+                "title": "액션",
+                "subgenres": {
+                    "adrenaline": "아드레날린",
+                    "fights": "격투",
+                    "survival": "생존"
+                }
+            },
+            "romance": {
+                "title": "로맨스",
+                "subgenres": {
+                    "romantic": "로맨틱",
+                    "teen": "틴",
+                    "light_romance": "라이트 로맨스"
+                }
+            },
+            "adventure": {
+                "title": "모험",
+                "subgenres": {
+                    "adventurism": "모험심",
+                    "travel": "여행",
+                    "expeditions": "원정",
+                    "road_movie": "로드 무비"
+                }
+            },
+            "detective": {
+                "title": "탐정",
+                "subgenres": {
+                    "crime": "범죄",
+                    "detective": "탐정",
+                    "special_agents": "특수 요원",
+                    "maniacs": "매니악"
+                }
+            },
+            "historical": {
+                "title": "역사",
+                "subgenres": {
+                    "ancient_world": "고대 세계",
+                    "middle_ages": "중세 시대",
+                    "renaissance": "르네상스",
+                    "victorian_era": "빅토리아 시대"
+                }
+            },
+            "war": {
+                "title": "전쟁",
+                "subgenres": {
+                    "world_war_i": "제1차 세계 대전",
+                    "world_war_ii": "제2차 세계 대전",
+                    "cold_war": "냉전",
+                    "modern_warfare": "현대 전쟁",
+                    "anti_war": "반전쟁"
+                }
+            },
+            "science": {
+                "title": "과학",
+                "subgenres": {
+                    "technology": "기술",
+                    "space": "우주",
+                    "research": "연구",
+                    "medicine": "의학"
+                }
+            },
+            "animation": {
+                "title": "애니메이션",
+                "subgenres": {
+                    "drawn": "드로잉",
+                    "computer": "컴퓨터",
+                    "stop_motion": "스톱 모션",
+                    "anime": "애니메이션"
+                }
+            },
+            "western": {
+                "title": "웨스턴",
+                "subgenres": {
+                    "classic": "클래식",
+                    "spaghetti_western": "스파게티 웨스턴",
+                    "contemporary": "현대"
+                }
+            },
+            "mystery": {
+                "title": "미스터리",
+                "subgenres": {
+                    "paranormal": "초자연적",
+                    "supernatural": "초자연적"
+                }
+            },
+            "ethnographic": {
+                "title": "민족학",
+                "subgenres": {
+                    "myths": "신화",
+                    "legends": "전설",
+                    "culture": "문화",
+                    "folklore": "전통 신화",
+                    "traditions": "전통",
+                    "ethnic_groups": "민족",
+                    "nature": "자연"
+                }
+            },
+            "biographical": {
+                "title": "전기",
+                "subgenres": {
+                    "musicians": "음악가",
+                    "politicians": "정치인",
+                    "athletes": "스포츠 선수",
+                    "artists": "예술가",
+                    "scientists": "과학자",
+                    "businessmen": "비즈니스맨"
+                }
+            },
+            "sports": {
+                "title": "스포츠",
+                "subgenres": {
+                    "racing": "레이싱",
+                    "boxing": "복싱",
+                    "martial_arts": "무술"
+                }
+            }
+        },
+        "favorite": {
+            "add": "내 목록에 추가",
+            "remove": "내 목록에서 삭제"
+        }
+    }
+}

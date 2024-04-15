@@ -1,0 +1,26 @@
+.sort {
+    display: flex;
+    gap: 15px;
+    // padding-left: 15px;
+
+    &__button {
+        display: flex;
+        gap: 5px;
+        background-color: #f3f3f3;
+        color: #d63442;
+        align-items: center;
+        padding: 3px 7px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, color 0.3s ease;
+
+        font-size: 14px;
+        font-weight: 600;
+        text-transform: uppercase;
+
+        &:hover, &.active {
+            background-color: #d63442;
+            color: #ffffff;
+        }
+    }
+}

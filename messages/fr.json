@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "Films",
+        "actors": "Acteurs",
+        "directors": "Réalisateurs",
+        "my-lists": "Mes Listes",
+        "about-us": "À Propos De Nous",
+        "login": "Connexion",
+        "registration": "Inscription",
+        "my-profile": "Mon Profil",
+        "logout": "Déconnexion",
+        "validation": "Validation"
+    },
+    "FooterNavigation": {
+        "slogan": "Regardez les bons films",
+        "terms-of-use": "Conditions d'utilisation",
+        "privacy-policy": "Politique de confidentialité",
+        "cookies-policy": "Politique sur les cookies",
+        "about-us": "À propos de nous",
+        "contact-us": "Contactez-nous"
+    },
+    "LocaleLayoutPage": {
+        "name": "FilmAdvise",
+        "title": "Recommandation de films",
+        "description": "En utilisant le filtre par genre, tags, notation et de nombreux autres paramètres, vous pourrez choisir un film à regarder"
+    },
+    "NotFoundPage": {
+        "title": "404 : Page Non Trouvée",
+        "description": "Oups ! Il semble que la page que vous essayez d'atteindre a été déplacée ou n'existe pas. Mais ne vous inquiétez pas, vous pouvez retourner à notre page d'accueil ou explorer notre site pour trouver des critiques de films, les dernières nouvelles et plus encore sur le fascinant monde du cinéma."
+    },
+    "LocaleSwitcher": {
+        "label": "Changer de langue",
+        "locale": "{locale, select, en {Anglais} fr {Français} es {Espagnol} de {Allemand} pt {Portugais} it {Italien} nl {Néerlandais} sv {Suédois} no {Norvégien} da {Danois} fi {Finnois} cs {Tchèque} pl {Polonais} uk {Ukrainien} be {Biélorusse} et {Estonien} lv {Letton} lt {Lituanien} ro {Roumain} kk {Kazakh} ru {Russe} tr {Turc} he {Hébreu} ko {Coréen} ja {Japonais} zh {Chinois} hi {Hindi} ar {Arabe} id {Indonésien} bg {Bulgare} ka {Géorgien} el {Grec} other {Inconnu}}",
+        "select-language": "Sélectionnez votre langue"
+    },
+    "ActorsPage": {
+        "title": "Liste de tous les acteurs",
+        "note": "Choisissez des films par acteurs, en considérant leur talent unique, diversité de rôles et spécialisation de genre, en utilisant des filtres"
+    },
+    "ActorPage": {
+        "title": "Page de l'acteur",
+        "birthday": "Anniversaire",
+        "deathday": "Jour de décès",
+        "bplace": "Lieu de naissance",
+        "biography": "Biographie"
+    },
+    "DirectorsPage": {
+        "title": "Liste de tous les réalisateurs",
+        "note": "Sélectionnez des films par réalisateur, en explorant leur style unique, qualité de travail et spécialisation dans certains thèmes, en utilisant des filtres"
+    },
+    "DirectorPage": {
+        "title": "Page du réalisateur",
+        "birthday": "Anniversaire",
+        "deathday": "Jour de décès",
+        "bplace": "Lieu de naissance",
+        "biography": "Biographie"
+    },
+    "FilmPage": {
+        "title": "Page du film",
+        "director": "Réalisateur",
+        "overview": "Aperçu",
+        "release": "Sortie",
+        "rating": "Note",
+        "genres": "Genres & Sous-genres",
+        "tags": "Tags",
+        "character": "comme",
+        "add": "Ajouter à Ma Liste",
+        "remove": "Retirer de Ma Liste"
+    },
+    "SeriesPage": {
+        "title": "Page de la série",
+        "director": "Réalisateur",
+        "overview": "Aperçu",
+        "release": "Sortie",
+        "rating": "Note",
+        "genres": "Genres & Sous-genres",
+        "tags": "Tags",
+        "character": "comme",
+        "seasons": "Saisons",
+        "number_of_seasons": "Nombre de saisons",
+        "add": "Ajouter à Ma Liste",
+        "remove": "Retirer de Ma Liste"
+    },
+    "MyListPage": {
+        "title": "Ma Liste",
+        "note": "Pour ajouter des films ou des émissions de télévision aux favoris, veuillez",
+        "or": "ou",
+        "login": "Connexion",
+        "registration": "Inscription"
+    },
+    "AboutUsPage": {
+        "title": "Bienvenue sur FilmAdvise !",
+        "contact": "Si vous avez des suggestions, questions ou plaintes, vous pouvez",
+        "contact-us": "nous écrire",
+        "text": {
+            "part1": "Sur le site de FilmAdvise, nous proposons une approche unique de la sélection de films et de séries qui se démarque de tout ce que vous avez vu auparavant. Notre plateforme est créée pour ceux qui valorisent le cinéma et souhaitent trouver l'œuvre cinématographique parfaite pour la visionner sans se perdre dans la mer infinie des options. Nous comprenons à quel point il est important de trouver un film qui répond à vos humeurs, intérêts et préférences. C'est pourquoi FilmAdvise se spécialise dans la sélection de films basée sur un ensemble unique de critères : genres et sous-genres, tags, notations, années de sortie, pays de production, époques dans lesquelles se déroulent les actions du film, récompenses et restrictions d'âge.",
+            "part2": "Notre site fournit une description détaillée de chaque critère de sélection, à partir d'une liste complète de genres et sous-genres — de la comédie aux films biographiques, et se terminant par les époques des événements, allant de la période préhistorique aux temps modernes. Nous accordons une attention particulière aux tags, tels que motivationnel, feel-good, pour compagnie et bien d'autres, afin que vous puissiez choisir un film qui correspond parfaitement à votre humeur ou situation. Une caractéristique importante de notre site est la notation des films, qui commence à 5, excluant les œuvres de moindre qualité et vous assurant uniquement le meilleur choix.",
+            "part3": "De plus, FilmAdvise offre une opportunité unique de sélectionner des films par des réalisateurs et acteurs bien connus, en considérant la note moyenne de tous leurs films, le nombre d'œuvres cinématographiques et les récompenses. Cela permet aux fans de certains créateurs de facilement trouver leurs œuvres qui répondent à des normes de qualité élevées et à des intérêts.",
+            "part4": "Sur FilmAdvise, vous ne trouverez pas l'option de regarder des films directement sur le site, mais vous obtiendrez l'outil le plus complet et détaillé pour sélectionner une œuvre cinématographique qui peut ensuite être regardée sur d'autres plateformes ou au cinéma. Notre mission est de simplifier le processus de sélection en vous fournissant tous les outils nécessaires pour trouver un film qui sera une véritable découverte pour vous. Dans un monde où des dizaines de nouveaux films et séries sortent chaque jour, FilmAdvise est votre guide fiable dans le monde du cinéma, aidant à trouver de véritables joyaux parmi la vaste diversité des œuvres cinématographiques."
+        }
+    },
+    "TermsPage": {
+        "title": "Conditions Générales d'Utilisation du Site"
+    },
+    "PrivacyPage": {
+        "title": "Politique de Confidentialité"
+    },
+    "CookiePage": {
+        "title": "Politique sur les Cookies"
+    },
+    "ContactUsPage": {
+        "title": "Contacts",
+        "note": "Vous pouvez nous envoyer vos suggestions, questions, plaintes ou nous informer des erreurs dans les données ou la traduction",
+        "name": "Nom",
+        "email": "Email",
+        "text": "Message",
+        "send": "Envoyer"
+    },
+    "LoginPage": {
+        "title": "Connexion",
+        "note": "Connectez-vous à votre compte pour sauvegarder les films favoris et créer une liste de visionnage personnelle pour les visionnages futurs",
+        "no-account": "Vous n'avez pas de compte ?",
+        "registration": "Inscription",
+        "forgot-password": "Si vous avez oublié votre mot de passe, vous pouvez",
+        "recover": "le récupérer",
+        "email": "Email",
+        "password": "Mot de passe",
+        "send": "Connexion"
+    },
+    "RegistrationPage": {
+        "title": "Inscription",
+        "note": "Inscrivez-vous sur FilmAdvise et débloquez la possibilité de compiler une liste de films aimés pour les visionnages futurs",
+        "name": "Nom",
+        "email": "Email",
+        "password": "Mot de passe",
+        "password-repeat": "Répéter le mot de passe",
+        "send": "Inscription"
+    },
+    "RecoverPage": {
+        "title": "Récupérer le mot de passe",
+        "note": "Si vous avez oublié votre mot de passe, vous pouvez le récupérer. Pour ce faire, vous devez fournir votre email, et nous vous enverrons un nouveau mot de passe par mail. Ensuite, vous pourrez le changer dans votre compte personnel",
+        "email": "Email",
+        "send": "Récupérer"
+    },
+    "ValidationPage": {
+        "title": "Validation",
+        "ok": "Vérification de l'email réussie, profitez de votre expérience !",
+        "error": "La vérification de l'email a échoué, veuillez recommencer le processus d'inscription"
+    },
+    "MyProfilePage": {
+        "title": "Mon Profil",
+        "title-ava": "Sélectionnez Votre Avatar",
+        "ava-color": "Couleur de l'Avatar",
+        "ava-img": "Image de l'Avatar",
+        "email": "Email",
+        "title-password": "Changer de Mot de Passe",
+        "password-current": "Entrez le Mot de Passe Actuel",
+        "password-new": "Entrez le Nouveau Mot de Passe",
+        "password-success": "Changement de mot de passe réussi",
+        "password-error": "Le mot de passe actuel ne correspond pas",
+        "title-name": "Nom",
+        "send": "Mettre à jour",
+        "emailUpdatedSuccess": "Email mis à jour avec succès",
+        "emailUpdateError": "Échec de la mise à jour de l'email",
+        "usernameUpdatedSuccess": "Nom d'utilisateur mis à jour avec succès",
+        "usernameUpdateError": "Échec de la mise à jour du nom d'utilisateur",
+        "passwordChangedSuccess": "Mot de passe changé avec succès",
+        "passwordChangeError": "Échec du changement de mot de passe"
+    },
+    "MainPage": {
+        "title": "Page Principale",
+        "warning": "Le site est en mode démo, certaines données sont incomplètes",
+        "warningM": "Le site est en mode démo, certaines données sont incomplètes (marquées)",
+        "ShowButton": "Montrer les Films",
+        "FilmFilter": {
+            "title": "Filtre de Films"
+        },
+        "GenresFilter": {
+            "title": "Filtre de Genres"
+        },
+        "AdditionalFilter": {
+            "title": "Filtre Supplémentaire"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "Trier par",
+            "rating": "Note",
+            "year": "Année",
+            "count": "Compte"
+        },
+        "pagenav": {
+            "title": "Navigation par Page"
+        },
+        "typeformat": {
+            "title": "Type",
+            "film": "Films",
+            "series": "Séries"
+        },
+        "rating": {
+            "title": "Note",
+            "from": "De",
+            "to": "À"
+        },
+        "filmcount": {
+            "title": "Nombre de Films",
+            "from": "De",
+            "to": "À"
+        },
+        "directors": {
+            "awards": "Récompenses",
+            "films": "Nombre de Films",
+            "rating": "Note Moyenne"
+        },
+        "type": {
+            "title": "Type",
+            "movie": "Film",
+            "series": "Série"
+        },
+        "release_year": {
+            "title": "Année de Sortie",
+            "from": "De",
+            "to": "À",
+            "not_released_yet": "Pas encore sorti"
+        },
+        "event_era": {
+            "title": "Époque de l'Événement",
+            "from": "De",
+            "to": "À",
+            "undefined": "Non défini",
+            "titlePresent": "Présent",
+            "prehistory": "Période Préhistorique (Avant 3000 av. J.-C.)",
+            "ancient_world": "Monde Antique (3000 av. J.-C. - 500 ap. J.-C.)",
+            "early_middle_ages": "Haut Moyen Âge (500 - 1000)",
+            "high_middle_ages": "Moyen Âge classique (1000 - 1300)",
+            "late_middle_ages": "Bas Moyen Âge (1300 - 1500)",
+            "renaissance": "Renaissance (1500 - 1600)",
+            "baroque_period": "Période Baroque (1600 - 1700)",
+            "enlightenment": "Lumières (1700 - 1800)",
+            "industrial_revolution": "Révolution Industrielle (1800 - 1850)",
+            "victorian_era": "Époque Victorienne (1850 - 1900)",
+            "early_20th_century": "Début du 20e Siècle (1900 - 1930)",
+            "mid_20th_century_pre_ww2": "Avant-Guerre (1930 - 1940)",
+            "mid_20th_century": "Milieu du 20e Siècle (1940 - 1950)",
+            "late_1950s": "Fin des Années 1950 (1950 - 1960)",
+            "early_1960s": "Début des Années 1960 (1960 - 1970)",
+            "the_1970s": "Années 1970 (1970 - 1980)",
+            "the_1980s": "Années 1980 (1980 - 1990)",
+            "late_20th_century": "Fin du 20e Siècle (1990 - 2000)",
+            "early_21st_century": "Début du 21e Siècle (2000 - 2010)",
+            "the_2010s": "Années 2010 (2010 - Présent)"
+        },
+        "age_rating": {
+            "title": "Classification par Âge",
+            "full": {
+                "G": "Tous Publics",
+                "PG": "Accompagnement Parental Souhaitable",
+                "PG13": "Accompagnement Parental Fortement Recommandé",
+                "R": "Restreint",
+                "NC17": "Adultes Uniquement"
+            },
+            "short": {
+                "G": "TP",
+                "PG": "AP",
+                "PG13": "APFR",
+                "R": "R",
+                "NC17": "AU"
+            }
+        },
+        "awards": {
+            "title": "Récompenses",
+            "oscar": "Oscar",
+            "golden_globe": "Golden Globe",
+            "cannes": "Festival de Cannes",
+            "berlin": "Festival de Berlin",
+            "venice": "Festival de Venise",
+            "bafta": "BAFTA"
+        },
+        "countries": {
+            "title": "Pays",
+            "america": {
+                "title": "Amérique",
+                "regions": {
+                    "north_america": {
+                        "title": "Amérique du Nord",
+                        "countries": {
+                            "usa": "États-Unis",
+                            "canada": "Canada",
+                            "mexico": "Mexique",
+                            "other_noa": "Autres"
+                        }
+                    },
+                    "south_america": {
+                        "title": "Amérique du Sud",
+                        "countries": {
+                            "brazil": "Brésil",
+                            "argentina": "Argentine",
+                            "chile": "Chili",
+                            "other_soa": "Autres"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "Europe",
+                "regions": {
+                    "western_europe": {
+                        "title": "Europe de l'Ouest",
+                        "countries": {
+                            "uk": "Royaume-Uni",
+                            "germany": "Allemagne",
+                            "ireland": "Irlande",
+                            "france": "France",
+                            "other_wee": "Autres"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "Europe du Nord",
+                        "countries": {
+                            "denmark": "Danemark",
+                            "norway": "Norvège",
+                            "finland": "Finlande",
+                            "sweden": "Suède",
+                            "other_noe": "Autres"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "Europe Centrale",
+                        "countries": {
+                            "poland": "Pologne",
+                            "czech": "République Tchèque",
+                            "hungary": "Hongrie",
+                            "other_cee": "Autres"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "Europe du Sud",
+                        "countries": {
+                            "greece": "Grèce",
+                            "spain": "Espagne",
+                            "italy": "Italie",
+                            "portugal": "Portugal",
+                            "other_soe": "Autres"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "Europe de l'Est",
+                        "countries": {
+                            "ukraine": "Ukraine",
+                            "romania": "Roumanie",
+                            "russia": "Russie",
+                            "bulgaria": "Bulgarie",
+                            "other_eae": "Autres"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "Asie",
+                "regions": {
+                    "east_asia": {
+                        "title": "Asie de l'Est",
+                        "countries": {
+                            "japan": "Japon",
+                            "korea": "Corée du Sud",
+                            "china": "Chine",
+                            "other_eaa": "Autres"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "Asie du Sud-Est",
+                        "countries": {
+                            "thailand": "Thaïlande",
+                            "indonesia": "Indonésie",
+                            "other_soa": "Autres"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "Asie du Sud",
+                        "countries": {
+                            "india": "Inde",
+                            "other_sua": "Autres"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "Asie Centrale et Occidentale",
+                        "countries": {
+                            "turkey": "Turquie",
+                            "israel": "Israël",
+                            "iran": "Iran",
+                            "other_cwa": "Autres"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "Afrique",
+                "regions": {
+                    "all": {
+                        "title": "Tout",
+                        "countries": {
+                            "south_africa": "Afrique du Sud",
+                            "egypt": "Égypte",
+                            "other_afr": "Autres"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "Sélectionner Tags",
+            "motivational": "Motivationnel",
+            "feel_good": "Feel-Good",
+            "for_company": "Pour la Compagnie",
+            "based_on_books": "Basé sur des Livres",
+            "family": "Famille",
+            "festive": "Festif",
+            "musical": "Musical",
+            "arthouse": "Art et Essai",
+            "based_on_true_events": "Basé sur des Événements Réels"
+        },
+        "genres": {
+            "title": "Sélectionner Genres & Sous-genres",
+            "comedy": {
+                "title": "Comédie",
+                "subgenres": {
+                    "parody": "Parodie",
+                    "satire": "Satire",
+                    "dark_comedy": "Comédie Noire"
+                }
+            },
+            "drama": {
+                "title": "Drame",
+                "subgenres": {
+                    "psychological": "Psychologique",
+                    "social": "Social",
+                    "legal": "Juridique",
+                    "political": "Politique",
+                    "philosophical": "Philosophique",
+                    "religious": "Religieux",
+                    "spiritual": "Spirituel",
+                    "melancholic": "Mélancolique"
+                }
+            },
+            "thriller": {
+                "title": "Thriller",
+                "subgenres": {
+                    "psychological": "Psychologique",
+                    "crime": "Crime",
+                    "spy": "Espionnage",
+                    "disaster": "Catastrophe",
+                    "legal": "Juridique",
+                    "political": "Politique"
+                }
+            },
+            "horror": {
+                "title": "Horreur",
+                "subgenres": {
+                    "psychological": "Psychologique",
+                    "slasher": "Slasher",
+                    "monsters": "Monstres",
+                    "zombies": "Zombies",
+                    "vampires": "Vampires",
+                    "ghosts": "Fantômes"
+                }
+            },
+            "sci_fi": {
+                "title": "Science-Fiction",
+                "subgenres": {
+                    "superheroes": "Super-héros",
+                    "parallel_worlds": "Mondes Parallèles",
+                    "alternate_history": "Histoire Alternative",
+                    "post_apocalyptic": "Post-Apocalyptique"
+                }
+            },
+            "fantasy": {
+                "title": "Fantaisie",
+                "subgenres": {
+                    "magical_realism": "Réalisme Magique",
+                    "fantasy_universe": "Univers Fantastique",
+                    "dark_fantasy": "Fantaisie Sombre",
+                    "fairy_tales": "Contes de Fées"
+                }
+            },
+            "action": {
+                "title": "Action",
+                "subgenres": {
+                    "adrenaline": "Adrénaline",
+                    "fights": "Combats",
+                    "survival": "Survie"
+                }
+            },
+            "romance": {
+                "title": "Romance",
+                "subgenres": {
+                    "romantic": "Romantique",
+                    "teen": "Adolescent",
+                    "light_romance": "Romance Légère"
+                }
+            },
+            "adventure": {
+                "title": "Aventure",
+                "subgenres": {
+                    "adventurism": "Aventurisme",
+                    "travel": "Voyage",
+                    "expeditions": "Expéditions",
+                    "road_movie": "Road Movie"
+                }
+            },
+            "detective": {
+                "title": "Détective",
+                "subgenres": {
+                    "crime": "Crime",
+                    "detective": "Détective",
+                    "special_agents": "Agents Spéciaux",
+                    "maniacs": "Maniaques"
+                }
+            },
+            "historical": {
+                "title": "Historique",
+                "subgenres": {
+                    "ancient_world": "Monde Antique",
+                    "middle_ages": "Moyen Âge",
+                    "renaissance": "Renaissance",
+                    "victorian_era": "Époque Victorienne"
+                }
+            },
+            "war": {
+                "title": "Guerre",
+                "subgenres": {
+                    "world_war_i": "Première Guerre Mondiale",
+                    "world_war_ii": "Seconde Guerre Mondiale",
+                    "cold_war": "Guerre Froide",
+                    "modern_warfare": "Guerre Moderne",
+                    "anti_war": "Anti-Guerre"
+                }
+            },
+            "science": {
+                "title": "Science",
+                "subgenres": {
+                    "technology": "Technologie",
+                    "space": "Espace",
+                    "research": "Recherche",
+                    "medicine": "Médecine"
+                }
+            },
+            "animation": {
+                "title": "Animation",
+                "subgenres": {
+                    "drawn": "Dessiné",
+                    "computer": "Informatique",
+                    "stop_motion": "Stop Motion",
+                    "anime": "Anime"
+                }
+            },
+            "western": {
+                "title": "Western",
+                "subgenres": {
+                    "classic": "Classique",
+                    "spaghetti_western": "Western Spaghetti",
+                    "contemporary": "Contemporain"
+                }
+            },
+            "mystery": {
+                "title": "Mystère",
+                "subgenres": {
+                    "paranormal": "Paranormal",
+                    "supernatural": "Surnaturel"
+                }
+            },
+            "ethnographic": {
+                "title": "Ethnographique",
+                "subgenres": {
+                    "myths": "Mythes",
+                    "legends": "Légendes",
+                    "culture": "Culture",
+                    "folklore": "Folklore",
+                    "traditions": "Traditions",
+                    "ethnic_groups": "Groupes Ethniques",
+                    "nature": "Nature"
+                }
+            },
+            "biographical": {
+                "title": "Biographique",
+                "subgenres": {
+                    "musicians": "Musiciens",
+                    "politicians": "Politiciens",
+                    "athletes": "Athlètes",
+                    "artists": "Artistes",
+                    "scientists": "Scientifiques",
+                    "businessmen": "Hommes d'Affaires"
+                }
+            },
+            "sports": {
+                "title": "Sports",
+                "subgenres": {
+                    "racing": "Course",
+                    "boxing": "Boxe",
+                    "martial_arts": "Arts Martiaux"
+                }
+            }
+        },
+        "favorite": {
+            "add": "Ajouter à Ma Liste",
+            "remove": "Retirer de Ma Liste"
+        }
+    }
+}

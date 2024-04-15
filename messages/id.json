@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "Film",
+        "actors": "Aktor",
+        "directors": "Sutradara",
+        "my-lists": "Daftar Saya",
+        "about-us": "Tentang Kami",
+        "login": "Masuk",
+        "registration": "Registrasi",
+        "my-profile": "Profil Saya",
+        "logout": "Keluar",
+        "validation": "Validasi"
+    },
+    "FooterNavigation": {
+        "slogan": "Tonton Film yang Tepat",
+        "terms-of-use": "Syarat Penggunaan",
+        "privacy-policy": "Kebijakan Privasi",
+        "cookies-policy": "Kebijakan Cookie",
+        "about-us": "Tentang Kami",
+        "contact-us": "Hubungi Kami"
+    },
+    "LocaleLayoutPage": {
+        "name": "FilmAdvise",
+        "title": "Rekomendasi Film",
+        "description": "Dengan menggunakan filter genre, tag, rating, dan banyak parameter lainnya, Anda akan dapat memilih film untuk ditonton"
+    },
+    "NotFoundPage": {
+        "title": "404: Halaman Tidak Ditemukan",
+        "description": "Oops! Sepertinya halaman yang Anda coba capai telah pindah atau tidak ada. Tapi jangan khawatir, Anda dapat kembali ke halaman utama kami atau menjelajahi situs kami untuk menemukan ulasan film, berita terbaru, dan lainnya tentang dunia perfilman yang menarik."
+    },
+    "LocaleSwitcher": {
+        "label": "Ubah bahasa",
+        "locale": "{locale, select, en {Inggris} fr {Prancis} es {Spanyol} de {Jerman} pt {Portugis} it {Italia} nl {Belanda} sv {Swedia} no {Norwegia} da {Denmark} fi {Finlandia} cs {Ceko} pl {Polandia} uk {Ukraina} be {Belarusia} et {Estonia} lv {Latvia} lt {Lituania} ro {Rumania} kk {Kazakhstan} ru {Rusia} tr {Turki} he {Ibrani} ko {Korea} ja {Jepang} zh {Cina} hi {Hindi} ar {Arab} id {Indonesia} bg {Bulgaria} ka {Georgia} el {Yunani} other {Tidak Dikenal}}",
+        "select-language": "Pilih bahasa Anda"
+    },
+    "ActorsPage": {
+        "title": "Daftar semua aktor",
+        "note": "Pilih film berdasarkan aktor, mempertimbangkan bakat unik mereka, keragaman peran, dan spesialisasi genre, menggunakan filter"
+    },
+    "ActorPage": {
+        "title": "Tentang halaman aktor",
+        "birthday": "Tanggal Lahir",
+        "deathday": "Tanggal Kematian",
+        "bplace": "Tempat Lahir",
+        "biography": "Biografi"
+    },
+    "DirectorsPage": {
+        "title": "Daftar semua sutradara",
+        "note": "Pilih film berdasarkan sutradara, menjelajahi gaya unik mereka, kualitas kerja, dan spesialisasi dalam tema tertentu, menggunakan filter"
+    },
+    "DirectorPage": {
+        "title": "Tentang halaman sutradara",
+        "birthday": "Tanggal Lahir",
+        "deathday": "Tanggal Kematian",
+        "bplace": "Tempat Lahir",
+        "biography": "Biografi"
+    },
+    "FilmPage": {
+        "title": "Halaman Film",
+        "director": "Sutradara",
+        "overview": "Ikhtisar",
+        "release": "Tanggal Rilis",
+        "rating": "Rating",
+        "genres": "Genre & Subgenre",
+        "tags": "Tag",
+        "character": "sebagai",
+        "add": "Tambahkan ke Daftar Saya",
+        "remove": "Hapus Dari Daftar Saya"
+    },
+    "SeriesPage": {
+        "title": "Halaman Serial",
+        "director": "Sutradara",
+        "overview": "Ikhtisar",
+        "release": "Tanggal Rilis",
+        "rating": "Rating",
+        "genres": "Genre & Subgenre",
+        "tags": "Tag",
+        "character": "sebagai",
+        "seasons": "Musim",
+        "number_of_seasons": "Jumlah Musim",
+        "add": "Tambahkan ke Daftar Saya",
+        "remove": "Hapus Dari Daftar Saya"
+    },
+    "MyListPage": {
+        "title": "Daftar Saya",
+        "note": "Untuk menambahkan film atau acara TV ke favorit, silakan",
+        "or": "atau",
+        "login": "Masuk",
+        "registration": "Registrasi"
+    },
+    "AboutUsPage": {
+        "title": "Selamat datang di FilmAdvise!",
+        "contact": "Jika Anda memiliki saran, pertanyaan, atau keluhan, Anda dapat",
+        "contact-us": "menulis kepada kami",
+        "text": {
+            "part1": "Di situs web FilmAdvise, kami menawarkan pendekatan unik dalam memilih film dan serial yang berbeda dari yang pernah Anda lihat sebelumnya. Platform kami dibuat untuk mereka yang menghargai bioskop dan ingin menemukan karya sinematik yang sempurna untuk ditonton tanpa tersesat di lautan pilihan yang tak ada habisnya. Kami memahami betapa pentingnya menemukan film yang sesuai dengan suasana hati, minat, dan preferensi Anda. Itulah mengapa FilmAdvise mengkhususkan diri dalam memilih film berdasarkan seperangkat kriteria unik: genre dan subgenre, tag, rating, tahun rilis, negara produksi, zaman di mana aksi film terjadi, penghargaan, dan batasan usia.",
+            "part2": "Situs kami memberikan deskripsi yang detail untuk setiap kriteria seleksi, mulai dari daftar lengkap genre dan subgenre — dari komedi hingga film biografi, dan berakhir dengan zaman kejadian, mulai dari periode prasejarah hingga zaman modern. Kami memberikan perhatian khusus pada tag, seperti motivasi, membuat senang, untuk bersama, dan banyak lagi, sehingga Anda dapat memilih film yang sempurna sesuai dengan suasana hati atau situasi Anda. Fitur penting dari situs kami adalah rating film, yang dimulai dari 5, mengesampingkan karya-karya berkualitas rendah dan memastikan Anda hanya mendapatkan pilihan terbaik.",
+            "part3": "Selain itu, FilmAdvise menawarkan kesempatan unik untuk memilih film berdasarkan sutradara dan aktor terkenal, dengan mempertimbangkan rating rata-rata dari semua film mereka, jumlah karya sinematik, dan penghargaan. Hal ini memungkinkan penggemar pencipta tertentu dengan mudah menemukan karya-karya mereka yang memenuhi standar kualitas tinggi dan minat.",
+            "part4": "Di FilmAdvise, Anda tidak akan menemukan opsi untuk menonton film secara langsung di situs, tetapi Anda akan mendapatkan alat seleksi sinematik yang paling komprehensif dan detail yang kemudian dapat ditonton di platform lain atau di bioskop. Misi kami adalah untuk menyederhanakan proses pemilihan dengan menyediakan semua alat yang diperlukan untuk menemukan film yang akan menjadi penemuan sejati bagi Anda. Di dunia di mana puluhan film dan serial baru muncul setiap hari, FilmAdvise adalah panduan tepercaya Anda dalam dunia perfilman, membantu menemukan permata sejati di antara keragaman luas karya sinematik."
+        }
+    },
+    "TermsPage": {
+        "title": "Syarat dan Ketentuan Penggunaan Situs Web"
+    },
+    "PrivacyPage": {
+        "title": "Kebijakan Privasi"
+    },
+    "CookiePage": {
+        "title": "Kebijakan Cookie"
+    },
+    "ContactUsPage": {
+        "title": "Kontak",
+        "note": "Anda dapat mengirimkan saran, pertanyaan, keluhan, atau memberi tahu kami tentang kesalahan dalam data atau terjemahan",
+        "name": "Nama",
+        "email": "Email",
+        "text": "Pesan",
+        "send": "Kirim"
+    },
+    "LoginPage": {
+        "title": "Masuk",
+        "note": "Masuk ke akun Anda untuk menyimpan film favorit dan membuat daftar tontonan pribadi untuk ditonton di masa mendatang",
+        "no-account": "Belum memiliki akun?",
+        "registration": "Registrasi",
+        "forgot-password": "Jika Anda lupa kata sandi Anda, Anda dapat",
+        "recover": "memulihkannya",
+        "email": "Email",
+        "password": "Kata Sandi",
+        "send": "Masuk"
+    },
+    "RegistrationPage": {
+        "title": "Registrasi",
+        "note": "Daftar di FilmAdvise dan buka kemampuan untuk menyusun daftar film yang disukai untuk ditonton di masa mendatang",
+        "name": "Nama",
+        "email": "Email",
+        "password": "Kata Sandi",
+        "password-repeat": "Ulangi Kata Sandi",
+        "send": "Daftar"
+    },
+    "RecoverPage": {
+        "title": "Memulihkan Kata Sandi",
+        "note": "Jika Anda lupa kata sandi Anda, Anda dapat memulihkannya. Untuk melakukannya, Anda perlu memberikan email Anda, dan kami akan mengirimkan Anda kata sandi baru melalui email. Kemudian Anda dapat mengubahnya di akun pribadi Anda",
+        "email": "Email",
+        "send": "Memulihkan"
+    },
+    "ValidationPage": {
+        "title": "Validasi",
+        "ok": "Verifikasi email berhasil, nikmati pengalaman Anda!",
+        "error": "Verifikasi email tidak berhasil, harap lakukan proses registrasi lagi"
+    },
+    "MyProfilePage": {
+        "title": "Profil Saya",
+        "title-ava": "Pilih Avatar Anda",
+        "ava-color": "Warna Avatar",
+        "ava-img": "Gambar Avatar",
+        "email": "Email",
+        "title-password": "Ubah Kata Sandi",
+        "password-current": "Masukkan Kata Sandi Saat Ini",
+        "password-new": "Masukkan Kata Sandi Baru",
+        "password-success": "Perubahan kata sandi berhasil",
+        "password-error": "Kata sandi saat ini tidak cocok",
+        "title-name": "Nama",
+        "send": "Perbarui",
+        "emailUpdatedSuccess": "Email berhasil diperbarui",
+        "emailUpdateError": "Gagal memperbarui email",
+        "usernameUpdatedSuccess": "Nama pengguna berhasil diperbarui",
+        "usernameUpdateError": "Gagal memperbarui nama pengguna",
+        "passwordChangedSuccess": "Kata sandi berhasil diubah",
+        "passwordChangeError": "Gagal mengubah kata sandi"
+    },
+    "MainPage": {
+        "title": "Halaman Utama",
+        "warning": "Situs ini dalam mode demo, beberapa data tidak lengkap",
+        "warningM": "Situs ini dalam mode demo, beberapa data tidak lengkap (ditandai)",
+        "ShowButton": "Tampilkan Film",
+        "FilmFilter": {
+            "title": "Filter Film"
+        },
+        "GenresFilter": {
+            "title": "Filter Genre"
+        },
+        "AdditionalFilter": {
+            "title": "Filter Tambahan"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "Urutkan berdasarkan",
+            "rating": "Rating",
+            "year": "Tahun",
+            "count": "Jumlah"
+        },
+        "pagenav": {
+            "title": "Navigasi Halaman"
+        },
+        "typeformat": {
+            "title": "Jenis",
+            "film": "Film",
+            "series": "Serial"
+        },
+        "rating": {
+            "title": "Rating",
+            "from": "Dari",
+            "to": "Ke"
+        },
+        "filmcount": {
+            "title": "Jumlah Film",
+            "from": "Dari",
+            "to": "Ke"
+        },
+        "directors": {
+            "awards": "Penghargaan",
+            "films": "Jumlah Film",
+            "rating": "Rating Rata-Rata"
+        },
+        "type": {
+            "title": "Jenis",
+            "movie": "Film",
+            "series": "Serial"
+        },
+        "release_year": {
+            "title": "Tahun Rilis",
+            "from": "Dari",
+            "to": "Ke",
+            "not_released_yet": "Belum Dirilis"
+        },
+        "event_era": {
+            "title": "Era Acara",
+            "from": "Dari",
+            "to": "Ke",
+            "undefined": "Belum ditetapkan",
+            "titlePresent": "Saat Ini",
+            "prehistory": "Periode Prasejarah (Sebelum 3000 SM)",
+            "ancient_world": "Dunia Kuno (3000 SM - 500 M)",
+            "early_middle_ages": "Abad Pertengahan Awal (500 - 1000)",
+            "high_middle_ages": "Abad Pertengahan Tinggi (1000 - 1300)",
+            "late_middle_ages": "Abad Pertengahan Akhir (1300 - 1500)",
+            "renaissance": "Renaissance (1500 - 1600)",
+            "baroque_period": "Periode Baroque (1600 - 1700)",
+            "enlightenment": "Pencerahan (1700 - 1800)",
+            "industrial_revolution": "Revolusi Industri (1800 - 1850)",
+            "victorian_era": "Era Victoria (1850 - 1900)",
+            "early_20th_century": "Awal Abad ke-20 (1900 - 1930)",
+            "mid_20th_century_pre_ww2": "Praperang Dunia II (1930 - 1940)",
+            "mid_20th_century": "Tengah Abad ke-20 (1940 - 1950)",
+            "late_1950s": "Akhir 1950-an (1950 - 1960)",
+            "early_1960s": "Awal 1960-an (1960 - 1970)",
+            "the_1970s": "Tahun 1970-an (1970 - 1980)",
+            "the_1980s": "Tahun 1980-an (1980 - 1990)",
+            "late_20th_century": "Akhir Abad ke-20 (1990 - 2000)",
+            "early_21st_century": "Awal Abad ke-21 (2000 - 2010)",
+            "the_2010s": "Tahun 2010-an (2010 - Saat Ini)"
+        },
+        "age_rating": {
+            "title": "Rating Usia",
+            "full": {
+                "G": "G: Semua Umur",
+                "PG": "PG: Pengawasan Orang Tua",
+                "PG13": "PG 13: Dianjurkan Untuk Orang Tua",
+                "R": "R: Dibatasi",
+                "NC17": "NC 17: Dewasa"
+            },
+            "short": {
+                "G": "G",
+                "PG": "PG",
+                "PG13": "PG 13",
+                "R": "R",
+                "NC17": "NC 17"
+            }
+        },
+        "awards": {
+            "title": "Penghargaan",
+            "oscar": "Oscar",
+            "golden_globe": "Golden Globe",
+            "cannes": "Festival Film Cannes",
+            "berlin": "Festival Film Berlin",
+            "venice": "Festival Film Venesia",
+            "bafta": "BAFTA"
+        },
+        "countries": {
+            "title": "Negara-negara",
+            "america": {
+                "title": "Amerika",
+                "regions": {
+                    "north_america": {
+                        "title": "Amerika Utara",
+                        "countries": {
+                            "usa": "Amerika Serikat",
+                            "canada": "Kanada",
+                            "mexico": "Meksiko",
+                            "other_noa": "Lainnya"
+                        }
+                    },
+                    "south_america": {
+                        "title": "Amerika Selatan",
+                        "countries": {
+                            "brazil": "Brasil",
+                            "argentina": "Argentina",
+                            "chile": "Chile",
+                            "other_soa": "Lainnya"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "Eropa",
+                "regions": {
+                    "western_europe": {
+                        "title": "Eropa Barat",
+                        "countries": {
+                            "uk": "Inggris Raya",
+                            "germany": "Jerman",
+                            "ireland": "Irlandia",
+                            "france": "Prancis",
+                            "other_wee": "Lainnya"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "Eropa Utara",
+                        "countries": {
+                            "denmark": "Denmark",
+                            "norway": "Norwegia",
+                            "finland": "Finlandia",
+                            "sweden": "Swedia",
+                            "other_noe": "Lainnya"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "Eropa Tengah",
+                        "countries": {
+                            "poland": "Polandia",
+                            "czech": "Republik Ceko",
+                            "hungary": "Hungaria",
+                            "other_cee": "Lainnya"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "Eropa Selatan",
+                        "countries": {
+                            "greece": "Yunani",
+                            "spain": "Spanyol",
+                            "italy": "Italia",
+                            "portugal": "Portugal",
+                            "other_soe": "Lainnya"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "Eropa Timur",
+                        "countries": {
+                            "ukraine": "Ukraina",
+                            "romania": "Rumania",
+                            "russia": "Rusia",
+                            "bulgaria": "Bulgaria",
+                            "other_eae": "Lainnya"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "Asia",
+                "regions": {
+                    "east_asia": {
+                        "title": "Asia Timur",
+                        "countries": {
+                            "japan": "Jepang",
+                            "korea": "Korea Selatan",
+                            "china": "Cina",
+                            "other_eaa": "Lainnya"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "Asia Tenggara",
+                        "countries": {
+                            "thailand": "Thailand",
+                            "indonesia": "Indonesia",
+                            "other_soa": "Lainnya"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "Asia Selatan",
+                        "countries": {
+                            "india": "India",
+                            "other_sua": "Lainnya"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "Asia Tengah dan Barat",
+                        "countries": {
+                            "turkey": "Turki",
+                            "israel": "Israel",
+                            "iran": "Iran",
+                            "other_cwa": "Lainnya"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "Afrika",
+                "regions": {
+                    "all": {
+                        "title": "Semua",
+                        "countries": {
+                            "south_africa": "Afrika Selatan",
+                            "egypt": "Mesir",
+                            "other_afr": "Lainnya"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "Pilih Tag",
+            "motivational": "Motivasi",
+            "feel_good": "Membuat Senang",
+            "for_company": "Untuk Bersama",
+            "based_on_books": "Berdasarkan Buku",
+            "family": "Keluarga",
+            "festive": "Festif",
+            "musical": "Musikal",
+            "arthouse": "Seni",
+            "based_on_true_events": "Berdasarkan Peristiwa Nyata"
+        },
+        "genres": {
+            "title": "Pilih Genre & Subgenre",
+            "comedy": {
+                "title": "Komedi",
+                "subgenres": {
+                    "parody": "Parodi",
+                    "satire": "Satire",
+                    "dark_comedy": "Komedi Gelap"
+                }
+            },
+            "drama": {
+                "title": "Drama",
+                "subgenres": {
+                    "psychological": "Psikologis",
+                    "social": "Sosial",
+                    "legal": "Hukum",
+                    "political": "Politik",
+                    "philosophical": "Filosofis",
+                    "religious": "Keagamaan",
+                    "spiritual": "Spiritual",
+                    "melancholic": "Melankolis"
+                }
+            },
+            "thriller": {
+                "title": "Thriller",
+                "subgenres": {
+                    "psychological": "Psikologis",
+                    "crime": "Kejahatan",
+                    "spy": "Mata-Mata",
+                    "disaster": "Bencana",
+                    "legal": "Hukum",
+                    "political": "Politik"
+                }
+            },
+            "horror": {
+                "title": "Horor",
+                "subgenres": {
+                    "psychological": "Psikologis",
+                    "slasher": "Slasher",
+                    "monsters": "Monster",
+                    "zombies": "Zombie",
+                    "vampires": "Vampir",
+                    "ghosts": "Hantu"
+                }
+            },
+            "sci_fi": {
+                "title": "Sains Fiksi",
+                "subgenres": {
+                    "superheroes": "Pahlawan Super",
+                    "parallel_worlds": "Dunia Paralel",
+                    "alternate_history": "Sejarah Alternatif",
+                    "post_apocalyptic": "Pasca-Apokaliptik"
+                }
+            },
+            "fantasy": {
+                "title": "Fantasi",
+                "subgenres": {
+                    "magical_realism": "Realisme Magis",
+                    "fantasy_universe": "Univers Fantasi",
+                    "dark_fantasy": "Fantasi Gelap",
+                    "fairy_tales": "Cerita Dongeng"
+                }
+            },
+            "action": {
+                "title": "Aksi",
+                "subgenres": {
+                    "adrenaline": "Adrenalin",
+                    "fights": "Pertarungan",
+                    "survival": "Survival"
+                }
+            },
+            "romance": {
+                "title": "Romantis",
+                "subgenres": {
+                    "romantic": "Romantis",
+                    "teen": "Remaja",
+                    "light_romance": "Romantis Ringan"
+                }
+            },
+            "adventure": {
+                "title": "Petualangan",
+                "subgenres": {
+                    "adventurism": "Petualangan",
+                    "travel": "Perjalanan",
+                    "expeditions": "Ekspedisi",
+                    "road_movie": "Film Perjalanan"
+                }
+            },
+            "detective": {
+                "title": "Detektif",
+                "subgenres": {
+                    "crime": "Kejahatan",
+                    "detective": "Detektif",
+                    "special_agents": "Agen Khusus",
+                    "maniacs": "Maniak"
+                }
+            },
+            "historical": {
+                "title": "Sejarah",
+                "subgenres": {
+                    "ancient_world": "Dunia Kuno",
+                    "middle_ages": "Abad Pertengahan",
+                    "renaissance": "Renaissance",
+                    "victorian_era": "Era Victoria"
+                }
+            },
+            "war": {
+                "title": "Perang",
+                "subgenres": {
+                    "world_war_i": "Perang Dunia I",
+                    "world_war_ii": "Perang Dunia II",
+                    "cold_war": "Perang Dingin",
+                    "modern_warfare": "Perang Modern",
+                    "anti_war": "Anti-Perang"
+                }
+            },
+            "science": {
+                "title": "Sains",
+                "subgenres": {
+                    "technology": "Teknologi",
+                    "space": "Luas Angkasa",
+                    "research": "Penelitian",
+                    "medicine": "Kedokteran"
+                }
+            },
+            "animation": {
+                "title": "Animasi",
+                "subgenres": {
+                    "drawn": "Digambar",
+                    "computer": "Komputer",
+                    "stop_motion": "Stop Motion",
+                    "anime": "Anime"
+                }
+            },
+            "western": {
+                "title": "Barat",
+                "subgenres": {
+                    "classic": "Klasik",
+                    "spaghetti_western": "Spaghetti Western",
+                    "contemporary": "Kontemporer"
+                }
+            },
+            "mystery": {
+                "title": "Misteri",
+                "subgenres": {
+                    "paranormal": "Paranormal",
+                    "supernatural": "Supranatural"
+                }
+            },
+            "ethnographic": {
+                "title": "Etnografis",
+                "subgenres": {
+                    "myths": "Mitos",
+                    "legends": "Legenda",
+                    "culture": "Budaya",
+                    "folklore": "Folklor",
+                    "traditions": "Tradisi",
+                    "ethnic_groups": "Kelompok Etnis",
+                    "nature": "Alam"
+                }
+            },
+            "biographical": {
+                "title": "Biografi",
+                "subgenres": {
+                    "musicians": "Musisi",
+                    "politicians": "Politisi",
+                    "athletes": "Atlet",
+                    "artists": "Seniman",
+                    "scientists": "Ilmuwan",
+                    "businessmen": "Pengusaha"
+                }
+            },
+            "sports": {
+                "title": "Olahraga",
+                "subgenres": {
+                    "racing": "Balap",
+                    "boxing": "Pertandingan Tinju",
+                    "martial_arts": "Seni Bela Diri"
+                }
+            }
+        },
+        "favorite": {
+            "add": "Tambahkan ke Daftar Saya",
+            "remove": "Hapus dari Daftar Saya"
+        }
+    }
+}

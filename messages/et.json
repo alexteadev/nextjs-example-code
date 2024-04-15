@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "Filmid",
+        "actors": "Näitlejad",
+        "directors": "Režissöörid",
+        "my-lists": "Minu Loendid",
+        "about-us": "Meist",
+        "login": "Logi sisse",
+        "registration": "Registreerimine",
+        "my-profile": "Minu Profiil",
+        "logout": "Logi välja",
+        "validation": "Kinnitamine"
+    },
+    "FooterNavigation": {
+        "slogan": "Vaata õigeid filme",
+        "terms-of-use": "Kasutustingimused",
+        "privacy-policy": "Privaatsuspoliitika",
+        "cookies-policy": "Küpsiste poliitika",
+        "about-us": "Meist",
+        "contact-us": "Võtke meiega ühendust"
+    },
+    "LocaleLayoutPage": {
+        "name": "Filmisoovitus",
+        "title": "Filmisoovitus",
+        "description": "Kasutades žanrit, silte, hinnanguid ja paljusid teisi parameetreid saate filtreerida ning valida filmi vaatamiseks"
+    },
+    "NotFoundPage": {
+        "title": "404: Lehekülge ei leitud",
+        "description": "Huh! Tundub, et proovitud lehekülg on kas kolinud või seda pole olemas. Kuid ärge muretsege, saate naasta avalehele või uurida meie saidil ringi, et leida filmiarvustusi, viimaseid uudiseid ja rohkem huvitavat kinomaailmast."
+    },
+    "LocaleSwitcher": {
+        "label": "Keelt muuta",
+        "locale": "{locale, select, en {Inglise keel} fr {Prantsuse keel} es {Hispaania keel} de {Saksa keel} pt {Portugali keel} it {Itaalia keel} nl {Hollandi keel} sv {Rootsi keel} no {Norra keel} da {Taani keel} fi {Soome keel} cs {Tšehhi keel} pl {Poola keel} uk {Ukraina keel} be {Valgevene keel} et {Eesti keel} lv {Läti keel} lt {Leedu keel} ro {Rumeenia keel} kk {Kasahhi keel} ru {Vene keel} tr {Türgi keel} he {Heebrea keel} ko {Korea keel} ja {Jaapani keel} zh {Hiina keel} hi {Hindi keel} ar {Araabia keel} id {Indoneesia keel} bg {Bulgaaria keel} ka {Gruusia keel} el {Kreeka keel} other {Tundmatu}}",
+        "select-language": "Valige oma keel"
+    },
+    "ActorsPage": {
+        "title": "Kõigi näitlejate nimekiri",
+        "note": "Valige filme näitlejate järgi, arvestades nende unikaalset talenti, rollide mitmekesisust ja žanrispetsialiseerumist, kasutades filtreid"
+    },
+    "ActorPage": {
+        "title": "Näitleja leht",
+        "birthday": "Sünnipäev",
+        "deathday": "Surmapäev",
+        "bplace": "Sünnikoht",
+        "biography": "Biograafia"
+    },
+    "DirectorsPage": {
+        "title": "Kõigi režissööride nimekiri",
+        "note": "Valige filme režissööri järgi, uurides nende unikaalset stiili, töö kvaliteeti ja spetsialiseerumist teatud teemadele, kasutades filtreid"
+    },
+    "DirectorPage": {
+        "title": "Režissööri leht",
+        "birthday": "Sünnipäev",
+        "deathday": "Surmapäev",
+        "bplace": "Sünnikoht",
+        "biography": "Biograafia"
+    },
+    "FilmPage": {
+        "title": "Filmi leht",
+        "director": "Režissöör",
+        "overview": "Ülevaade",
+        "release": "Väljalase",
+        "rating": "Hinne",
+        "genres": "Žanrid ja alamžanrid",
+        "tags": "Sildid",
+        "character": "nagu",
+        "add": "Lisa minu loendisse",
+        "remove": "Eemalda minu loendist"
+    },
+    "SeriesPage": {
+        "title": "Sarja leht",
+        "director": "Režissöör",
+        "overview": "Ülevaade",
+        "release": "Väljalase",
+        "rating": "Hinne",
+        "genres": "Žanrid ja alamžanrid",
+        "tags": "Sildid",
+        "character": "nagu",
+        "seasons": "Hooajad",
+        "number_of_seasons": "Hooaegade arv",
+        "add": "Lisa minu loendisse",
+        "remove": "Eemalda minu loendist"
+    },
+    "MyListPage": {
+        "title": "Minu Loend",
+        "note": "Lemmikfilmide või telesaadete lisamiseks palun",
+        "or": "või",
+        "login": "Logi sisse",
+        "registration": "Registreeri"
+    },
+    "AboutUsPage": {
+        "title": "Tere tulemast Filmisoovitusse!",
+        "contact": "Kui teil on ettepanekuid, küsimusi või kaebusi, võite",
+        "contact-us": "meiega ühendust võtta",
+        "text": {
+            "part1": "Filmisoovituse veebisaidil pakume unikaalset lähenemist filmide ja seriaalide valimisele, mis eristub kõigest, mida olete varem näinud. Meie platvorm on loodud neile, kes hindavad kinematograafiat ja soovivad leida täiusliku kinoteose vaatamiseks ilma lõputus valikute meres ekslemata. Mõistame, kui oluline on leida film, mis vastab teie meeleoludele, huvidele ja eelistustele. Seetõttu on Filmisoovitus spetsialiseerunud filmide valimisele ainulaadse kriteeriumikomplekti alusel: žanrid ja alamžanrid, sildid, hinnangud, väljalaske aastad, tootmismajade riigid, ajastud, milles filmi tegevus toimub, auhinnad ja vanusepiirangud.",
+            "part2": "Meie sait pakub üksikasjalikku kirjeldust iga valikukriteeriumi kohta, alates täielikust žanrite ja alamžanrite nimekirjast - komöödiast kuni biograafiliste filmideni ja lõpetades sündmuste ajastutega, alates eelajaloolisest perioodist kuni tänapäevani. Pöörame erilist tähelepanu siltidele, nagu motiveeriv, hea tuju, seltskonna ja paljudele teistele, et saaksite valida filmi, mis sobib ideaalselt teie meeleoluga või olukorraga. Meie saidi oluline omadus on filmi hinnang, mis algab 5-st, välistades madalama kvaliteediga tööd ja tagades teile vaid parima valiku.",
+            "part3": "Lisaks pakub Filmisoovitus ainulaadset võimalust valida filme tuntud režissööride ja näitlejate järgi, arvestades kõigi nende filmide keskmist hinnangut, kinoteoste arvu ja auhindu. See võimaldab teatud loojate fännidel leida kergesti nende teosed, mis vastavad kõrgetele kvaliteedinõuetele ja huvidele.",
+            "part4": "Filmisoovituses ei leia te võimalust filme otse saidil vaadata, kuid saate kõige põhjalikuma ja üksikasjalikuma tööriista kinoteose valimiseks, mida saab seejärel vaadata teistel platvormidel või kinodes. Meie missiooniks on lihtsustada valimisprotsessi, pakkudes teile kõiki vajalikke tööriistu filmi leidmiseks, mis saab teile tõeliseks avastuseks. Maailmas, kus iga päev ilmub tosinaid uusi filme ja seriaale, on Filmisoovitus teie usaldusväärne teejuht kinomaailmas, aidates leida tõelisi pärleid kinoteoste tohutu mitmekesisuse hulgast."
+        }
+    },
+    "TermsPage": {
+        "title": "Veebisaidi kasutustingimused"
+    },
+    "PrivacyPage": {
+        "title": "Privaatsuspoliitika"
+    },
+    "CookiePage": {
+        "title": "Küpsiste poliitika"
+    },
+    "ContactUsPage": {
+        "title": "Kontaktid",
+        "note": "Saate meile saata oma ettepanekuid, küsimusi, kaebusi või teatada vigadest andmetes või tõlkes",
+        "name": "Nimi",
+        "email": "E-post",
+        "text": "Sõnum",
+        "send": "Saada"
+    },
+    "LoginPage": {
+        "title": "Logi sisse",
+        "note": "Logige sisse oma kontole lemmikfilmide salvestamiseks ja isikliku vaatamisloendi koostamiseks tulevaste vaatamiste jaoks",
+        "no-account": "Ei ole kontot?",
+        "registration": "Registreerimine",
+        "forgot-password": "Kui olete oma parooli unustanud, saate",
+        "recover": "selle taastada",
+        "email": "E-post",
+        "password": "Parool",
+        "send": "Logi sisse"
+    },
+    "RegistrationPage": {
+        "title": "Registreerimine",
+        "note": "Registreeru Filmisoovituses ja avage võimalus meeldinud filmide loendi koostamiseks tulevaste vaatamiste jaoks",
+        "name": "Nimi",
+        "email": "E-post",
+        "password": "Parool",
+        "password-repeat": "Korda parooli",
+        "send": "Registreeri"
+    },
+    "RecoverPage": {
+        "title": "Parooli taastamine",
+        "note": "Kui olete oma parooli unustanud, saate selle taastada. Selleks peate esitama oma e-posti aadressi, ja me saadame teile uue parooli meiliga. Seejärel saate selle oma isiklikus kontos muuta",
+        "email": "E-post",
+        "send": "Taasta"
+    },
+    "ValidationPage": {
+        "title": "Kinnitamine",
+        "ok": "E-posti kinnitamine õnnestus, nautige oma kogemust!",
+        "error": "E-posti kinnitamine ebaõnnestus, palun minge läbi registreerimisprotsess uuesti"
+    },
+    "MyProfilePage": {
+        "title": "Minu Profiil",
+        "title-ava": "Valige oma avatar",
+        "ava-color": "Avatar Värv",
+        "ava-img": "Avatar Pilt",
+        "email": "Email",
+        "title-password": "Muuda parooli",
+        "password-current": "Sisestage praegune parool",
+        "password-new": "Sisestage uus parool",
+        "password-success": "Parooli muutmine õnnestus",
+        "password-error": "Praegune parool ei ühti",
+        "title-name": "Nimi",
+        "send": "Uuenda",
+        "emailUpdatedSuccess": "Emaili uuendamine õnnestus",
+        "emailUpdateError": "Emaili uuendamine ebaõnnestus",
+        "usernameUpdatedSuccess": "Kasutajanime uuendamine õnnestus",
+        "usernameUpdateError": "Kasutajanime uuendamine ebaõnnestus",
+        "passwordChangedSuccess": "Parooli muutmine õnnestus",
+        "passwordChangeError": "Parooli muutmine ebaõnnestus"
+    },
+    "MainPage": {
+        "title": "Põhileht",
+        "warning": "Sait on demo-režiimis, mõned andmed on puudulikud",
+        "warningM": "Sait on demo-režiimis, mõned andmed on puudulikud (märgitud)",
+        "ShowButton": "Näita filme",
+        "FilmFilter": {
+            "title": "Filtri filter"
+        },
+        "GenresFilter": {
+            "title": "Žanrite filter"
+        },
+        "AdditionalFilter": {
+            "title": "Täiendav filter"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "Sorteerimine",
+            "rating": "Hinne",
+            "year": "Aasta",
+            "count": "Loend"
+        },
+        "pagenav": {
+            "title": "Lehekülje navigeerimine"
+        },
+        "typeformat": {
+            "title": "Tüüp",
+            "film": "Filmid",
+            "series": "Sarjad"
+        },
+        "rating": {
+            "title": "Hinne",
+            "from": "Alates",
+            "to": "Kuni"
+        },
+        "filmcount": {
+            "title": "Filmi loend",
+            "from": "Alates",
+            "to": "Kuni"
+        },
+        "directors": {
+            "awards": "Auhinnad",
+            "films": "Filmide loend",
+            "rating": "Keskmine hinne"
+        },
+        "type": {
+            "title": "Tüüp",
+            "movie": "Film",
+            "series": "Sari"
+        },
+        "release_year": {
+            "title": "Väljalaskeaasta",
+            "from": "Alates",
+            "to": "Kuni",
+            "not_released_yet": "Pole veel välja antud"
+        },
+        "event_era": {
+            "title": "Sündmuse ajastu",
+            "from": "Alates",
+            "to": "Kuni",
+            "undefined": "Määramata",
+            "titlePresent": "Praegune",
+            "prehistory": "Eelajalooline periood (enne 3000 eKr)",
+            "ancient_world": "Antiikmaailm (3000 eKr - 500 pKr)",
+            "early_middle_ages": "Varane keskaja (500 - 1000)",
+            "high_middle_ages": "Kõrge keskaja (1000 - 1300)",
+            "late_middle_ages": "Hiline keskaja (1300 - 1500)",
+            "renaissance": "Renessanss (1500 - 1600)",
+            "baroque_period": "Barokiperiood (1600 - 1700)",
+            "enlightenment": "Valgustus (1700 - 1800)",
+            "industrial_revolution": "Tööstusrevolutsioon (1800 - 1850)",
+            "victorian_era": "Viktoriaanlik ajastu (1850 - 1900)",
+            "early_20th_century": "Varane 20. sajand (1900 - 1930)",
+            "mid_20th_century_pre_ww2": "Enne Teist maailmasõda (1930 - 1940)",
+            "mid_20th_century": "Keskel 20. sajand (1940 - 1950)",
+            "late_1950s": "Hilised 1950ndad (1950 - 1960)",
+            "early_1960s": "Varased 1960ndad (1960 - 1970)",
+            "the_1970s": "1970. aastad (1970 - 1980)",
+            "the_1980s": "1980. aastad (1980 - 1990)",
+            "late_20th_century": "Hiline 20. sajand (1990 - 2000)",
+            "early_21st_century": "Varane 21. sajand (2000 - 2010)",
+            "the_2010s": "2010. aastad (2010 - Praegune)"
+        },
+        "age_rating": {
+            "title": "Vanusepiirang",
+            "full": {
+                "G": "G: Üldpublikule",
+                "PG": "PG: Soovitatav vanemlik hoolitsus",
+                "PG13": "PG 13: Vanemad peaksid olema tugevalt hoiatatud",
+                "R": "R: Piiratud",
+                "NC17": "NC 17: Ainult täiskasvanutele"
+            },
+            "short": {
+                "G": "G",
+                "PG": "PG",
+                "PG13": "PG 13",
+                "R": "R",
+                "NC17": "NC 17"
+            }
+        },
+        "awards": {
+            "title": "Auhinnad",
+            "oscar": "Oscar",
+            "golden_globe": "Kuldne Gloobus",
+            "cannes": "Cannes'i filmifestival",
+            "berlin": "Berliini filmifestival",
+            "venice": "Veneetsia filmifestival",
+            "bafta": "BAFTA"
+        },
+        "countries": {
+            "title": "Riigid",
+            "america": {
+                "title": "Ameerika",
+                "regions": {
+                    "north_america": {
+                        "title": "Põhja-Ameerika",
+                        "countries": {
+                            "usa": "Ameerika Ühendriigid",
+                            "canada": "Kanada",
+                            "mexico": "Mehhiko",
+                            "other_noa": "Muud"
+                        }
+                    },
+                    "south_america": {
+                        "title": "Lõuna-Ameerika",
+                        "countries": {
+                            "brazil": "Brasiilia",
+                            "argentina": "Argentina",
+                            "chile": "Tšiili",
+                            "other_soa": "Muud"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "Euroopa",
+                "regions": {
+                    "western_europe": {
+                        "title": "Lääne-Euroopa",
+                        "countries": {
+                            "uk": "Suurbritannia",
+                            "germany": "Saksamaa",
+                            "ireland": "Iirimaa",
+                            "france": "Prantsusmaa",
+                            "other_wee": "Muud"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "Põhja-Euroopa",
+                        "countries": {
+                            "denmark": "Taani",
+                            "norway": "Norra",
+                            "finland": "Soome",
+                            "sweden": "Rootsi",
+                            "other_noe": "Muud"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "Kesk-Euroopa",
+                        "countries": {
+                            "poland": "Poola",
+                            "czech": "Tšehhi Vabariik",
+                            "hungary": "Ungari",
+                            "other_cee": "Muud"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "Lõuna-Euroopa",
+                        "countries": {
+                            "greece": "Kreeka",
+                            "spain": "Hispaania",
+                            "italy": "Itaalia",
+                            "portugal": "Portugal",
+                            "other_soe": "Muud"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "Ida-Euroopa",
+                        "countries": {
+                            "ukraine": "Ukraina",
+                            "romania": "Rumeenia",
+                            "russia": "Venemaa",
+                            "bulgaria": "Bulgaaria",
+                            "other_eae": "Muud"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "Aasia",
+                "regions": {
+                    "east_asia": {
+                        "title": "Ida-Aasia",
+                        "countries": {
+                            "japan": "Jaapan",
+                            "korea": "Lõuna-Korea",
+                            "china": "Hiina",
+                            "other_eaa": "Muud"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "Kagu-Aasia",
+                        "countries": {
+                            "thailand": "Tai",
+                            "indonesia": "Indoneesia",
+                            "other_soa": "Muud"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "Lõuna-Aasia",
+                        "countries": {
+                            "india": "India",
+                            "other_sua": "Muud"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "Kesk- ja Lääne-Aasia",
+                        "countries": {
+                            "turkey": "Türgi",
+                            "israel": "Iisrael",
+                            "iran": "Iraan",
+                            "other_cwa": "Muud"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "Aafrika",
+                "regions": {
+                    "all": {
+                        "title": "Kõik",
+                        "countries": {
+                            "south_africa": "Lõuna-Aafrika Vabariik",
+                            "egypt": "Egiptus",
+                            "other_afr": "Muud"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "Valige märksõnad",
+            "motivational": "Motivatsioon",
+            "feel_good": "Hea tuju",
+            "for_company": "Sobib seltskonnale",
+            "based_on_books": "Põhineb raamatul",
+            "family": "Pere",
+            "festive": "Pidulik",
+            "musical": "Muusikal",
+            "arthouse": "Arthouse",
+            "based_on_true_events": "Põhineb tõestisündinud sündmustel"
+        },
+        "genres": {
+            "title": "Valige žanrid ja alamžanrid",
+            "comedy": {
+                "title": "Komöödia",
+                "subgenres": {
+                    "parody": "Paroodia",
+                    "satire": "Satire",
+                    "dark_comedy": "Tume komöödia"
+                }
+            },
+            "drama": {
+                "title": "Draama",
+                "subgenres": {
+                    "psychological": "Psühholoogiline",
+                    "social": "Sotsiaalne",
+                    "legal": "Õiguslik",
+                    "political": "Polüütiline",
+                    "philosophical": "Filosoofiline",
+                    "religious": "Religioosne",
+                    "spiritual": "Vaimne",
+                    "melancholic": "Melanhoolne"
+                }
+            },
+            "thriller": {
+                "title": "Põnevik",
+                "subgenres": {
+                    "psychological": "Psühholoogiline",
+                    "crime": "Kuritegevus",
+                    "spy": "Spioon",
+                    "disaster": "Õnnetus",
+                    "legal": "Õiguslik",
+                    "political": "Polüütiline"
+                }
+            },
+            "horror": {
+                "title": "Õudus",
+                "subgenres": {
+                    "psychological": "Psühholoogiline",
+                    "slasher": "Lõikaja",
+                    "monsters": "Koletised",
+                    "zombies": "Zombid",
+                    "vampires": "Vampiirid",
+                    "ghosts": "Haldjad"
+                }
+            },
+            "sci_fi": {
+                "title": "Ulme",
+                "subgenres": {
+                    "superheroes": "Superkangelased",
+                    "parallel_worlds": "Paralleelmaailmad",
+                    "alternate_history": "Alternatiivne ajalugu",
+                    "post_apocalyptic": "Post-apokalüptiline"
+                }
+            },
+            "fantasy": {
+                "title": "Fantaasia",
+                "subgenres": {
+                    "magical_realism": "Maagiline realism",
+                    "fantasy_universe": "Fantaasiamaailm",
+                    "dark_fantasy": "Tume fantaasia",
+                    "fairy_tales": "Muinasjutud"
+                }
+            },
+            "action": {
+                "title": "Märul",
+                "subgenres": {
+                    "adrenaline": "Adrenaliin",
+                    "fights": "Võitlused",
+                    "survival": "Elulemus"
+                }
+            },
+            "romance": {
+                "title": "Romantika",
+                "subgenres": {
+                    "romantic": "Romantiline",
+                    "teen": "Noorte",
+                    "light_romance": "Kerge romantika"
+                }
+            },
+            "adventure": {
+                "title": "Seiklus",
+                "subgenres": {
+                    "adventurism": "Seiklushimu",
+                    "travel": "Reisimine",
+                    "expeditions": "Ekspeditsioonid",
+                    "road_movie": "Teemantfilmi"
+                }
+            },
+            "detective": {
+                "title": "Detektiiv",
+                "subgenres": {
+                    "crime": "Kuritegevus",
+                    "detective": "Detektiiv",
+                    "special_agents": "Erivahendid",
+                    "maniacs": "Maaniakad"
+                }
+            },
+            "historical": {
+                "title": "Ajalooline",
+                "subgenres": {
+                    "ancient_world": "Muinasmaailm",
+                    "middle_ages": "Keskajad",
+                    "renaissance": "Renessanss",
+                    "victorian_era": "Viktoriaanlik ajastu"
+                }
+            },
+            "war": {
+                "title": "Sõda",
+                "subgenres": {
+                    "world_war_i": "Esimene maailmasõda",
+                    "world_war_ii": "Teine maailmasõda",
+                    "cold_war": "Külm sõda",
+                    "modern_warfare": "Kaasaegne sõjapidamine",
+                    "anti_war": "Vastu sõda"
+                }
+            },
+            "science": {
+                "title": "Teadus",
+                "subgenres": {
+                    "technology": "Tehnoloogia",
+                    "space": "Kosmos",
+                    "research": "Uurimistöö",
+                    "medicine": "Meditsiin"
+                }
+            },
+            "animation": {
+                "title": "Animatsioon",
+                "subgenres": {
+                    "drawn": "Joonistatud",
+                    "computer": "Arvutus",
+                    "stop_motion": "Stopp-animatsioon",
+                    "anime": "Anime"
+                }
+            },
+            "western": {
+                "title": "Lääne",
+                "subgenres": {
+                    "classic": "Klassika",
+                    "spaghetti_western": "Spagetikolmik",
+                    "contemporary": "Kaasaegne"
+                }
+            },
+            "mystery": {
+                "title": "Müsteerium",
+                "subgenres": {
+                    "paranormal": "Paranormaalne",
+                    "supernatural": "Üleloomulik"
+                }
+            },
+            "ethnographic": {
+                "title": "Etnograafiline",
+                "subgenres": {
+                    "myths": "Müüdid",
+                    "legends": "Legendid",
+                    "culture": "Kultuur",
+                    "folklore": "Rahvaluule",
+                    "traditions": "Traditsioonid",
+                    "ethnic_groups": "Etnilised rühmad",
+                    "nature": "Loodus"
+                }
+            },
+            "biographical": {
+                "title": "Biograafiline",
+                "subgenres": {
+                    "musicians": "Muusikud",
+                    "politicians": "Poliitikud",
+                    "athletes": "Sportlased",
+                    "artists": "Kunstnikud",
+                    "scientists": "Teadlased",
+                    "businessmen": "Ärimehed"
+                }
+            },
+            "sports": {
+                "title": "Sport",
+                "subgenres": {
+                    "racing": "Võidusõit",
+                    "boxing": "Poksimine",
+                    "martial_arts": "Võitluskunstid"
+                }
+            }
+        },
+        "favorite": {
+            "add": "Lisa minu nimekirja",
+            "remove": "Eemalda minu nimekirjast"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+.year {
+    display: flex;
+    gap: 15px;
+    padding-top: 10px;
+    align-items: center;
+    // flex-direction: column;
+
+    &_title {
+        cursor: default;
+        white-space: nowrap;
+        font-size: 14px;
+        text-transform: uppercase;
+    }
+
+    &_fromto {
+        white-space: nowrap;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    &_box {
+        display: flex;
+        gap: 15px;
+        align-items: center;            
+    }
+}

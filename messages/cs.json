@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "Filmy",
+        "actors": "Herci",
+        "directors": "Režiséři",
+        "my-lists": "Moje Seznamy",
+        "about-us": "O Nás",
+        "login": "Přihlášení",
+        "registration": "Registrace",
+        "my-profile": "Můj Profil",
+        "logout": "Odhlášení",
+        "validation": "Validace"
+    },
+    "FooterNavigation": {
+        "slogan": "Sledujte správné filmy",
+        "terms-of-use": "Podmínky použití",
+        "privacy-policy": "Zásady ochrany osobních údajů",
+        "cookies-policy": "Zásady používání cookies",
+        "about-us": "O nás",
+        "contact-us": "Kontaktujte nás"
+    },
+    "LocaleLayoutPage": {
+        "name": "FilmRada",
+        "title": "Filmová doporučení",
+        "description": "Použitím žánru, štítků, hodnocení a mnoha dalších parametrů filtru si budete moci vybrat film k zhlédnutí"
+    },
+    "NotFoundPage": {
+        "title": "404: Stránka nenalezena",
+        "description": "Oops! Vypadá to, že stránka, kterou se snažíte dosáhnout, buď přesunula nebo neexistuje. Ale nebojte se, můžete se vrátit na naši domovskou stránku nebo prozkoumat naše stránky, abyste našli recenze filmů, nejnovější zprávy a další informace o fascinujícím světě kinematografie."
+    },
+    "LocaleSwitcher": {
+        "label": "Změnit jazyk",
+        "locale": "{locale, select, en {Angličtina} fr {Francouzština} es {Španělština} de {Němčina} pt {Portugalština} it {Italština} nl {Holandština} sv {Švédština} no {Norština} da {Dánština} fi {Finština} cs {Čeština} pl {Polština} uk {Ukrajinština} be {Běloruština} et {Estonština} lv {Lotyština} lt {Litevština} ro {Rumunština} kk {Kazaština} ru {Ruština} tr {Turečtina} he {Hebrejština} ko {Korejština} ja {Japonština} zh {Čínština} hi {Hindština} ar {Arabština} id {Indonéština} bg {Bulharština} ka {Gruzínština} el {Řečtina} other {Neznámý}}",
+        "select-language": "Vyberte váš jazyk"
+    },
+    "ActorsPage": {
+        "title": "Seznam všech herců",
+        "note": "Vyberte filmy podle herců, zvážte jejich jedinečný talent, rozmanitost rolí a specializaci na žánr pomocí filtrů"
+    },
+    "ActorPage": {
+        "title": "O stránce herce",
+        "birthday": "Datum narození",
+        "deathday": "Datum úmrtí",
+        "bplace": "Místo narození",
+        "biography": "Životopis"
+    },
+    "DirectorsPage": {
+        "title": "Seznam všech režisérů",
+        "note": "Vyberte filmy podle režiséra, prozkoumejte jejich jedinečný styl, kvalitu práce a specializaci na určité téma pomocí filtrů"
+    },
+    "DirectorPage": {
+        "title": "O stránce režiséra",
+        "birthday": "Datum narození",
+        "deathday": "Datum úmrtí",
+        "bplace": "Místo narození",
+        "biography": "Životopis"
+    },
+    "FilmPage": {
+        "title": "Stránka filmu",
+        "director": "Režisér",
+        "overview": "Přehled",
+        "release": "Vydání",
+        "rating": "Hodnocení",
+        "genres": "Žánry a podžánry",
+        "tags": "Štítky",
+        "character": "jako",
+        "add": "Přidat do mého seznamu",
+        "remove": "Odstranit z mého seznamu"
+    },
+    "SeriesPage": {
+        "title": "Stránka seriálu",
+        "director": "Režisér",
+        "overview": "Přehled",
+        "release": "Vydání",
+        "rating": "Hodnocení",
+        "genres": "Žánry a podžánry",
+        "tags": "Štítky",
+        "character": "jako",
+        "seasons": "Řady",
+        "number_of_seasons": "Počet řad",
+        "add": "Přidat do mého seznamu",
+        "remove": "Odstranit z mého seznamu"
+    },
+    "MyListPage": {
+        "title": "Můj seznam",
+        "note": "Pro přidání filmů nebo TV pořadů do oblíbených prosím",
+        "or": "nebo",
+        "login": "Přihlaste se",
+        "registration": "Zaregistrujte se"
+    },
+    "AboutUsPage": {
+        "title": "Vítejte na FilmRada!",
+        "contact": "Pokud máte nějaké návrhy, dotazy nebo stížnosti, můžete nám",
+        "contact-us": "napsat",
+        "text": {
+            "part1": "Na webových stránkách FilmRada nabízíme jedinečný přístup k výběru filmů a seriálů, který se vymyká všemu, co jste doposud viděli. Naše platforma je určena pro ty, kteří ocení kino a chtějí najít perfektní filmové dílo k zhlédnutí, aniž by se ztratili v nekonečném moři možností. Rozumíme, jak důležité je najít film, který splňuje vaše nálady, zájmy a preference. Proto se FilmRada specializuje na výběr filmů na základě jedinečné sady kritérií: žánrů a podžánrů, štítků, hodnocení, roků vydání, zemí produkce, epoch, ve kterých se děj filmu odehrává, ocenění a věkových omezení.",
+            "part2": "Naše stránky poskytují podrobný popis každého výběrového kritéria, začínaje úplným seznamem žánrů a podžánrů - od komedií po biografické filmy a konče epochami událostí, od pravěku po moderní dobu. Zvláštní pozornost věnujeme štítkům, jako jsou motivační, pro dobrou náladu, pro společnost a mnoho dalších, abyste si mohli vybrat film, který perfektně odpovídá vaší náladě nebo situaci. Důležitou funkcí našich stránek je filmové hodnocení, které začíná od 5, což zaručuje výběr pouze těch nejlepších děl a vyhýbá se těm nižší kvality.",
+            "part3": "Kromě toho FilmRada nabízí jedinečnou příležitost vybírat filmy podle známých režisérů a herců, přičemž bere v úvahu průměrné hodnocení všech jejich filmů, počet filmových děl a ocenění. To umožňuje fanouškům určitých tvůrců snadno najít jejich díla, která splňují vysoké standardy kvality a zájmy.",
+            "part4": "Na FilmRadě nenajdete možnost přímého sledování filmů na stránkách, ale získáte nejkomplexnější a detailní nástroj pro výběr filmového díla, které pak můžete sledovat na jiných platformách nebo v kině. Naše mise spočívá v zjednodušení výběrového procesu tím, že vám poskytneme veškeré potřebné nástroje k nalezení filmu, který bude pro vás opravdovým objevem. Ve světě, kde každý den vyjde desítky nových filmů a seriálů, je FilmRada vaším spolehlivým průvodcem ve světě kinematografie, který vám pomáhá najít skutečné poklady mezi rozmanitostí filmových děl."
+        }
+    },
+    "TermsPage": {
+        "title": "Webové stránky Podmínky použití"
+    },
+    "PrivacyPage": {
+        "title": "Zásady ochrany osobních údajů"
+    },
+    "CookiePage": {
+        "title": "Zásady používání cookies"
+    },
+    "ContactUsPage": {
+        "title": "Kontakty",
+        "note": "Můžete nám poslat své návrhy, dotazy, stížnosti nebo nás informovat o chybách v datech nebo překladu",
+        "name": "Jméno",
+        "email": "E-mail",
+        "text": "Zpráva",
+        "send": "Odeslat"
+    },
+    "LoginPage": {
+        "title": "Přihlášení",
+        "note": "Přihlaste se ke svému účtu, abyste si mohli uložit oblíbené filmy a vytvořit osobní seznam pro budoucí zhlédnutí",
+        "no-account": "Nemáte účet?",
+        "registration": "Registrace",
+        "forgot-password": "Pokud jste zapomněli své heslo, můžete",
+        "recover": "obnovit ho",
+        "email": "E-mail",
+        "password": "Heslo",
+        "send": "Přihlásit se"
+    },
+    "RegistrationPage": {
+        "title": "Registrace",
+        "note": "Zaregistrujte se na FilmRada a odemkněte možnost vytvořit seznam oblíbených filmů pro budoucí zhlédnutí",
+        "name": "Jméno",
+        "email": "E-mail",
+        "password": "Heslo",
+        "password-repeat": "Zopakujte heslo",
+        "send": "Registrovat"
+    },
+    "RecoverPage": {
+        "title": "Obnova hesla",
+        "note": "Pokud jste zapomněli své heslo, můžete ho obnovit. Pro toto musíte poskytnout svůj e-mail, a my vám zašleme nové heslo poštou. Poté ho můžete změnit ve svém osobním účtu",
+        "email": "E-mail",
+        "send": "Obnovit"
+    },
+    "ValidationPage": {
+        "title": "Validace",
+        "ok": "Validace e-mailu byla úspěšná, užijte si svou zkušenost!",
+        "error": "Validace e-mailu byla neúspěšná, prosím, projděte znovu procesem registrace"
+    },
+    "MyProfilePage": {
+        "title": "Můj Profil",
+        "title-ava": "Vyberte si svůj Avatar",
+        "ava-color": "Barva Avataru",
+        "ava-img": "Obrázek Avataru",
+        "email": "Email",
+        "title-password": "Změna Hesla",
+        "password-current": "Zadejte Aktuální Heslo",
+        "password-new": "Zadejte Nové Heslo",
+        "password-success": "Změna hesla byla úspěšná",
+        "password-error": "Aktuální heslo neodpovídá",
+        "title-name": "Jméno",
+        "send": "Aktualizovat",
+        "emailUpdatedSuccess": "Email byl úspěšně aktualizován",
+        "emailUpdateError": "Nepodařilo se aktualizovat email",
+        "usernameUpdatedSuccess": "Uživatelské jméno bylo úspěšně aktualizováno",
+        "usernameUpdateError": "Nepodařilo se aktualizovat uživatelské jméno",
+        "passwordChangedSuccess": "Heslo bylo úspěšně změněno",
+        "passwordChangeError": "Nepodařilo se změnit heslo"
+    },
+    "MainPage": {
+        "title": "Hlavní Stránka",
+        "warning": "Stránka je v demo režimu, některé údaje jsou neúplné",
+        "warningM": "Stránka je v demo režimu, některé údaje jsou neúplné (označeno)",
+        "ShowButton": "Zobrazit Filmy",
+        "FilmFilter": {
+            "title": "Filtr Filmů"
+        },
+        "GenresFilter": {
+            "title": "Filtr Žánrů"
+        },
+        "AdditionalFilter": {
+            "title": "Dodatečný Filtr"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "Seřadit podle",
+            "rating": "Hodnocení",
+            "year": "Rok",
+            "count": "Počet"
+        },
+        "pagenav": {
+            "title": "Navigace Stránkou"
+        },
+        "typeformat": {
+            "title": "Typ",
+            "film": "Filmy",
+            "series": "Seriály"
+        },
+        "rating": {
+            "title": "Hodnocení",
+            "from": "Od",
+            "to": "Do"
+        },
+        "filmcount": {
+            "title": "Počet Filmů",
+            "from": "Od",
+            "to": "Do"
+        },
+        "directors": {
+            "awards": "Ocenění",
+            "films": "Počet Filmů",
+            "rating": "Průměrné Hodnocení"
+        },
+        "type": {
+            "title": "Typ",
+            "movie": "Film",
+            "series": "Seriál"
+        },
+        "release_year": {
+            "title": "Rok Vydání",
+            "from": "Od",
+            "to": "Do",
+            "not_released_yet": "Ještě Nevydáno"
+        },
+        "event_era": {
+            "title": "Období Událostí",
+            "from": "Od",
+            "to": "Do",
+            "undefined": "Není nastaveno",
+            "titlePresent": "Současnost",
+            "prehistory": "Pravěké období (Před 3000 př. n. l.)",
+            "ancient_world": "Starověký svět (3000 př. n. l. - 500 n. l.)",
+            "early_middle_ages": "Raný středověk (500 - 1000)",
+            "high_middle_ages": "Vysoký středověk (1000 - 1300)",
+            "late_middle_ages": "Pozdní středověk (1300 - 1500)",
+            "renaissance": "Renesance (1500 - 1600)",
+            "baroque_period": "Barokní období (1600 - 1700)",
+            "enlightenment": "Osvícenství (1700 - 1800)",
+            "industrial_revolution": "Průmyslová revoluce (1800 - 1850)",
+            "victorian_era": "Viktoriánská éra (1850 - 1900)",
+            "early_20th_century": "Raný 20. století (1900 - 1930)",
+            "mid_20th_century_pre_ww2": "Před 2. světovou válkou (1930 - 1940)",
+            "mid_20th_century": "Střed 20. století (1940 - 1950)",
+            "late_1950s": "Konec 50. let (1950 - 1960)",
+            "early_1960s": "Počátek 60. let (1960 - 1970)",
+            "the_1970s": "70. léta (1970 - 1980)",
+            "the_1980s": "80. léta (1980 - 1990)",
+            "late_20th_century": "Konec 20. století (1990 - 2000)",
+            "early_21st_century": "Raný 21. století (2000 - 2010)",
+            "the_2010s": "10. léta (2010 - Současnost)"
+        },
+        "age_rating": {
+            "title": "Věkové Hodnocení",
+            "full": {
+                "G": "G: Všechny Věkové Skupiny",
+                "PG": "PG: Rodičovský Dohlíženo",
+                "PG13": "PG 13: Silně Doporučeno Rodiči",
+                "R": "R: Omezeno",
+                "NC17": "NC 17: Jen pro Dospělé"
+            },
+            "short": {
+                "G": "G",
+                "PG": "PG",
+                "PG13": "PG 13",
+                "R": "R",
+                "NC17": "NC 17"
+            }
+        },
+        "awards": {
+            "title": "Ocenění",
+            "oscar": "Oscar",
+            "golden_globe": "Zlatý Glóbus",
+            "cannes": "Canneský Filmový Festival",
+            "berlin": "Berlínský Filmový Festival",
+            "venice": "Benátský Filmový Festival",
+            "bafta": "BAFTA"
+        },
+        "countries": {
+            "title": "Země",
+            "america": {
+                "title": "Amerika",
+                "regions": {
+                    "north_america": {
+                        "title": "Severní Amerika",
+                        "countries": {
+                            "usa": "Spojené státy",
+                            "canada": "Kanada",
+                            "mexico": "Mexiko",
+                            "other_noa": "Ostatní"
+                        }
+                    },
+                    "south_america": {
+                        "title": "Jižní Amerika",
+                        "countries": {
+                            "brazil": "Brazílie",
+                            "argentina": "Argentina",
+                            "chile": "Chile",
+                            "other_soa": "Ostatní"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "Evropa",
+                "regions": {
+                    "western_europe": {
+                        "title": "Západní Evropa",
+                        "countries": {
+                            "uk": "Spojené království",
+                            "germany": "Německo",
+                            "ireland": "Irsko",
+                            "france": "Francie",
+                            "other_wee": "Ostatní"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "Severní Evropa",
+                        "countries": {
+                            "denmark": "Dánsko",
+                            "norway": "Norsko",
+                            "finland": "Finsko",
+                            "sweden": "Švédsko",
+                            "other_noe": "Ostatní"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "Střední Evropa",
+                        "countries": {
+                            "poland": "Polsko",
+                            "czech": "Česká republika",
+                            "hungary": "Maďarsko",
+                            "other_cee": "Ostatní"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "Jižní Evropa",
+                        "countries": {
+                            "greece": "Řecko",
+                            "spain": "Španělsko",
+                            "italy": "Itálie",
+                            "portugal": "Portugalsko",
+                            "other_soe": "Ostatní"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "Východní Evropa",
+                        "countries": {
+                            "ukraine": "Ukrajina",
+                            "romania": "Rumunsko",
+                            "russia": "Rusko",
+                            "bulgaria": "Bulharsko",
+                            "other_eae": "Ostatní"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "Asie",
+                "regions": {
+                    "east_asia": {
+                        "title": "Východní Asie",
+                        "countries": {
+                            "japan": "Japonsko",
+                            "korea": "Jižní Korea",
+                            "china": "Čína",
+                            "other_eaa": "Ostatní"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "Jihovýchodní Asie",
+                        "countries": {
+                            "thailand": "Thajsko",
+                            "indonesia": "Indonésie",
+                            "other_soa": "Ostatní"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "Jižní Asie",
+                        "countries": {
+                            "india": "Indie",
+                            "other_sua": "Ostatní"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "Střední a Západní Asie",
+                        "countries": {
+                            "turkey": "Turecko",
+                            "israel": "Izrael",
+                            "iran": "Írán",
+                            "other_cwa": "Ostatní"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "Afrika",
+                "regions": {
+                    "all": {
+                        "title": "Všechny",
+                        "countries": {
+                            "south_africa": "Jižní Afrika",
+                            "egypt": "Egypt",
+                            "other_afr": "Ostatní"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "Vybrat štítky",
+            "motivational": "Motivační",
+            "feel_good": "Příjemný",
+            "for_company": "Pro společnost",
+            "based_on_books": "Na základě knih",
+            "family": "Rodinný",
+            "festive": "Slavnostní",
+            "musical": "Hudební",
+            "arthouse": "Artový",
+            "based_on_true_events": "Na základě skutečných událostí"
+        },
+        "genres": {
+            "title": "Vybrat žánry a podžánry",
+            "comedy": {
+                "title": "Komedie",
+                "subgenres": {
+                    "parody": "Parodie",
+                    "satire": "Satira",
+                    "dark_comedy": "Černá komedie"
+                }
+            },
+            "drama": {
+                "title": "Drama",
+                "subgenres": {
+                    "psychological": "Psychologické",
+                    "social": "Sociální",
+                    "legal": "Právní",
+                    "political": "Politické",
+                    "philosophical": "Filozofické",
+                    "religious": "Náboženské",
+                    "spiritual": "Duchovní",
+                    "melancholic": "Melancholické"
+                }
+            },
+            "thriller": {
+                "title": "Thriller",
+                "subgenres": {
+                    "psychological": "Psychologický",
+                    "crime": "Kriminální",
+                    "spy": "Špionážní",
+                    "disaster": "Katastrofický",
+                    "legal": "Právní",
+                    "political": "Politický"
+                }
+            },
+            "horror": {
+                "title": "Horor",
+                "subgenres": {
+                    "psychological": "Psychologický",
+                    "slasher": "Slasher",
+                    "monsters": "Monstry",
+                    "zombies": "Zombie",
+                    "vampires": "Upíři",
+                    "ghosts": "Duchovní"
+                }
+            },
+            "sci_fi": {
+                "title": "Sci-Fi",
+                "subgenres": {
+                    "superheroes": "Superhrdinský",
+                    "parallel_worlds": "Paralelní světy",
+                    "alternate_history": "Alternativní historie",
+                    "post_apocalyptic": "Postapokalyptický"
+                }
+            },
+            "fantasy": {
+                "title": "Fantasy",
+                "subgenres": {
+                    "magical_realism": "Magický realismus",
+                    "fantasy_universe": "Fantasy vesmír",
+                    "dark_fantasy": "Temná fantasy",
+                    "fairy_tales": "Pohádkový"
+                }
+            },
+            "action": {
+                "title": "Akční",
+                "subgenres": {
+                    "adrenaline": "Adrenalinový",
+                    "fights": "Soubojový",
+                    "survival": "Přežití"
+                }
+            },
+            "romance": {
+                "title": "Romantika",
+                "subgenres": {
+                    "romantic": "Romantický",
+                    "teen": "Pro teenagery",
+                    "light_romance": "Lehká romance"
+                }
+            },
+            "adventure": {
+                "title": "Dobrodružství",
+                "subgenres": {
+                    "adventurism": "Dobrodružný",
+                    "travel": "Cestovní",
+                    "expeditions": "Expediční",
+                    "road_movie": "Cestovní film"
+                }
+            },
+            "detective": {
+                "title": "Detektivní",
+                "subgenres": {
+                    "crime": "Kriminální",
+                    "detective": "Detektivní",
+                    "special_agents": "Speciální agenti",
+                    "maniacs": "Mániaci"
+                }
+            },
+            "historical": {
+                "title": "Historický",
+                "subgenres": {
+                    "ancient_world": "Starověký svět",
+                    "middle_ages": "Středověk",
+                    "renaissance": "Renesance",
+                    "victorian_era": "Viktoriánská éra"
+                }
+            },
+            "war": {
+                "title": "Válečný",
+                "subgenres": {
+                    "world_war_i": "1. světová válka",
+                    "world_war_ii": "2. světová válka",
+                    "cold_war": "Studená válka",
+                    "modern_warfare": "Moderní válečný",
+                    "anti_war": "Proti válce"
+                }
+            },
+            "science": {
+                "title": "Vědecký",
+                "subgenres": {
+                    "technology": "Technologický",
+                    "space": "Vesmírný",
+                    "research": "Výzkumný",
+                    "medicine": "Lékařský"
+                }
+            },
+            "animation": {
+                "title": "Animovaný",
+                "subgenres": {
+                    "drawn": "Kreslený",
+                    "computer": "Počítačový",
+                    "stop_motion": "Stop motion",
+                    "anime": "Anime"
+                }
+            },
+            "western": {
+                "title": "Western",
+                "subgenres": {
+                    "classic": "Klasický",
+                    "spaghetti_western": "Spaghetti Western",
+                    "contemporary": "Současný"
+                }
+            },
+            "mystery": {
+                "title": "Mysteriózní",
+                "subgenres": {
+                    "paranormal": "Paranormální",
+                    "supernatural": "Nadpřirozený"
+                }
+            },
+            "ethnographic": {
+                "title": "Etnografický",
+                "subgenres": {
+                    "myths": "Mýty",
+                    "legends": "Legendy",
+                    "culture": "Kultura",
+                    "folklore": "Folklor",
+                    "traditions": "Tradice",
+                    "ethnic_groups": "Etnické skupiny",
+                    "nature": "Příroda"
+                }
+            },
+            "biographical": {
+                "title": "Biografický",
+                "subgenres": {
+                    "musicians": "Hudebníci",
+                    "politicians": "Politici",
+                    "athletes": "Sportovci",
+                    "artists": "Umělci",
+                    "scientists": "Vědci",
+                    "businessmen": "Podnikatelé"
+                }
+            },
+            "sports": {
+                "title": "Sportovní",
+                "subgenres": {
+                    "racing": "Závodní",
+                    "boxing": "Boxerský",
+                    "martial_arts": "Bojový sport"
+                }
+            }
+        },
+        "favorite": {
+            "add": "Přidat do mého seznamu",
+            "remove": "Odebrat z mého seznamu"
+        }
+    }
+}

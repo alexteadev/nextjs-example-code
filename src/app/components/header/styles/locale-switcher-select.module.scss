@@ -1,0 +1,208 @@
+.locale {
+    position: relative;
+
+    &__btn {
+        display: flex;
+        align-items: center;
+        appearance: none;
+        border: 0;
+        background: none;
+        padding: 0;
+        cursor: pointer;
+        color: inherit;
+
+        img {
+            max-width: 22px;
+            height: auto;
+        }
+
+        &_arrow {
+            border: none;
+            width: 6px;
+            height: 11px;
+            background: transparent url('../../../assets/svg/arrow.svg') center center no-repeat;
+            margin-left: 10px;
+            margin-top: 3px;
+            transform: translateX(-50%) rotate(90deg);
+            cursor: pointer;
+            background-size: 13px;
+            transition: transform 0.2s ease;
+
+            &_active {
+                transform: translateX(-50%) rotate(270deg);
+            }
+        }
+    }
+
+    &__list {
+        position: absolute;
+        padding-top: 11px;
+        left: 50%;
+        transform: translateX(-50%);
+
+        visibility: hidden;
+        pointer-events: none;
+        opacity: 0;
+
+        z-index: 3;
+
+        &.active {
+            visibility: visible;
+            pointer-events: visible;
+            opacity: 1;
+        }
+
+        &::before {
+            content: "";
+            width: 20px;
+            height: 20px;
+            background: #ffffff;
+            transform: rotate(45deg);
+            position: absolute;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+            top: 7px;
+            z-index: 2;
+            pointer-events: none;
+        }
+
+        &_elements {
+            background: #ffffff;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+            ul {
+                list-style: none;
+                max-width: unset;
+                padding: 10px;
+                display: grid;
+                grid-auto-flow: column;
+                grid-template-rows: repeat(8, minmax(0, 1fr));
+                grid-column-gap: 16px;
+                width: max-content;
+
+                li {
+                    padding: 8px;
+                    border-radius: 5px;
+                    cursor: pointer;
+
+                    &:hover, &.active {
+                        background-color: #d7e8ff;
+                    }
+                }
+            }
+        }
+
+        &_header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center
+        }
+
+        &_title {
+            text-transform: uppercase;
+            color: #7d7d7d;
+            font-size: 10px;
+            font-weight: 500;
+            padding: 10px;
+        }
+
+        &_close {
+            visibility: hidden;
+            pointer-events: none;
+            opacity: 0;
+
+            margin: 10px;
+            width: 18px;
+            height: 18px;
+            position: relative;
+            cursor: pointer;
+        }
+
+        &_close::before,
+        &_close::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 100%;
+            height: 1px;
+            background-color: rgb(62, 62, 62);
+        }
+
+        &_close::before {
+            transform: translate(-50%, -50%) rotate(45deg);
+        }
+
+        &_close::after {
+            transform: translate(-50%, -50%) rotate(-45deg);
+        }
+
+        &_element {
+            display: flex;
+            align-items: center;
+            font-size: 13px;
+            font-weight: 500;
+            color: #1b1b1b;
+            gap: 7px;
+        }
+
+        @media (max-width: 820px) {
+            z-index: 3;
+            width: 100%;
+            padding: 0px;
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            overflow-y: auto;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            left: 50%;
+            transform: translateX(-50%);
+
+            &_elements {
+                width: 100%;
+                height: 100%;
+
+                padding: 7px;
+                border-radius: 0px;
+            }
+
+            &_element {
+                font-size: 12px;
+                height: 100%;
+                gap: 5px;
+            }
+
+            ul {
+                grid-template-rows: repeat(11, minmax(0, 1fr));
+                width: 100%;
+                height: 80%;
+
+                padding: 10px;
+                grid-column-gap: 4px;
+
+                li {
+                    padding: 3px;
+                    border-radius: 5px;
+                    cursor: pointer;
+
+                    &:hover {
+                        background-color: #d7e8ff;
+                    }
+                }
+            }
+
+            &.active &_close {
+                visibility: visible;
+                pointer-events: visible;
+                opacity: 1;
+            }
+        }
+    }
+}

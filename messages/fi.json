@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "Elokuvat",
+        "actors": "Näyttelijät",
+        "directors": "Ohjaajat",
+        "my-lists": "Omat Listat",
+        "about-us": "Tietoa meistä",
+        "login": "Kirjaudu sisään",
+        "registration": "Rekisteröidy",
+        "my-profile": "Profiilini",
+        "logout": "Kirjaudu ulos",
+        "validation": "Validointi"
+    },
+    "FooterNavigation": {
+        "slogan": "Katso oikeat elokuvat",
+        "terms-of-use": "Käyttöehdot",
+        "privacy-policy": "Tietosuojakäytäntö",
+        "cookies-policy": "Evästekäytäntö",
+        "about-us": "Tietoa meistä",
+        "contact-us": "Ota yhteyttä"
+    },
+    "LocaleLayoutPage": {
+        "name": "Elokuvaneuvoja",
+        "title": "Elokuvien suositus",
+        "description": "Käyttämällä genreä, tunnisteita, luokitusta ja monia muita parametreja, voit valita elokuvan katsottavaksi"
+    },
+    "NotFoundPage": {
+        "title": "404: Sivua ei löytynyt",
+        "description": "Hups! Näyttää siltä, että yrität päästä sivulle, joka on joko siirretty tai sitä ei ole olemassa. Älä kuitenkaan huoli, voit palata etusivulle tai tutkia sivustoamme löytääksesi elokuva-arvosteluja, viimeisimpiä uutisia ja lisää kiehtovasta elokuvamaailmasta."
+    },
+    "LocaleSwitcher": {
+        "label": "Vaihda kieli",
+        "locale": "{locale, select, en {Englanti} fr {Ranska} es {Espanja} de {Saksa} pt {Portugali} it {Italia} nl {Hollanti} sv {Ruotsi} no {Norja} da {Tanska} fi {Suomi} cs {Tšekki} pl {Puola} uk {Ukraina} be {Valko-Venäjä} et {Viro} lv {Latvia} lt {Liettua} ro {Romania} kk {Kazakki} ru {Venäjä} tr {Turkki} he {Heprea} ko {Korea} ja {Japani} zh {Kiina} hi {Hindi} ar {Arabia} id {Indonesia} bg {Bulgaria} ka {Georgia} el {Kreikka} other {Tuntematon}}",
+        "select-language": "Valitse kieli"
+    },
+    "ActorsPage": {
+        "title": "Kaikkien näyttelijöiden lista",
+        "note": "Valitse elokuvat näyttelijän perusteella ottaen huomioon heidän ainutlaatuinen lahjakkuutensa, roolien monimuotoisuus ja genrejen erikoistuminen käyttäen suodattimia"
+    },
+    "ActorPage": {
+        "title": "Näyttelijän sivu",
+        "birthday": "Syntymäpäivä",
+        "deathday": "Kuolinaika",
+        "bplace": "Syntymäpaikka",
+        "biography": "Elämäkerta"
+    },
+    "DirectorsPage": {
+        "title": "Kaikkien ohjaajien lista",
+        "note": "Valitse elokuvat ohjaajan perusteella tutkimalla heidän ainutlaatuista tyyliään, työn laatua ja erikoistumista tietyissä teemoissa käyttäen suodattimia"
+    },
+    "DirectorPage": {
+        "title": "Ohjaajan sivu",
+        "birthday": "Syntymäpäivä",
+        "deathday": "Kuolinaika",
+        "bplace": "Syntymäpaikka",
+        "biography": "Elämäkerta"
+    },
+    "FilmPage": {
+        "title": "Elokuvan sivu",
+        "director": "Ohjaaja",
+        "overview": "Yleiskatsaus",
+        "release": "Julkaisu",
+        "rating": "Luokitus",
+        "genres": "Tyylilajit & Alalajit",
+        "tags": "Tunnisteet",
+        "character": "nimellä",
+        "add": "Lisää omaan listaani",
+        "remove": "Poista omalta listaltani"
+    },
+    "SeriesPage": {
+        "title": "Sarjan sivu",
+        "director": "Ohjaaja",
+        "overview": "Yleiskatsaus",
+        "release": "Julkaisu",
+        "rating": "Luokitus",
+        "genres": "Tyylilajit & Alalajit",
+        "tags": "Tunnisteet",
+        "character": "nimellä",
+        "seasons": "Kaudet",
+        "number_of_seasons": "Kausien lukumäärä",
+        "add": "Lisää omaan listaani",
+        "remove": "Poista omalta listaltani"
+    },
+    "MyListPage": {
+        "title": "Oma lista",
+        "note": "Lisätäksesi elokuvia tai TV-ohjelmia suosikkeihin, kirjaudu sisään",
+        "or": "tai",
+        "login": "Kirjaudu sisään",
+        "registration": "Rekisteröidy"
+    },
+    "AboutUsPage": {
+        "title": "Tervetuloa Elokuvaneuvojaan!",
+        "contact": "Jos sinulla on ehdotuksia, kysymyksiä tai valituksia, voit",
+        "contact-us": "kirjoittaa meille",
+        "text": {
+            "part1": "Elokuvaneuvojan verkkosivustolla tarjoamme ainutlaatuisen lähestymistavan elokuvien ja sarjojen valintaan, joka erottuu muista. Sivustomme on luotu niille, jotka arvostavat elokuvaa ja haluavat löytää täydellisen elokuvan katseltavaksi ilman että eksyvät loputtomien vaihtoehtojen mereen. Ymmärrämme kuinka tärkeää on löytää elokuva, joka vastaa mielialaasi, kiinnostuksiasi ja mieltymyksiäsi. Siksi Elokuvaneuvoja erikoistuu valitsemaan elokuvia ainutlaatuisen joukon kriteerien perusteella: tyylilajit ja alalajit, tunnisteet, luokitukset, julkaisuvuodet, tuotantomaat, ajankohdat, jolloin elokuvan tapahtumat sijoittuvat, palkinnot ja ikärajat.",
+            "part2": "Sivustomme tarjoaa yksityiskohtaisen kuvauksen jokaisesta valintakriteeristä, alkaen täydellisestä tyylilajien ja alalajien luettelosta — komediasta elämäkertaelokuviin, ja päättyen tapahtumien aikakausiin, jotka vaihtelevat esihistoriallisesta ajasta nykyaikaan. Kiinnitämme erityistä huomiota tunnisteisiin, kuten motivoiva, hyväntuulinen, seurusteluun ja moniin muihin, jotta voit valita elokuvan, joka vastaa täydellisesti mielialaasi tai tilannettasi. Sivustomme tärkeä ominaisuus on elokuvan luokitus, joka alkaa 5:stä, pois lukien heikkolaatuiset teokset ja varmistaen sinulle vain parhaan valinnan.",
+            "part3": "Lisäksi Elokuvaneuvoja tarjoaa ainutlaatuisen mahdollisuuden valita elokuvia tunnettujen ohjaajien ja näyttelijöiden perusteella, ottaen huomioon kaikkien heidän elokuviensa keskimääräisen luokituksen, elokuvien lukumäärän ja palkinnot. Tämä mahdollistaa tiettyjen luojien faneille heidän töidensä löytämisen, jotka täyttävät korkeat laatuvaatimukset ja mielenkiinnon kohteet.",
+            "part4": "Elokuvaneuvojasta et löydä vaihtoehtoa elokuvien katsomiseen suoraan sivustolla, mutta saat kattavimman ja yksityiskohtaisimman työkalun elokuvan valintaan, jonka voit sitten katsoa muilla alustoilla tai elokuvateatterissa. Tehtävämme on yksinkertaistaa valintaprosessia tarjoamalla sinulle kaikki tarvittavat työkalut löytääksesi elokuvan, joka on todellinen löytö sinulle. Maailmassa, jossa kymmeniä uusia elokuvia ja sarjoja tulee ulos joka päivä, Elokuvaneuvoja on luotettava oppaasi elokuvamaailmassa, auttaen löytämään todellisia helmiä valtavan elokuvatarjonnan joukosta."
+        }
+    },
+    "TermsPage": {
+        "title": "Verkkosivuston käyttöehdot"
+    },
+    "PrivacyPage": {
+        "title": "Tietosuojakäytäntö"
+    },
+    "CookiePage": {
+        "title": "Evästekäytäntö"
+    },
+    "ContactUsPage": {
+        "title": "Yhteystiedot",
+        "note": "Voit lähettää meille ehdotuksia, kysymyksiä, valituksia tai ilmoittaa meille virheistä tiedoissa tai käännöksissä",
+        "name": "Nimi",
+        "email": "Sähköposti",
+        "text": "Viesti",
+        "send": "Lähetä"
+    },
+    "LoginPage": {
+        "title": "Kirjaudu sisään",
+        "note": "Kirjaudu tilillesi tallentaaksesi suosikkielokuviasi ja luodaksesi henkilökohtaisen katselulistasi tulevia katselukertoja varten",
+        "no-account": "Ei tiliä?",
+        "registration": "Rekisteröidy",
+        "forgot-password": "Jos olet unohtanut salasanasi, voit",
+        "recover": "palauttaa sen",
+        "email": "Sähköposti",
+        "password": "Salasana",
+        "send": "Kirjaudu sisään"
+    },
+    "RegistrationPage": {
+        "title": "Rekisteröidy",
+        "note": "Rekisteröidy Elokuvaneuvojaan ja avaa mahdollisuus koota tykätyistä elokuvista lista tulevia katselukertoja varten",
+        "name": "Nimi",
+        "email": "Sähköposti",
+        "password": "Salasana",
+        "password-repeat": "Toista salasana",
+        "send": "Rekisteröidy"
+    },
+    "RecoverPage": {
+        "title": "Palauta salasana",
+        "note": "Jos olet unohtanut salasanasi, voit palauttaa sen. Tähän tarvitset antaa sähköpostiosoitteesi, ja lähetämme sinulle uuden salasanan sähköpostitse. Sen jälkeen voit vaihtaa sen omassa käyttäjätilissäsi",
+        "email": "Sähköposti",
+        "send": "Palauta"
+    },
+    "ValidationPage": {
+        "title": "Validointi",
+        "ok": "Sähköpostin varmennus onnistui, nauti kokemuksestasi!",
+        "error": "Sähköpostin varmennus epäonnistui, käy läpi rekisteröitymisprosessi uudelleen"
+    },
+    "MyProfilePage": {
+        "title": "Profiilini",
+        "title-ava": "Valitse Avatar",
+        "ava-color": "Avatarin Väri",
+        "ava-img": "Avatarin Kuva",
+        "email": "Sähköposti",
+        "title-password": "Vaihda Salasana",
+        "password-current": "Syötä Nykyinen Salasana",
+        "password-new": "Syötä Uusi Salasana",
+        "password-success": "Salasanan vaihto onnistui",
+        "password-error": "Nykyinen salasana ei täsmää",
+        "title-name": "Nimi",
+        "send": "Päivitä",
+        "emailUpdatedSuccess": "Sähköposti päivitetty onnistuneesti",
+        "emailUpdateError": "Sähköpostin päivitys epäonnistui",
+        "usernameUpdatedSuccess": "Käyttäjänimi päivitetty onnistuneesti",
+        "usernameUpdateError": "Käyttäjänimen päivitys epäonnistui",
+        "passwordChangedSuccess": "Salasana vaihdettu onnistuneesti",
+        "passwordChangeError": "Salasanan vaihto epäonnistui"
+    },
+    "MainPage": {
+        "title": "Pääsivu",
+        "warning": "Sivusto on demotilassa, osa tiedoista on puutteellisia",
+        "warningM": "Sivusto on demotilassa, osa tiedoista on puutteellisia (merkitty)",
+        "ShowButton": "Näytä Elokuvat",
+        "FilmFilter": {
+            "title": "Elokuvien Suodatin"
+        },
+        "GenresFilter": {
+            "title": "Tyylilajien Suodatin"
+        },
+        "AdditionalFilter": {
+            "title": "Lisäsuodatin"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "Lajittele",
+            "rating": "Luokitus",
+            "year": "Vuosi",
+            "count": "Määrä"
+        },
+        "pagenav": {
+            "title": "Sivunavigointi"
+        },
+        "typeformat": {
+            "title": "Tyyppi",
+            "film": "Elokuvat",
+            "series": "Sarjat"
+        },
+        "rating": {
+            "title": "Luokitus",
+            "from": "Alkaen",
+            "to": "Asti"
+        },
+        "filmcount": {
+            "title": "Elokuvien Lukumäärä",
+            "from": "Alkaen",
+            "to": "Asti"
+        },
+        "directors": {
+            "awards": "Palkinnot",
+            "films": "Elokuvien Lukumäärä",
+            "rating": "Keskimääräinen Luokitus"
+        },
+        "type": {
+            "title": "Tyyppi",
+            "movie": "Elokuva",
+            "series": "Sarja"
+        },
+        "release_year": {
+            "title": "Julkaisuvuosi",
+            "from": "Alkaen",
+            "to": "Asti",
+            "not_released_yet": "Ei vielä julkaistu"
+        },
+        "event_era": {
+            "title": "Tapahtuma-aikakausi",
+            "from": "Alkaen",
+            "to": "Asti",
+            "undefined": "Ei määritelty",
+            "titlePresent": "Nykyhetki",
+            "prehistory": "Esihistoriallinen aika (Ennen 3000 eaa.)",
+            "ancient_world": "Muinainen maailma (3000 eaa. - 500 jaa.)",
+            "early_middle_ages": "Varhainen keskiaika (500 - 1000)",
+            "high_middle_ages": "Korkea keskiaika (1000 - 1300)",
+            "late_middle_ages": "Myöhäiskeskiaika (1300 - 1500)",
+            "renaissance": "Renessanssi (1500 - 1600)",
+            "baroque_period": "Barokkikausi (1600 - 1700)",
+            "enlightenment": "Valistus (1700 - 1800)",
+            "industrial_revolution": "Teollinen vallankumous (1800 - 1850)",
+            "victorian_era": "Victorian aikakausi (1850 - 1900)",
+            "early_20th_century": "Varhainen 1900-luku (1900 - 1930)",
+            "mid_20th_century_pre_ww2": "Ennen toista maailmansotaa (1930 - 1940)",
+            "mid_20th_century": "Keskimmäinen 1900-luku (1940 - 1950)",
+            "late_1950s": "Myöhäinen 1950-luku (1950 - 1960)",
+            "early_1960s": "Varhainen 1960-luku (1960 - 1970)",
+            "the_1970s": "1970-luku (1970 - 1980)",
+            "the_1980s": "1980-luku (1980 - 1990)",
+            "late_20th_century": "Myöhäinen 1900-luku (1990 - 2000)",
+            "early_21st_century": "Varhainen 2000-luku (2000 - 2010)",
+            "the_2010s": "2010-luku (2010 - Nykyhetki)"
+        },
+        "age_rating": {
+            "title": "Ikäraja",
+            "full": {
+                "G": "G: Kaikki Ikäryhmät",
+                "PG": "PG: Vanhempien Suosittelema",
+                "PG13": "PG 13: Vanhemmat Voivat Ohjata",
+                "R": "R: Rajoitettu",
+                "NC17": "NC 17: Vain Aikuisille"
+            },
+            "short": {
+                "G": "G",
+                "PG": "PG",
+                "PG13": "PG 13",
+                "R": "R",
+                "NC17": "NC 17"
+            }
+        },
+        "awards": {
+            "title": "Palkinnot",
+            "oscar": "Oscar",
+            "golden_globe": "Golden Globe",
+            "cannes": "Cannesin elokuvajuhlat",
+            "berlin": "Berliinin elokuvajuhlat",
+            "venice": "Venetsian elokuvajuhlat",
+            "bafta": "BAFTA"
+        },
+        "countries": {
+            "title": "Maat",
+            "america": {
+                "title": "Amerikka",
+                "regions": {
+                    "north_america": {
+                        "title": "Pohjois-Amerikka",
+                        "countries": {
+                            "usa": "Yhdysvallat",
+                            "canada": "Kanada",
+                            "mexico": "Meksiko",
+                            "other_noa": "Muut"
+                        }
+                    },
+                    "south_america": {
+                        "title": "Etelä-Amerikka",
+                        "countries": {
+                            "brazil": "Brasilia",
+                            "argentina": "Argentiina",
+                            "chile": "Chile",
+                            "other_soa": "Muut"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "Eurooppa",
+                "regions": {
+                    "western_europe": {
+                        "title": "Länsi-Eurooppa",
+                        "countries": {
+                            "uk": "Yhdistynyt kuningaskunta",
+                            "germany": "Saksa",
+                            "ireland": "Irlanti",
+                            "france": "Ranska",
+                            "other_wee": "Muut"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "Pohjois-Eurooppa",
+                        "countries": {
+                            "denmark": "Tanska",
+                            "norway": "Norja",
+                            "finland": "Suomi",
+                            "sweden": "Ruotsi",
+                            "other_noe": "Muut"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "Keski-Eurooppa",
+                        "countries": {
+                            "poland": "Puola",
+                            "czech": "Tšekki",
+                            "hungary": "Unkari",
+                            "other_cee": "Muut"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "Etelä-Eurooppa",
+                        "countries": {
+                            "greece": "Kreikka",
+                            "spain": "Espanja",
+                            "italy": "Italia",
+                            "portugal": "Portugali",
+                            "other_soe": "Muut"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "Itä-Eurooppa",
+                        "countries": {
+                            "ukraine": "Ukraina",
+                            "romania": "Romania",
+                            "russia": "Venäjä",
+                            "bulgaria": "Bulgaria",
+                            "other_eae": "Muut"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "Aasia",
+                "regions": {
+                    "east_asia": {
+                        "title": "Itä-Aasia",
+                        "countries": {
+                            "japan": "Japani",
+                            "korea": "Etelä-Korea",
+                            "china": "Kiina",
+                            "other_eaa": "Muut"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "Kaakkois-Aasia",
+                        "countries": {
+                            "thailand": "Thaimaa",
+                            "indonesia": "Indonesia",
+                            "other_soa": "Muut"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "Etelä-Aasia",
+                        "countries": {
+                            "india": "Intia",
+                            "other_sua": "Muut"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "Keski- ja Länsi-Aasia",
+                        "countries": {
+                            "turkey": "Turkki",
+                            "israel": "Israel",
+                            "iran": "Iran",
+                            "other_cwa": "Muut"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "Afrikka",
+                "regions": {
+                    "all": {
+                        "title": "Kaikki",
+                        "countries": {
+                            "south_africa": "Etelä-Afrikka",
+                            "egypt": "Egypti",
+                            "other_afr": "Muut"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "Valitse tunnisteet",
+            "motivational": "Motivoiva",
+            "feel_good": "Hyvänmielen",
+            "for_company": "Seurusteluun",
+            "based_on_books": "Kirjoihin perustuva",
+            "family": "Perhe",
+            "festive": "Juhlatunnelma",
+            "musical": "Musiikillinen",
+            "arthouse": "Taideelokuva",
+            "based_on_true_events": "Tositapahtumiin perustuva"
+        },
+        "genres": {
+            "title": "Valitse Tyylilajit ja Alatyylilajit",
+            "comedy": {
+                "title": "Komedia",
+                "subgenres": {
+                    "parody": "Parodia",
+                    "satire": "Satire",
+                    "dark_comedy": "Synkkä komedia"
+                }
+            },
+            "drama": {
+                "title": "Draama",
+                "subgenres": {
+                    "psychological": "Psykologinen",
+                    "social": "Sosiaalinen",
+                    "legal": "Oikeus",
+                    "political": "Politiikka",
+                    "philosophical": "Filosofinen",
+                    "religious": "Uskonnollinen",
+                    "spiritual": "Hengellinen",
+                    "melancholic": "Melankolinen"
+                }
+            },
+            "thriller": {
+                "title": "Jännitys",
+                "subgenres": {
+                    "psychological": "Psykologinen",
+                    "crime": "Rikos",
+                    "spy": "Vakooja",
+                    "disaster": "Katastrofi",
+                    "legal": "Oikeus",
+                    "political": "Politiikka"
+                }
+            },
+            "horror": {
+                "title": "Kauhu",
+                "subgenres": {
+                    "psychological": "Psykologinen",
+                    "slasher": "Slasher",
+                    "monsters": "Hirviö",
+                    "zombies": "Zombies",
+                    "vampires": "Vampyyrit",
+                    "ghosts": "Kummitukset"
+                }
+            },
+            "sci_fi": {
+                "title": "Tieteiskuvaus",
+                "subgenres": {
+                    "superheroes": "Superhero",
+                    "parallel_worlds": "Pari maailmaa",
+                    "alternate_history": "Vaihtoehtoinen historia",
+                    "post_apocalyptic": "Post-apokalyptinen"
+                }
+            },
+            "fantasy": {
+                "title": "Fantasia",
+                "subgenres": {
+                    "magical_realism": "Maaginen realismi",
+                    "fantasy_universe": "Fantasia universumi",
+                    "dark_fantasy": "Synkkä fantasia",
+                    "fairy_tales": "Satuja"
+                }
+            },
+            "action": {
+                "title": "Toiminta",
+                "subgenres": {
+                    "adrenaline": "Adrenaliini",
+                    "fights": "Taistelut",
+                    "survival": "Selviytymis"
+                }
+            },
+            "romance": {
+                "title": "Romantiikka",
+                "subgenres": {
+                    "romantic": "Romanttinen",
+                    "teen": "Nuoret",
+                    "light_romance": "Kevyt romantiikka"
+                }
+            },
+            "adventure": {
+                "title": "Seikkailu",
+                "subgenres": {
+                    "adventurism": "Seikkailu",
+                    "travel": "Matka",
+                    "expeditions": "Retket",
+                    "road_movie": "Tie-elokuva"
+                }
+            },
+            "detective": {
+                "title": "Dekkarit",
+                "subgenres": {
+                    "crime": "Rikos",
+                    "detective": "Dekkarit",
+                    "special_agents": "Erityisagentit",
+                    "maniacs": "Hullut"
+                }
+            },
+            "historical": {
+                "title": "Historiallinen",
+                "subgenres": {
+                    "ancient_world": "Antiikki",
+                    "middle_ages": "Keskiaika",
+                    "renaissance": "Renessanssi",
+                    "victorian_era": "Victorian aika"
+                }
+            },
+            "war": {
+                "title": "Sota",
+                "subgenres": {
+                    "world_war_i": "Ensimmäinen maailmansota",
+                    "world_war_ii": "Toinen maailmansota",
+                    "cold_war": "Kylmä sota",
+                    "modern_warfare": "Nykyajan sota",
+                    "anti_war": "Vastasota"
+                }
+            },
+            "science": {
+                "title": "Tiede",
+                "subgenres": {
+                    "technology": "Teknologia",
+                    "space": "Avaruus",
+                    "research": "Tutkimus",
+                    "medicine": "Lääketiede"
+                }
+            },
+            "animation": {
+                "title": "Animaatio",
+                "subgenres": {
+                    "drawn": "Piirros",
+                    "computer": "Tietokone",
+                    "stop_motion": "Stop-motion",
+                    "anime": "Anime"
+                }
+            },
+            "western": {
+                "title": "Lännenelokuva",
+                "subgenres": {
+                    "classic": "Klassinen",
+                    "spaghetti_western": "Spagetti-lännenelokuva",
+                    "contemporary": "Nykyajan"
+                }
+            },
+            "mystery": {
+                "title": "Mysteeri",
+                "subgenres": {
+                    "paranormal": "Yliluonnollinen",
+                    "supernatural": "Yliluonnollinen"
+                }
+            },
+            "ethnographic": {
+                "title": "Etnografinen",
+                "subgenres": {
+                    "myths": "Myytit",
+                    "legends": "Legenda",
+                    "culture": "Kulttuuri",
+                    "folklore": "Kansanperinne",
+                    "traditions": "Perinteet",
+                    "ethnic_groups": "Etniset ryhmät",
+                    "nature": "Luonto"
+                }
+            },
+            "biographical": {
+                "title": "Elämäkerta",
+                "subgenres": {
+                    "musicians": "Muusikot",
+                    "politicians": "Politiikot",
+                    "athletes": "Urheilijat",
+                    "artists": "Taiteilijat",
+                    "scientists": "Tieteilijät",
+                    "businessmen": "Liikemiehet"
+                }
+            },
+            "sports": {
+                "title": "Urheilu",
+                "subgenres": {
+                    "racing": "Kilpa-ajo",
+                    "boxing": "Nyrkkeily",
+                    "martial_arts": "Kamppailulajit"
+                }
+            }
+        },
+        "favorite": {
+            "add": "Lisää omalle listalle",
+            "remove": "Poista omalta listalta"
+        }
+    }
+}

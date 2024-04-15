@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "Filmer",
+        "actors": "Skådespelare",
+        "directors": "Regissörer",
+        "my-lists": "Mina listor",
+        "about-us": "Om oss",
+        "login": "Logga in",
+        "registration": "Registrering",
+        "my-profile": "Min profil",
+        "logout": "Logga ut",
+        "validation": "Validering"
+    },
+    "FooterNavigation": {
+        "slogan": "Se de rätta filmerna",
+        "terms-of-use": "Användarvillkor",
+        "privacy-policy": "Integritetspolicy",
+        "cookies-policy": "Cookie-policy",
+        "about-us": "Om oss",
+        "contact-us": "Kontakta oss"
+    },
+    "LocaleLayoutPage": {
+        "name": "FilmRåd",
+        "title": "Filmtips",
+        "description": "Genom att använda genrer, taggar, betyg och många andra parametrar för filtrering kan du välja en film att titta på"
+    },
+    "NotFoundPage": {
+        "title": "404: Sida hittades inte",
+        "description": "Hoppsan! Det verkar som att sidan du försöker nå antingen har flyttats eller inte existerar. Men oroa dig inte, du kan återvända till vår startsida eller utforska vår webbplats för att hitta filmanalyser, senaste nytt och mer om den fascinerande filmvärlden."
+    },
+    "LocaleSwitcher": {
+        "label": "Byt språk",
+        "locale": "{locale, select, en {Engelska} fr {Franska} es {Spanska} de {Tyska} pt {Portugisiska} it {Italienska} nl {Holländska} sv {Svenska} no {Norska} da {Danska} fi {Finska} cs {Tjeckiska} pl {Polska} uk {Ukrainska} be {Vitryska} et {Estniska} lv {Lettiska} lt {Litauiska} ro {Rumänska} kk {Kazakiska} ru {Ryska} tr {Turkiska} he {Hebreiska} ko {Koreanska} ja {Japanska} zh {Kinesiska} hi {Hindi} ar {Arabiska} id {Indonesiska} bg {Bulgariska} ka {Georgiska} el {Grekiska} other {Okänd}}",
+        "select-language": "Välj ditt språk"
+    },
+    "ActorsPage": {
+        "title": "Lista över alla skådespelare",
+        "note": "Välj filmer efter skådespelare, med tanke på deras unika talang, mångfald av roller och genrespecialisering, med hjälp av filter"
+    },
+    "ActorPage": {
+        "title": "Om skådespelaresida",
+        "birthday": "Födelsedag",
+        "deathday": "Dödsdag",
+        "bplace": "Födelseplats",
+        "biography": "Biografi"
+    },
+    "DirectorsPage": {
+        "title": "Lista över alla regissörer",
+        "note": "Välj filmer efter regissör, utforska deras unika stil, kvalitet på arbete och specialisering inom vissa teman, med hjälp av filter"
+    },
+    "DirectorPage": {
+        "title": "Om regissörsida",
+        "birthday": "Födelsedag",
+        "deathday": "Dödsdag",
+        "bplace": "Födelseplats",
+        "biography": "Biografi"
+    },
+    "FilmPage": {
+        "title": "Filmsida",
+        "director": "Regissör",
+        "overview": "Översikt",
+        "release": "Utgivning",
+        "rating": "Betyg",
+        "genres": "Genrer och undergenrer",
+        "tags": "Taggar",
+        "character": "som",
+        "add": "Lägg till i min lista",
+        "remove": "Ta bort från min lista"
+    },
+    "SeriesPage": {
+        "title": "Serier sida",
+        "director": "Regissör",
+        "overview": "Översikt",
+        "release": "Utgivning",
+        "rating": "Betyg",
+        "genres": "Genrer och undergenrer",
+        "tags": "Taggar",
+        "character": "som",
+        "seasons": "Säsonger",
+        "number_of_seasons": "Antal säsonger",
+        "add": "Lägg till i min lista",
+        "remove": "Ta bort från min lista"
+    },
+    "MyListPage": {
+        "title": "Min lista",
+        "note": "För att lägga till filmer eller TV-program i favoriter, var vänlig",
+        "or": "eller",
+        "login": "Logga in",
+        "registration": "Registrera"
+    },
+    "AboutUsPage": {
+        "title": "Välkommen till FilmRåd!",
+        "contact": "Om du har några förslag, frågor eller klagomål kan du",
+        "contact-us": "skriva till oss",
+        "text": {
+            "part1": "På FilmRåds webbplats erbjuder vi ett unikt tillvägagångssätt för att välja filmer och serier som sticker ut från allt du tidigare sett. Vår plattform är skapad för dem som värdesätter film och vill hitta det perfekta filmiska verket att titta på utan att gå vilse i det oändliga utbudet. Vi förstår hur viktigt det är att hitta en film som matchar dina humör, intressen och preferenser. Det är därför FilmRåd specialiserar sig på att välja filmer baserat på en unik uppsättning kriterier: genrer och undergenrer, taggar, betyg, utgivningsår, produktionsländer, epoker då filmens handling äger rum, utmärkelser och åldersrestriktioner.",
+            "part2": "Vår webbplats erbjuder en detaljerad beskrivning av varje urvals kriterium, från en komplett lista över genrer och undergenrer - från komedi till biografiska filmer, och slutar med tidsåldrarna för händelser, från förhistorisk tid till modern tid. Vi ägnar särskild uppmärksamhet åt taggar, som motiverande, feel-good, för sällskap och många andra, så att du kan välja en film som perfekt matchar ditt humör eller situation. En viktig funktion på vår webbplats är filmens betyg, som börjar från 5, vilket utesluter mindre kvalitetsverk och säkerställer dig bara det bästa valet.",
+            "part3": "Dessutom erbjuder FilmRåd en unik möjlighet att välja filmer efter välkända regissörer och skådespelare, med tanke på det genomsnittliga betyget för alla deras filmer, antalet filmiska verk och utmärkelser. Detta gör det möjligt för fans av vissa skapare att enkelt hitta deras verk som uppfyller höga kvalitetsstandarder och intressen.",
+            "part4": "På FilmRåd hittar du inte alternativet att titta på filmer direkt på webbplatsen, men du får det mest omfattande och detaljerade verktyget för att välja ett filmiskt verk som sedan kan ses på andra plattformar eller på bio. Vår mission är att förenkla urvalsprocessen genom att tillhandahålla dig alla nödvändiga verktyg för att hitta en film som blir en sann upptäckt för dig. I en värld där dussintals nya filmer och serier kommer ut varje dag är FilmRåd din pålitliga guide i filmens värld, som hjälper till att hitta verkliga pärlor bland det omfattande utbudet av filmiska verk."
+        }
+    },
+    "TermsPage": {
+        "title": "Webbplatsens användarvillkor"
+    },
+    "PrivacyPage": {
+        "title": "Integritetspolicy"
+    },
+    "CookiePage": {
+        "title": "Cookie-policy"
+    },
+    "ContactUsPage": {
+        "title": "Kontakter",
+        "note": "Du kan skicka oss dina förslag, frågor, klagomål eller meddela oss om fel i data eller översättning",
+        "name": "Namn",
+        "email": "E-post",
+        "text": "Meddelande",
+        "send": "Skicka"
+    },
+    "LoginPage": {
+        "title": "Logga in",
+        "note": "Logga in på ditt konto för att spara favoritfilmer och skapa en personlig tittlista för framtida visningar",
+        "no-account": "Har du inget konto?",
+        "registration": "Registrering",
+        "forgot-password": "Om du har glömt ditt lösenord kan du",
+        "recover": "återställa det",
+        "email": "E-post",
+        "password": "Lösenord",
+        "send": "Logga in"
+    },
+    "RegistrationPage": {
+        "title": "Registrering",
+        "note": "Registrera dig på FilmRåd och lås upp möjligheten att sammanställa en lista över gillade filmer för framtida visning",
+        "name": "Namn",
+        "email": "E-post",
+        "password": "Lösenord",
+        "password-repeat": "Upprepa lösenord",
+        "send": "Registrera"
+    },
+    "RecoverPage": {
+        "title": "Återställ lösenord",
+        "note": "Om du har glömt ditt lösenord kan du återställa det. För att göra detta måste du ange din e-postadress, och vi skickar dig ett nytt lösenord via e-post. Sedan kan du ändra det i ditt personliga konto",
+        "email": "E-post",
+        "send": "Återställ"
+    },
+    "ValidationPage": {
+        "title": "Validering",
+        "ok": "E-postverifiering lyckades, njut av din upplevelse!",
+        "error": "E-postverifiering misslyckades, gå igenom registreringsprocessen igen"
+    },
+    "MyProfilePage": {
+        "title": "Min Profil",
+        "title-ava": "Välj din Avatar",
+        "ava-color": "Avatarfärg",
+        "ava-img": "Avatarbild",
+        "email": "E-post",
+        "title-password": "Byt lösenord",
+        "password-current": "Ange nuvarande lösenord",
+        "password-new": "Ange nytt lösenord",
+        "password-success": "Lösenordet har ändrats",
+        "password-error": "Nuvarande lösenord matchar inte",
+        "title-name": "Namn",
+        "send": "Uppdatera",
+        "emailUpdatedSuccess": "E-postadressen har uppdaterats",
+        "emailUpdateError": "Misslyckades att uppdatera e-postadressen",
+        "usernameUpdatedSuccess": "Användarnamnet har uppdaterats",
+        "usernameUpdateError": "Misslyckades att uppdatera användarnamnet",
+        "passwordChangedSuccess": "Lösenordet har ändrats",
+        "passwordChangeError": "Misslyckades att ändra lösenord"
+    },
+    "MainPage": {
+        "title": "Huvudsida",
+        "warning": "Webbplatsen är i demo-läge, viss data är ofullständig",
+        "warningM": "Webbplatsen är i demo-läge, viss data är ofullständig (markerad)",
+        "ShowButton": "Visa Filmer",
+        "FilmFilter": {
+            "title": "Filmfilter"
+        },
+        "GenresFilter": {
+            "title": "Genrefilter"
+        },
+        "AdditionalFilter": {
+            "title": "Ytterligare filter"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "Sortera efter",
+            "rating": "Betyg",
+            "year": "År",
+            "count": "Antal"
+        },
+        "pagenav": {
+            "title": "Sidnavigering"
+        },
+        "typeformat": {
+            "title": "Typ",
+            "film": "Filmer",
+            "series": "Serier"
+        },
+        "rating": {
+            "title": "Betyg",
+            "from": "Från",
+            "to": "Till"
+        },
+        "filmcount": {
+            "title": "Antal Filmer",
+            "from": "Från",
+            "to": "Till"
+        },
+        "directors": {
+            "awards": "Utmärkelser",
+            "films": "Antal Filmer",
+            "rating": "Genomsnittligt Betyg"
+        },
+        "type": {
+            "title": "Typ",
+            "movie": "Film",
+            "series": "Serie"
+        },
+        "release_year": {
+            "title": "Utgivningsår",
+            "from": "Från",
+            "to": "Till",
+            "not_released_yet": "Inte Släppt Än"
+        },
+        "event_era": {
+            "title": "Händelseperiod",
+            "from": "Från",
+            "to": "Till",
+            "undefined": "Inte angivet",
+            "titlePresent": "Nuvarande",
+            "prehistory": "Förhistorisk Period (Före 3000 f.Kr.)",
+            "ancient_world": "Antikens Värld (3000 f.Kr. - 500 e.Kr.)",
+            "early_middle_ages": "Tidiga Medeltiden (500 - 1000)",
+            "high_middle_ages": "Höga Medeltiden (1000 - 1300)",
+            "late_middle_ages": "Sen Medeltiden (1300 - 1500)",
+            "renaissance": "Renässansen (1500 - 1600)",
+            "baroque_period": "Barockperioden (1600 - 1700)",
+            "enlightenment": "Upplysningen (1700 - 1800)",
+            "industrial_revolution": "Industriella Revolutionen (1800 - 1850)",
+            "victorian_era": "Viktorianska Erans (1850 - 1900)",
+            "early_20th_century": "Tidiga 1900-talet (1900 - 1930)",
+            "mid_20th_century_pre_ww2": "Före andra världskriget (1930 - 1940)",
+            "mid_20th_century": "Mitten av 1900-talet (1940 - 1950)",
+            "late_1950s": "Sent 1950-tal (1950 - 1960)",
+            "early_1960s": "Tidiga 1960-talet (1960 - 1970)",
+            "the_1970s": "1970-talet (1970 - 1980)",
+            "the_1980s": "1980-talet (1980 - 1990)",
+            "late_20th_century": "Sent 1900-talet (1990 - 2000)",
+            "early_21st_century": "Tidiga 2000-talet (2000 - 2010)",
+            "the_2010s": "2010-talet (2010 - Nutid)"
+        },
+        "age_rating": {
+            "title": "Åldersgräns",
+            "full": {
+                "G": "G: Allmänheten",
+                "PG": "PG: Föräldrars Råd Föreslås",
+                "PG13": "PG 13: Föräldrarna Starkt Avråds",
+                "R": "R: Restriktiv",
+                "NC17": "NC 17: Endast för Vuxna"
+            },
+            "short": {
+                "G": "G",
+                "PG": "PG",
+                "PG13": "PG 13",
+                "R": "R",
+                "NC17": "NC 17"
+            }
+        },
+        "awards": {
+            "title": "Utmärkelser",
+            "oscar": "Oscar",
+            "golden_globe": "Golden Globe",
+            "cannes": "Cannes Film Festival",
+            "berlin": "Berlin Film Festival",
+            "venice": "Venice Film Festival",
+            "bafta": "BAFTA"
+        },
+        "countries": {
+            "title": "Länder",
+            "america": {
+                "title": "Amerika",
+                "regions": {
+                    "north_america": {
+                        "title": "Nordamerika",
+                        "countries": {
+                            "usa": "USA",
+                            "canada": "Kanada",
+                            "mexico": "Mexiko",
+                            "other_noa": "Andra"
+                        }
+                    },
+                    "south_america": {
+                        "title": "Sydamerika",
+                        "countries": {
+                            "brazil": "Brasilien",
+                            "argentina": "Argentina",
+                            "chile": "Chile",
+                            "other_soa": "Andra"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "Europa",
+                "regions": {
+                    "western_europe": {
+                        "title": "Västeuropa",
+                        "countries": {
+                            "uk": "Storbritannien",
+                            "germany": "Tyskland",
+                            "ireland": "Irland",
+                            "france": "Frankrike",
+                            "other_wee": "Andra"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "Nordeuropa",
+                        "countries": {
+                            "denmark": "Danmark",
+                            "norway": "Norge",
+                            "finland": "Finland",
+                            "sweden": "Sverige",
+                            "other_noe": "Andra"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "Centraleuropa",
+                        "countries": {
+                            "poland": "Polen",
+                            "czech": "Tjeckien",
+                            "hungary": "Ungern",
+                            "other_cee": "Andra"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "Sydeuropa",
+                        "countries": {
+                            "greece": "Grekland",
+                            "spain": "Spanien",
+                            "italy": "Italien",
+                            "portugal": "Portugal",
+                            "other_soe": "Andra"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "Östeuropa",
+                        "countries": {
+                            "ukraine": "Ukraina",
+                            "romania": "Rumänien",
+                            "russia": "Ryssland",
+                            "bulgaria": "Bulgarien",
+                            "other_eae": "Andra"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "Asien",
+                "regions": {
+                    "east_asia": {
+                        "title": "Östasien",
+                        "countries": {
+                            "japan": "Japan",
+                            "korea": "Sydkorea",
+                            "china": "Kina",
+                            "other_eaa": "Andra"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "Sydostasien",
+                        "countries": {
+                            "thailand": "Thailand",
+                            "indonesia": "Indonesien",
+                            "other_soa": "Andra"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "Sydasien",
+                        "countries": {
+                            "india": "Indien",
+                            "other_sua": "Andra"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "Centrala och Västra Asien",
+                        "countries": {
+                            "turkey": "Turkiet",
+                            "israel": "Israel",
+                            "iran": "Iran",
+                            "other_cwa": "Andra"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "Afrika",
+                "regions": {
+                    "all": {
+                        "title": "Alla",
+                        "countries": {
+                            "south_africa": "Sydafrika",
+                            "egypt": "Egypten",
+                            "other_afr": "Andra"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "Välj taggar",
+            "motivational": "Motiverande",
+            "feel_good": "Feel-Good",
+            "for_company": "För Företag",
+            "based_on_books": "Baserad på Böcker",
+            "family": "Familj",
+            "festive": "Festlig",
+            "musical": "Musikalisk",
+            "arthouse": "Konstnärlig",
+            "based_on_true_events": "Baserad på Sanna Händelser"
+        },
+        "genres": {
+            "title": "Välj Genrer & Undergenrer",
+            "comedy": {
+                "title": "Komedi",
+                "subgenres": {
+                    "parody": "Parodi",
+                    "satire": "Satir",
+                    "dark_comedy": "Mörk Komedi"
+                }
+            },
+            "drama": {
+                "title": "Drama",
+                "subgenres": {
+                    "psychological": "Psykologisk",
+                    "social": "Social",
+                    "legal": "Juridisk",
+                    "political": "Politisk",
+                    "philosophical": "Filosofisk",
+                    "religious": "Religiös",
+                    "spiritual": "Andlig",
+                    "melancholic": "Melankolisk"
+                }
+            },
+            "thriller": {
+                "title": "Thriller",
+                "subgenres": {
+                    "psychological": "Psykologisk",
+                    "crime": "Brott",
+                    "spy": "Spion",
+                    "disaster": "Katastrof",
+                    "legal": "Juridisk",
+                    "political": "Politisk"
+                }
+            },
+            "horror": {
+                "title": "Skräck",
+                "subgenres": {
+                    "psychological": "Psykologisk",
+                    "slasher": "Huggare",
+                    "monsters": "Monster",
+                    "zombies": "Zombies",
+                    "vampires": "Vampyrer",
+                    "ghosts": "Spöken"
+                }
+            },
+            "sci_fi": {
+                "title": "Sci-Fi",
+                "subgenres": {
+                    "superheroes": "Superhjältar",
+                    "parallel_worlds": "Parallella Världar",
+                    "alternate_history": "Alternativ Historia",
+                    "post_apocalyptic": "Post-apokalyptisk"
+                }
+            },
+            "fantasy": {
+                "title": "Fantasy",
+                "subgenres": {
+                    "magical_realism": "Magisk Realism",
+                    "fantasy_universe": "Fantasy Universum",
+                    "dark_fantasy": "Mörk Fantasy",
+                    "fairy_tales": "Folksagor"
+                }
+            },
+            "action": {
+                "title": "Action",
+                "subgenres": {
+                    "adrenaline": "Adrenalin",
+                    "fights": "Fighter",
+                    "survival": "Överlevnad"
+                }
+            },
+            "romance": {
+                "title": "Romantik",
+                "subgenres": {
+                    "romantic": "Romantisk",
+                    "teen": "Tonårs",
+                    "light_romance": "Lätt Romantik"
+                }
+            },
+            "adventure": {
+                "title": "Äventyr",
+                "subgenres": {
+                    "adventurism": "Äventyrslust",
+                    "travel": "Resa",
+                    "expeditions": "Expeditioner",
+                    "road_movie": "Vägfilm"
+                }
+            },
+            "detective": {
+                "title": "Detektiv",
+                "subgenres": {
+                    "crime": "Brott",
+                    "detective": "Detektiv",
+                    "special_agents": "Specialagenter",
+                    "maniacs": "Maniaker"
+                }
+            },
+            "historical": {
+                "title": "Historisk",
+                "subgenres": {
+                    "ancient_world": "Antik Värld",
+                    "middle_ages": "Medeltiden",
+                    "renaissance": "Renässans",
+                    "victorian_era": "Viktoriansk Tid"
+                }
+            },
+            "war": {
+                "title": "Krig",
+                "subgenres": {
+                    "world_war_i": "Första Världskriget",
+                    "world_war_ii": "Andra Världskriget",
+                    "cold_war": "Kalla Kriget",
+                    "modern_warfare": "Modern Krigföring",
+                    "anti_war": "Anti-krig"
+                }
+            },
+            "science": {
+                "title": "Vetenskap",
+                "subgenres": {
+                    "technology": "Teknologi",
+                    "space": "Rymden",
+                    "research": "Forskning",
+                    "medicine": "Medicin"
+                }
+            },
+            "animation": {
+                "title": "Animering",
+                "subgenres": {
+                    "drawn": "Ritad",
+                    "computer": "Dator",
+                    "stop_motion": "Stopprörelse",
+                    "anime": "Anime"
+                }
+            },
+            "western": {
+                "title": "Western",
+                "subgenres": {
+                    "classic": "Klassisk",
+                    "spaghetti_western": "Spaghetti Western",
+                    "contemporary": "Samtida"
+                }
+            },
+            "mystery": {
+                "title": "Mysterium",
+                "subgenres": {
+                    "paranormal": "Paranormal",
+                    "supernatural": "Övernaturlig"
+                }
+            },
+            "ethnographic": {
+                "title": "Etnografisk",
+                "subgenres": {
+                    "myths": "Myter",
+                    "legends": "Legender",
+                    "culture": "Kultur",
+                    "folklore": "Folklore",
+                    "traditions": "Traditioner",
+                    "ethnic_groups": "Etniska Grupper",
+                    "nature": "Natur"
+                }
+            },
+            "biographical": {
+                "title": "Biografisk",
+                "subgenres": {
+                    "musicians": "Musiker",
+                    "politicians": "Politiker",
+                    "athletes": "Idrottare",
+                    "artists": "Konstnärer",
+                    "scientists": "Vetenskapsmän",
+                    "businessmen": "Affärsmän"
+                }
+            },
+            "sports": {
+                "title": "Sport",
+                "subgenres": {
+                    "racing": "Racing",
+                    "boxing": "Boxning",
+                    "martial_arts": "Kampsport"
+                }
+            }
+        },
+        "favorite": {
+            "add": "Lägg till i Min Lista",
+            "remove": "Ta bort från Min Lista"
+        }
+    }
+}

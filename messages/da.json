@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "Film",
+        "actors": "Skuespillere",
+        "directors": "Instruktører",
+        "my-lists": "Mine lister",
+        "about-us": "Om os",
+        "login": "Log ind",
+        "registration": "Registrering",
+        "my-profile": "Min profil",
+        "logout": "Log ud",
+        "validation": "Validering"
+    },
+    "FooterNavigation": {
+        "slogan": "Se de rigtige film",
+        "terms-of-use": "Brugsbetingelser",
+        "privacy-policy": "Privatlivspolitik",
+        "cookies-policy": "Cookie-politik",
+        "about-us": "Om os",
+        "contact-us": "Kontakt os"
+    },
+    "LocaleLayoutPage": {
+        "name": "FilmRådgivning",
+        "title": "Filmanbefaling",
+        "description": "Ved hjælp af genre, tags, bedømmelse og mange andre parametre kan du filtrere og vælge en film at se"
+    },
+    "NotFoundPage": {
+        "title": "404: Side ikke fundet",
+        "description": "Ups! Det ser ud til, at siden, du forsøger at nå, enten er flyttet eller ikke eksisterer. Men fortvivl ikke, du kan vende tilbage til vores hjemmeside eller udforske vores websted for at finde filmanmeldelser, seneste nyheder og mere om den fascinerende verden af film."
+    },
+    "LocaleSwitcher": {
+        "label": "Skift sprog",
+        "locale": "{locale, select, en {Engelsk} fr {Fransk} es {Spansk} de {Tysk} pt {Portugisisk} it {Italiensk} nl {Hollandsk} sv {Svensk} no {Norsk} da {Dansk} fi {Finsk} cs {Tjekkisk} pl {Polsk} uk {Ukrainsk} be {Hviderussisk} et {Estisk} lv {Lettisk} lt {Litauisk} ro {Rumænsk} kk {Kazakh} ru {Russisk} tr {Tyrkisk} he {Hebraisk} ko {Koreansk} ja {Japansk} zh {Kinesisk} hi {Hindi} ar {Arabisk} id {Indonesisk} bg {Bulgarsk} ka {Georgisk} el {Græsk} other {Ukendt}}",
+        "select-language": "Vælg dit sprog"
+    },
+    "ActorsPage": {
+        "title": "Liste over alle skuespillere",
+        "note": "Vælg film efter skuespillere, idet du tager hensyn til deres unikke talent, mangfoldighed af roller og genre specialisering ved hjælp af filtre"
+    },
+    "ActorPage": {
+        "title": "Om skuespiller side",
+        "birthday": "Fødselsdag",
+        "deathday": "Dødsdag",
+        "bplace": "Fødested",
+        "biography": "Biografi"
+    },
+    "DirectorsPage": {
+        "title": "Liste over alle instruktører",
+        "note": "Vælg film efter instruktør, udforsk deres unikke stil, kvalitet af arbejde og specialisering i visse temaer ved hjælp af filtre"
+    },
+    "DirectorPage": {
+        "title": "Om instruktør side",
+        "birthday": "Fødselsdag",
+        "deathday": "Dødsdag",
+        "bplace": "Fødested",
+        "biography": "Biografi"
+    },
+    "FilmPage": {
+        "title": "Film side",
+        "director": "Instruktør",
+        "overview": "Oversigt",
+        "release": "Udgivelse",
+        "rating": "Bedømmelse",
+        "genres": "Genrer og Undergenrer",
+        "tags": "Tags",
+        "character": "som",
+        "add": "Tilføj til Mine List",
+        "remove": "Fjern fra Mine List"
+    },
+    "SeriesPage": {
+        "title": "Serie side",
+        "director": "Instruktør",
+        "overview": "Oversigt",
+        "release": "Udgivelse",
+        "rating": "Bedømmelse",
+        "genres": "Genrer og Undergenrer",
+        "tags": "Tags",
+        "character": "som",
+        "seasons": "Sæsoner",
+        "number_of_seasons": "Antal Sæsoner",
+        "add": "Tilføj til Mine List",
+        "remove": "Fjern fra Mine List"
+    },
+    "MyListPage": {
+        "title": "Min List",
+        "note": "For at tilføje film eller tv-shows til favoritter, skal du",
+        "or": "eller",
+        "login": "Log ind",
+        "registration": "Registrer"
+    },
+    "AboutUsPage": {
+        "title": "Velkommen til FilmRådgivning!",
+        "contact": "Hvis du har forslag, spørgsmål eller klager, kan du",
+        "contact-us": "skrive til os",
+        "text": {
+            "part1": "På FilmRådgivningens hjemmeside tilbyder vi en unik tilgang til at vælge film og serier, der skiller sig ud fra alt, hvad du har set før. Vores platform er skabt for dem, der værdsætter film og ønsker at finde det perfekte filmværk til visning uden at gå tabt i det uendelige hav af muligheder. Vi forstår, hvor vigtigt det er at finde en film, der matcher dine humør, interesser og præferencer. Derfor specialiserer FilmRådgivning sig i at vælge film baseret på en unik række kriterier: genrer og undergenrer, tags, bedømmelser, udgivelsesår, produktionslande, epoker, hvor filmens handlinger finder sted, priser og aldersbegrænsninger.",
+            "part2": "Vores websted giver en detaljeret beskrivelse af hvert udvælgelseskriterium, der starter fra en komplet liste over genrer og undergenrer - fra komedie til biografiske film, og slutter med tidsaldre, der spænder fra forhistorisk tid til moderne tid. Vi lægger særlig vægt på tags, såsom motivationsfilm, feel-good-film, til selskab og mange andre, så du kan vælge en film, der perfekt matcher dit humør eller situation. En vigtig funktion på vores websted er filmbedømmelsen, der starter fra 5, hvilket udelukker lavere kvalitetsværker og sikrer dig kun det bedste valg.",
+            "part3": "Derudover tilbyder FilmRådgivning en unik mulighed for at vælge film efter velkendte instruktører og skuespillere, idet der tages højde for den gennemsnitlige bedømmelse af alle deres film, antallet af filmværker og priser. Dette giver fans af visse skabere mulighed for nemt at finde deres værker, der opfylder høje kvalitetsstandarder og interesser.",
+            "part4": "På FilmRådgivning vil du ikke finde muligheden for at se film direkte på webstedet, men du vil få det mest omfattende og detaljerede værktøj til at vælge et filmværk, der derefter kan ses på andre platforme eller i biografen. Vores mission er at forenkle udvælgelsesprocessen ved at give dig alle de nødvendige værktøjer til at finde en film, der vil være en sand opdagelse for dig. I en verden, hvor dusinvis af nye film og serier kommer ud hver dag, er FilmRådgivning din pålidelige guide i filmverdenen, der hjælper med at finde ægte perler blandt det store mangfoldighed af filmværker."
+        }
+    },
+    "TermsPage": {
+        "title": "Webstedsbetingelser for brug"
+    },
+    "PrivacyPage": {
+        "title": "Privatlivspolitik"
+    },
+    "CookiePage": {
+        "title": "Cookie-politik"
+    },
+    "ContactUsPage": {
+        "title": "Kontakter",
+        "note": "Du kan sende os dine forslag, spørgsmål, klager eller informere os om fejl i data eller oversættelse",
+        "name": "Navn",
+        "email": "Email",
+        "text": "Besked",
+        "send": "Send"
+    },
+    "LoginPage": {
+        "title": "Log ind",
+        "note": "Log ind på din konto for at gemme dine yndlingsfilm og oprette en personlig afspilningsliste til fremtidige visninger",
+        "no-account": "Har du ikke en konto?",
+        "registration": "Registrering",
+        "forgot-password": "Hvis du har glemt din adgangskode, kan du",
+        "recover": "gendanne den",
+        "email": "Email",
+        "password": "Adgangskode",
+        "send": "Log ind"
+    },
+    "RegistrationPage": {
+        "title": "Registrering",
+        "note": "Registrer dig på FilmRådgivning og lås op for muligheden for at sammensætte en liste over foretrukne film til fremtidig visning",
+        "name": "Navn",
+        "email": "Email",
+        "password": "Adgangskode",
+        "password-repeat": "Gentag adgangskode",
+        "send": "Registrer"
+    },
+    "RecoverPage": {
+        "title": "Gendan adgangskode",
+        "note": "Hvis du har glemt din adgangskode, kan du gendanne den. Til dette skal du angive din email, og vi sender dig en ny adgangskode pr. e-mail. Derefter kan du ændre den i din personlige konto",
+        "email": "Email",
+        "send": "Gendan"
+    },
+    "ValidationPage": {
+        "title": "Validering",
+        "ok": "E-mail-validering vellykket, nyd din oplevelse!",
+        "error": "E-mail-validering mislykkedes, gå venligst gennem registreringsprocessen igen"
+    },
+    "MyProfilePage": {
+        "title": "Min Profil",
+        "title-ava": "Vælg din Avatar",
+        "ava-color": "Avatar Farve",
+        "ava-img": "Avatar Billede",
+        "email": "Email",
+        "title-password": "Ændre Adgangskode",
+        "password-current": "Indtast Nuværende Adgangskode",
+        "password-new": "Indtast Ny Adgangskode",
+        "password-success": "Adgangskoder ændret med succes",
+        "password-error": "Nuværende adgangskode matcher ikke",
+        "title-name": "Navn",
+        "send": "Opdater",
+        "emailUpdatedSuccess": "Email opdateret succesfuldt",
+        "emailUpdateError": "Fejl ved opdatering af email",
+        "usernameUpdatedSuccess": "Brugernavn opdateret succesfuldt",
+        "usernameUpdateError": "Fejl ved opdatering af brugernavn",
+        "passwordChangedSuccess": "Adgangskode ændret succesfuldt",
+        "passwordChangeError": "Fejl ved ændring af adgangskode"
+    },
+    "MainPage": {
+        "title": "Hovedside",
+        "warning": "Webstedet er i demotilstand, nogle data er ufuldstændige",
+        "warningM": "Webstedet er i demotilstand, nogle data er ufuldstændige (markeret)",
+        "ShowButton": "Vis Film",
+        "FilmFilter": {
+            "title": "Filmfilter"
+        },
+        "GenresFilter": {
+            "title": "Genre Filter"
+        },
+        "AdditionalFilter": {
+            "title": "Yderligere Filter"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "Sorter efter",
+            "rating": "Bedømmelse",
+            "year": "År",
+            "count": "Antal"
+        },
+        "pagenav": {
+            "title": "Side Navigation"
+        },
+        "typeformat": {
+            "title": "Type",
+            "film": "Film",
+            "series": "Serier"
+        },
+        "rating": {
+            "title": "Bedømmelse",
+            "from": "Fra",
+            "to": "Til"
+        },
+        "filmcount": {
+            "title": "Antal Film",
+            "from": "Fra",
+            "to": "Til"
+        },
+        "directors": {
+            "awards": "Priser",
+            "films": "Antal Film",
+            "rating": "Gennemsnitlig Bedømmelse"
+        },
+        "type": {
+            "title": "Type",
+            "movie": "Film",
+            "series": "Serier"
+        },
+        "release_year": {
+            "title": "Udgivelsesår",
+            "from": "Fra",
+            "to": "Til",
+            "not_released_yet": "Ikke Udgivet Endnu"
+        },
+        "event_era": {
+            "title": "Begivenhedstid",
+            "from": "Fra",
+            "to": "Til",
+            "undefined": "Ikke angivet",
+            "titlePresent": "Nuværende",
+            "prehistory": "Forhistorisk Tid (Før 3000 f.Kr.)",
+            "ancient_world": "Antikverdenen (3000 f.Kr. - 500 e.Kr.)",
+            "early_middle_ages": "Tidlig Middelalder (500 - 1000)",
+            "high_middle_ages": "Høj Middelalder (1000 - 1300)",
+            "late_middle_ages": "Sen Middelalder (1300 - 1500)",
+            "renaissance": "Renessance (1500 - 1600)",
+            "baroque_period": "Barokperioden (1600 - 1700)",
+            "enlightenment": "Oplysningstiden (1700 - 1800)",
+            "industrial_revolution": "Industriel Revolution (1800 - 1850)",
+            "victorian_era": "Victoriansk Tidsalder (1850 - 1900)",
+            "early_20th_century": "Tidlig 20. århundrede (1900 - 1930)",
+            "mid_20th_century_pre_ww2": "Før 2. verdenskrig (1930 - 1940)",
+            "mid_20th_century": "Midt 20. århundrede (1940 - 1950)",
+            "late_1950s": "Sent 1950'erne (1950 - 1960)",
+            "early_1960s": "Tidlig 1960'erne (1960 - 1970)",
+            "the_1970s": "1970'erne (1970 - 1980)",
+            "the_1980s": "1980'erne (1980 - 1990)",
+            "late_20th_century": "Sen 20. århundrede (1990 - 2000)",
+            "early_21st_century": "Tidlig 21. århundrede (2000 - 2010)",
+            "the_2010s": "2010'erne (2010 - Nutid)"
+        },
+        "age_rating": {
+            "title": "Aldersklassifikation",
+            "full": {
+                "G": "G: Generel Publikum",
+                "PG": "PG: Forældre Anbefales",
+                "PG13": "PG 13: Forældre Advarer Stærkt",
+                "R": "R: Begrænset",
+                "NC17": "NC 17: Kun for voksne"
+            },
+            "short": {
+                "G": "G",
+                "PG": "PG",
+                "PG13": "PG 13",
+                "R": "R",
+                "NC17": "NC 17"
+            }
+        },
+        "awards": {
+            "title": "Priser",
+            "oscar": "Oscar",
+            "golden_globe": "Golden Globe",
+            "cannes": "Cannes Filmfestival",
+            "berlin": "Berlin Filmfestival",
+            "venice": "Venedig Filmfestival",
+            "bafta": "BAFTA"
+        },
+        "countries": {
+            "title": "Lande",
+            "america": {
+                "title": "Amerika",
+                "regions": {
+                    "north_america": {
+                        "title": "Nordamerika",
+                        "countries": {
+                            "usa": "USA",
+                            "canada": "Canada",
+                            "mexico": "Mexico",
+                            "other_noa": "Andre"
+                        }
+                    },
+                    "south_america": {
+                        "title": "Sydamerika",
+                        "countries": {
+                            "brazil": "Brasilien",
+                            "argentina": "Argentina",
+                            "chile": "Chile",
+                            "other_soa": "Andre"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "Europa",
+                "regions": {
+                    "western_europe": {
+                        "title": "Vesteuropa",
+                        "countries": {
+                            "uk": "Storbritannien",
+                            "germany": "Tyskland",
+                            "ireland": "Irland",
+                            "france": "Frankrig",
+                            "other_wee": "Andre"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "Nordeuropa",
+                        "countries": {
+                            "denmark": "Danmark",
+                            "norway": "Norge",
+                            "finland": "Finland",
+                            "sweden": "Sverige",
+                            "other_noe": "Andre"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "Centraleuropa",
+                        "countries": {
+                            "poland": "Polen",
+                            "czech": "Tjekkiet",
+                            "hungary": "Ungarn",
+                            "other_cee": "Andre"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "Sydeuropa",
+                        "countries": {
+                            "greece": "Grækenland",
+                            "spain": "Spanien",
+                            "italy": "Italien",
+                            "portugal": "Portugal",
+                            "other_soe": "Andre"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "Østeuropa",
+                        "countries": {
+                            "ukraine": "Ukraine",
+                            "romania": "Rumænien",
+                            "russia": "Rusland",
+                            "bulgaria": "Bulgarien",
+                            "other_eae": "Andre"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "Asien",
+                "regions": {
+                    "east_asia": {
+                        "title": "Østasien",
+                        "countries": {
+                            "japan": "Japan",
+                            "korea": "Sydkorea",
+                            "china": "Kina",
+                            "other_eaa": "Andre"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "Sydøstasien",
+                        "countries": {
+                            "thailand": "Thailand",
+                            "indonesia": "Indonesien",
+                            "other_soa": "Andre"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "Sydasien",
+                        "countries": {
+                            "india": "Indien",
+                            "other_sua": "Andre"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "Central- og Vestasien",
+                        "countries": {
+                            "turkey": "Tyrkiet",
+                            "israel": "Israel",
+                            "iran": "Iran",
+                            "other_cwa": "Andre"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "Afrika",
+                "regions": {
+                    "all": {
+                        "title": "Alle",
+                        "countries": {
+                            "south_africa": "Sydafrika",
+                            "egypt": "Egypten",
+                            "other_afr": "Andre"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "Vælg Tags",
+            "motivational": "Motiverende",
+            "feel_good": "Feel-Good",
+            "for_company": "For Selskab",
+            "based_on_books": "Baseret på Bøger",
+            "family": "Familie",
+            "festive": "Festlig",
+            "musical": "Musikalsk",
+            "arthouse": "Kunstnerisk",
+            "based_on_true_events": "Baseret på Sande Begivenheder"
+        },
+        "genres": {
+            "title": "Vælg Genrer & Undergenrer",
+            "comedy": {
+                "title": "Komedie",
+                "subgenres": {
+                    "parody": "Parodi",
+                    "satire": "Satire",
+                    "dark_comedy": "Mørk Komedie"
+                }
+            },
+            "drama": {
+                "title": "Drama",
+                "subgenres": {
+                    "psychological": "Psykologisk",
+                    "social": "Social",
+                    "legal": "Juridisk",
+                    "political": "Politisk",
+                    "philosophical": "Filosofisk",
+                    "religious": "Religiøs",
+                    "spiritual": "Åndelig",
+                    "melancholic": "Melankolsk"
+                }
+            },
+            "thriller": {
+                "title": "Thriller",
+                "subgenres": {
+                    "psychological": "Psykologisk",
+                    "crime": "Kriminal",
+                    "spy": "Spion",
+                    "disaster": "Katastrofe",
+                    "legal": "Juridisk",
+                    "political": "Politisk"
+                }
+            },
+            "horror": {
+                "title": "Gys",
+                "subgenres": {
+                    "psychological": "Psykologisk",
+                    "slasher": "Slasher",
+                    "monsters": "Monstre",
+                    "zombies": "Zombier",
+                    "vampires": "Vampyrer",
+                    "ghosts": "Spøgelser"
+                }
+            },
+            "sci_fi": {
+                "title": "Sci-Fi",
+                "subgenres": {
+                    "superheroes": "Superhelte",
+                    "parallel_worlds": "Parallelle Verdener",
+                    "alternate_history": "Alternativ Historie",
+                    "post_apocalyptic": "Post-apokalyptisk"
+                }
+            },
+            "fantasy": {
+                "title": "Fantasy",
+                "subgenres": {
+                    "magical_realism": "Magisk Realisme",
+                    "fantasy_universe": "Fantasiunivers",
+                    "dark_fantasy": "Mørk Fantasy",
+                    "fairy_tales": "Eventyr"
+                }
+            },
+            "action": {
+                "title": "Action",
+                "subgenres": {
+                    "adrenaline": "Adrenalin",
+                    "fights": "Kampe",
+                    "survival": "Overlevelse"
+                }
+            },
+            "romance": {
+                "title": "Romantik",
+                "subgenres": {
+                    "romantic": "Romantisk",
+                    "teen": "Teenager",
+                    "light_romance": "Let Romantik"
+                }
+            },
+            "adventure": {
+                "title": "Eventyr",
+                "subgenres": {
+                    "adventurism": "Eventyrlyst",
+                    "travel": "Rejser",
+                    "expeditions": "Ekspeditioner",
+                    "road_movie": "Road Movie"
+                }
+            },
+            "detective": {
+                "title": "Detektiv",
+                "subgenres": {
+                    "crime": "Kriminal",
+                    "detective": "Detektiv",
+                    "special_agents": "Specielle Agenter",
+                    "maniacs": "Vanvittige"
+                }
+            },
+            "historical": {
+                "title": "Historisk",
+                "subgenres": {
+                    "ancient_world": "Oldtiden",
+                    "middle_ages": "Middelalderen",
+                    "renaissance": "Renæssancen",
+                    "victorian_era": "Victoriatiden"
+                }
+            },
+            "war": {
+                "title": "Krig",
+                "subgenres": {
+                    "world_war_i": "1. Verdenskrig",
+                    "world_war_ii": "2. Verdenskrig",
+                    "cold_war": "Kolde Krig",
+                    "modern_warfare": "Moderne Krigsførelse",
+                    "anti_war": "Anti-Krig"
+                }
+            },
+            "science": {
+                "title": "Videnskab",
+                "subgenres": {
+                    "technology": "Teknologi",
+                    "space": "Rummet",
+                    "research": "Forskning",
+                    "medicine": "Medicin"
+                }
+            },
+            "animation": {
+                "title": "Animation",
+                "subgenres": {
+                    "drawn": "Tegnefilm",
+                    "computer": "Computeranimation",
+                    "stop_motion": "Stop-motion",
+                    "anime": "Anime"
+                }
+            },
+            "western": {
+                "title": "Western",
+                "subgenres": {
+                    "classic": "Klassisk",
+                    "spaghetti_western": "Spaghetti Western",
+                    "contemporary": "Samtids"
+                }
+            },
+            "mystery": {
+                "title": "Mysterium",
+                "subgenres": {
+                    "paranormal": "Paranormal",
+                    "supernatural": "Overnaturlig"
+                }
+            },
+            "ethnographic": {
+                "title": "Etnografisk",
+                "subgenres": {
+                    "myths": "Myter",
+                    "legends": "Legender",
+                    "culture": "Kultur",
+                    "folklore": "Folklore",
+                    "traditions": "Traditioner",
+                    "ethnic_groups": "Etniske Grupper",
+                    "nature": "Natur"
+                }
+            },
+            "biographical": {
+                "title": "Biografisk",
+                "subgenres": {
+                    "musicians": "Musikere",
+                    "politicians": "Politikere",
+                    "athletes": "Atleter",
+                    "artists": "Kunstnere",
+                    "scientists": "Forskere",
+                    "businessmen": "Forretningsfolk"
+                }
+            },
+            "sports": {
+                "title": "Sport",
+                "subgenres": {
+                    "racing": "Løb",
+                    "boxing": "Boksning",
+                    "martial_arts": "Kampsport"
+                }
+            }
+        },
+        "favorite": {
+            "add": "Tilføj til Min Liste",
+            "remove": "Fjern fra Min Liste"
+        }
+    }
+}

@@ -1,0 +1,608 @@
+{
+    "HeaderNavigation": {
+        "home": "סרטים",
+        "actors": "שחקנים",
+        "directors": "במאים",
+        "my-lists": "הרשימות שלי",
+        "about-us": "עלינו",
+        "login": "כניסה",
+        "registration": "הרשמה",
+        "my-profile": "הפרופיל שלי",
+        "logout": "התנתקות",
+        "validation": "אימות"
+    },
+    "FooterNavigation": {
+        "slogan": "צפו בסרטים הנכונים",
+        "terms-of-use": "תנאי שימוש",
+        "privacy-policy": "מדיניות פרטיות",
+        "cookies-policy": "מדיניות עוגיות",
+        "about-us": "עלינו",
+        "contact-us": "צרו קשר"
+    },
+    "LocaleLayoutPage": {
+        "name": "המלצות סרט",
+        "title": "המלצת סרט",
+        "description": "על ידי שימוש בז'אנר, תגיות, דירוג, ועוד מסננים, תוכלו לבחור סרט לצפייה"
+    },
+    "NotFoundPage": {
+        "title": "404: דף לא נמצא",
+        "description": "אופס! נראה שהדף שאתה מנסה להגיע אליו הועבר או שאינו קיים. אך אל תדאג, תוכל לחזור לדף הבית שלנו או לחקור באתר שלנו כדי למצוא ביקורות סרטים, חדשות אחרונות, ועוד על עולם הקולנוע המרתק."
+    },
+    "LocaleSwitcher": {
+        "label": "שנה שפה",
+        "locale": "{locale, select, en {אנגלית} fr {צרפתית} es {ספרדית} de {גרמנית} pt {פורטוגזית} it {איטלקית} nl {הולנדית} sv {שוודית} no {נורווגית} da {דנית} fi {פינית} cs {צ'כית} pl {פולנית} uk {אוקראינית} be {בלרוסית} et {אסטונית} lv {לטבית} lt {ליטאית} ro {רומנית} kk {קזחית} ru {רוסית} tr {טורקית} he {עברית} ko {קוריאנית} ja {יפנית} zh {סינית} hi {הינדית} ar {ערבית} id {אינדונזית} bg {בולגרית} ka {ג'ורג'ית} el {יוונית} other {לא ידוע}}",
+        "select-language": "בחר את השפה שלך"
+    },
+    "ActorsPage": {
+        "title": "רשימת כל השחקנים",
+        "note": "בחרו סרטים לפי שחקנים, בשיקול של יכולתם הייחודית, ורובעם של תפקידים, והתמחות בז'אנר, באמצעות מסננים"
+    },
+    "ActorPage": {
+        "title": "אודות דף השחקן",
+        "birthday": "יום הולדת",
+        "deathday": "יום המוות",
+        "bplace": "מקום לידה",
+        "biography": "ביוגרפיה"
+    },
+    "DirectorsPage": {
+        "title": "רשימת כל הבמאים",
+        "note": "בחרו סרטים לפי במאי, בחקירה על סגנון הייחודי שלהם, איכות העבודה, והתמחות בנושאים מסוימים, באמצעות מסננים"
+    },
+    "DirectorPage": {
+        "title": "אודות דף הבמאי",
+        "birthday": "יום הולדת",
+        "deathday": "יום המוות",
+        "bplace": "מקום לידה",
+        "biography": "ביוגרפיה"
+    },
+    "FilmPage": {
+        "title": "דף הסרט",
+        "director": "במאי",
+        "overview": "סקירה",
+        "release": "שחרור",
+        "rating": "דירוג",
+        "genres": "ז'אנרים & תתי ז'אנרים",
+        "tags": "תגיות",
+        "character": "כ",
+        "add": "הוסף לרשימתי",
+        "remove": "הסר מהרשימה שלי"
+    },
+    "SeriesPage": {
+        "title": "דף הסדרה",
+        "director": "במאי",
+        "overview": "סקירה",
+        "release": "שחרור",
+        "rating": "דירוג",
+        "genres": "ז'אנרים & תתי ז'אנרים",
+        "tags": "תגיות",
+        "character": "כ",
+        "seasons": "עונות",
+        "number_of_seasons": "מספר העונות",
+        "add": "הוסף לרשימתי",
+        "remove": "הסר מהרשימה שלי"
+    },
+    "MyListPage": {
+        "title": "הרשימה שלי",
+        "note": "כדי להוסיף סרטים או תוכניות טלוויזיה למועדפים שלך בבקשה",
+        "or": "או",
+        "login": "כניסה",
+        "registration": "הרשמה"
+    },
+    "AboutUsPage": {
+        "title": "ברוכים הבאים ל-FilmAdvise!",
+        "contact": "אם יש לך הצעות, שאלות, או תלונות, תוכל",
+        "contact-us": "לכתוב אלינו",
+        "text": {
+            "part1": "באתר FilmAdvise, אנו מציעים גישה ייחודית לבחירת סרטים וסדרות שמתבלטת מכל מה שראית עד כה. פלטפורמתנו נוצרה למי שמעריך קולנוע ורוצה למצוא את העבודה הקולנועית המושלמת לצפייה מבלי לאבד את עצמו בים האין סופי של אפשרויות. אנו מבינים כמה חשוב למצוא סרט המתאים למצב הרוח, התחביבים, וההעדפות שלך. לכן FilmAdvise מתמחה בבחירת סרטים על סמך סט ייחודי של קריטריונים: ז'אנרים ותתי ז'אנרים, תגיות, דירוגים, שנות השחרור, מדינות הייצור, תקופות בהן מתרחשות פעולות הסרט, פרסים, ומגבלות גיל.",
+            "part2": "האתר שלנו מספק תיאור מפורט של כל קריטריון בחירה, החל מרשימה מלאה של ז'אנרים ותתי ז'אנרים - מקומד עד סרטי ביוגרפיה, ומסתיים בתקופות האירועים, החל מהתקופה הפרה-היסטורית ועד ימינו. אנו נותנים תשומת לב מיוחדת לתגיות, כגון מוטיבציוני, הרגשה טובה, לחברה, ועוד, כך שתוכל לבחור סרט המתאים במדויק למצב הרוח או המצב שלך. מאפיין חשוב של אתרנו הוא הדירוג של הסרטים, המתחיל מ-5, ומחליף עבודות ממוצעות איכותיות ומבטיח רק את הבחירה הטובה ביותר.",
+            "part3": "בנוסף, FilmAdvise מציעה הזדמנות ייחודית לבחור סרטים לפי במאים ושחקנים ידועים, בשיקול ממוצע הדירוג של כל סרטיהם, מספר העבודות הקולנועיות, והפרסים. זה מאפשר לחובבים של יצירות מסויימות למצוא בקלות את יצירותיהם שעומדות בתקני איכות גבוהים ומעניינים.",
+            "part4": "ב-FilmAdvise, לא תמצאו את האפשרות לצפות בסרטים ישירות באתר, אך תקבלו את הכלי המפורט והמקיף ביותר לבחירת יצירה קולנועית שתוכלו לצפות בה לאחר מכן בפלטפורמות אחרות או בקולנוע. המשימה שלנו היא לפשט את תהליך הבחירה על ידי ספק לך את כל הכלים הנדרשים כדי למצוא סרט שיהיה גילוי אמיתי עבורך. בעולם שבו תראו די עשרות סרטים וסדרות חדשים בכל יום, FilmAdvise הוא המדריך האמין שלך בעולם הקולנוע, עוזר למצוא את האבנים החן בתוך הרבה אפשרויות הקולנועיות."
+        }
+    },
+    "TermsPage": {
+        "title": "תנאי שימוש באתר"
+    },
+    "PrivacyPage": {
+        "title": "מדיניות פרטיות"
+    },
+    "CookiePage": {
+        "title": "מדיניות עוגיות"
+    },
+    "ContactUsPage": {
+        "title": "צור קשר",
+        "note": "תוכל לשלוח אלינו הצעות, שאלות, תלונות, או להודיע לנו על טעויות בנתונים או בתרגום",
+        "name": "שם",
+        "email": "דואר אלקטרוני",
+        "text": "הודעה",
+        "send": "שלח"
+    },
+    "LoginPage": {
+        "title": "כניסה",
+        "note": "התחבר לחשבונך כדי לשמור על סרטים מועדפים וליצור רשימת צפייה אישית לצפייה בעתיד",
+        "no-account": "אין לך חשבון?",
+        "registration": "הרשמה",
+        "forgot-password": "אם שכחת את הסיסמה שלך, תוכל",
+        "recover": "לשחזר אותה",
+        "email": "דואר אלקטרוני",
+        "password": "סיסמה",
+        "send": "כניסה"
+    },
+    "RegistrationPage": {
+        "title": "הרשמה",
+        "note": "הירשם ל-FilmAdvise ופתח את היכולת להרכיב רשימת סרטים אהובים לצפייה בעתיד",
+        "name": "שם",
+        "email": "דואר אלקטרוני",
+        "password": "סיסמה",
+        "password-repeat": "חזור על הסיסמה",
+        "send": "הרשמה"
+    },
+    "RecoverPage": {
+        "title": "שחזור סיסמה",
+        "note": "אם שכחת את הסיסמה שלך, תוכל לשחזר אותה. לעשות זאת, יש לספק את כתובת הדואר האלקטרוני שלך, ואנו נשלח לך סיסמה חדשה בדואר. לאחר מכן תוכל לשנות אותה בחשבון האישי שלך",
+        "email": "דואר אלקטרוני",
+        "send": "שחזור"
+    },
+    "ValidationPage": {
+        "title": "אימות",
+        "ok": "אימות כתובת הדואר האלקטרוני הצליח, תהנה מהחוויה שלך!",
+        "error": "אימות כתובת הדואר האלקטרוני נכשל, אנא עבור דרך התהליך של הרשמה שוב"
+    },
+    "MyProfilePage": {
+        "title": "הפרופיל שלי",
+        "title-ava": "בחר את האווטר שלך",
+        "ava-color": "צבע אווטר",
+        "ava-img": "תמונת אווטר",
+        "email": "אימייל",
+        "title-password": "שנה סיסמה",
+        "password-current": "הזן סיסמה נוכחית",
+        "password-new": "הזן סיסמה חדשה",
+        "password-success": "הסיסמה שונתה בהצלחה",
+        "password-error": "הסיסמה הנוכחית אינה תואמת",
+        "title-name": "שם",
+        "send": "עדכן",
+        "emailUpdatedSuccess": "האימייל עודכן בהצלחה",
+        "emailUpdateError": "העדכון של האימייל נכשל",
+        "usernameUpdatedSuccess": "שם המשתמש עודכן בהצלחה",
+        "usernameUpdateError": "עדכון שם המשתמש נכשל",
+        "passwordChangedSuccess": "הסיסמה שונתה בהצלחה",
+        "passwordChangeError": "שינוי הסיסמה נכשל"
+    },
+    "MainPage": {
+        "title": "עמוד ראשי",
+        "warning": "האתר במצב הדגמה, חלק מהנתונים אינם שלמים",
+        "warningM": "האתר במצב הדגמה, חלק מהנתונים אינם שלמים (מסומן)",
+        "ShowButton": "הצג סרטים",
+        "FilmFilter": {
+            "title": "מסנן סרטים"
+        },
+        "GenresFilter": {
+            "title": "מסנן ז'אנרים"
+        },
+        "AdditionalFilter": {
+            "title": "מסנן נוסף"
+        }
+    },
+    "Components": {
+        "sort": {
+            "title": "מיין לפי",
+            "rating": "דירוג",
+            "year": "שנה",
+            "count": "כמות"
+        },
+        "pagenav": {
+            "title": "ניווט בעמודים"
+        },
+        "typeformat": {
+            "title": "סוג",
+            "film": "סרטים",
+            "series": "סדרות"
+        },
+        "rating": {
+            "title": "דירוג",
+            "from": "מתוך",
+            "to": "עד"
+        },
+        "filmcount": {
+            "title": "כמות סרטים",
+            "from": "מתוך",
+            "to": "עד"
+        },
+        "directors": {
+            "awards": "פרסים",
+            "films": "מספר סרטים",
+            "rating": "דירוג ממוצע"
+        },
+        "type": {
+            "title": "סוג",
+            "movie": "סרט",
+            "series": "סדרה"
+        },
+        "release_year": {
+            "title": "שנת הוצאה לאור",
+            "from": "מתוך",
+            "to": "עד",
+            "not_released_yet": "עדיין לא הוצא לאור"
+        },
+        "event_era": {
+            "title": "תקופת אירוע",
+            "from": "מתוך",
+            "to": "עד",
+            "undefined": "לא נקבע",
+            "titlePresent": "הווה",
+            "prehistory": "תקופה פרה-היסטורית (לפני 3000 לפנה״ס)",
+            "ancient_world": "העולם העתיק (3000 לפנה״ס - 500 לסה״נ)",
+            "early_middle_ages": "התקופה האמצעית המוקדמת (500 - 1000)",
+            "high_middle_ages": "התקופה האמצעית הגבוהה (1000 - 1300)",
+            "late_middle_ages": "התקופה האמצעית המאוחרת (1300 - 1500)",
+            "renaissance": "הרנסנס (1500 - 1600)",
+            "baroque_period": "תקופת הבארוק (1600 - 1700)",
+            "enlightenment": "ההתמצאות (1700 - 1800)",
+            "industrial_revolution": "המהפכה התעשייתית (1800 - 1850)",
+            "victorian_era": "תקופת ויקטוריה (1850 - 1900)",
+            "early_20th_century": "תחילת המאה ה-20 (1900 - 1930)",
+            "mid_20th_century_pre_ww2": "לפני מלחמת העולם השנייה (1930 - 1940)",
+            "mid_20th_century": "אמצע המאה ה-20 (1940 - 1950)",
+            "late_1950s": "ראשית שנות ה-50 (1950 - 1960)",
+            "early_1960s": "תחילת שנות ה-60 (1960 - 1970)",
+            "the_1970s": "שנות ה-70 (1970 - 1980)",
+            "the_1980s": "שנות ה-80 (1980 - 1990)",
+            "late_20th_century": "סוף המאה ה-20 (1990 - 2000)",
+            "early_21st_century": "תחילת המאה ה-21 (2000 - 2010)",
+            "the_2010s": "שנות ה-10 של המאה ה-21 (2010 - הווה)"
+        },
+        "age_rating": {
+            "title": "סדרת גיל",
+            "full": {
+                "G": "כלל הקהלים",
+                "PG": "הורים ממליצים",
+                "PG13": "הורים ממליצים בחומרים",
+                "R": "מוגבל",
+                "NC17": "מבוגרים בלבד"
+            },
+            "short": {
+                "G": "כלל",
+                "PG": "הורים",
+                "PG13": "הורים בחומרים",
+                "R": "מוגבל",
+                "NC17": "מבוגרים"
+            }
+        },
+        "awards": {
+            "title": "פרסים",
+            "oscar": "אוסקר",
+            "golden_globe": "גולדן גלוב",
+            "cannes": "פסטיבל קאן",
+            "berlin": "פסטיבל ברלין",
+            "venice": "פסטיבל ונציה",
+            "bafta": "BAFTA"
+        },
+        "countries": {
+            "title": "מדינות",
+            "america": {
+                "title": "אמריקה",
+                "regions": {
+                    "north_america": {
+                        "title": "צפון אמריקה",
+                        "countries": {
+                            "usa": "ארצות הברית",
+                            "canada": "קנדה",
+                            "mexico": "מקסיקו",
+                            "other_noa": "אחרות"
+                        }
+                    },
+                    "south_america": {
+                        "title": "דרום אמריקה",
+                        "countries": {
+                            "brazil": "ברזיל",
+                            "argentina": "ארגנטינה",
+                            "chile": "צ'ילה",
+                            "other_soa": "אחרות"
+                        }
+                    }
+                }
+            },
+            "europe": {
+                "title": "אירופה",
+                "regions": {
+                    "western_europe": {
+                        "title": "מערב אירופה",
+                        "countries": {
+                            "uk": "הממלכה המאוחדת",
+                            "germany": "גרמניה",
+                            "ireland": "אירלנד",
+                            "france": "צרפת",
+                            "other_wee": "אחרות"
+                        }
+                    },
+                    "northern_europe": {
+                        "title": "צפון אירופה",
+                        "countries": {
+                            "denmark": "דנמרק",
+                            "norway": "נורווגיה",
+                            "finland": "פינלנד",
+                            "sweden": "שוודיה",
+                            "other_noe": "אחרות"
+                        }
+                    },
+                    "central_europe": {
+                        "title": "מרכז אירופה",
+                        "countries": {
+                            "poland": "פולין",
+                            "czech": "רפובליקה צ'כית",
+                            "hungary": "הונגריה",
+                            "other_cee": "אחרות"
+                        }
+                    },
+                    "southern_europe": {
+                        "title": "דרום אירופה",
+                        "countries": {
+                            "greece": "יוון",
+                            "spain": "ספרד",
+                            "italy": "איטליה",
+                            "portugal": "פורטוגל",
+                            "other_soe": "אחרות"
+                        }
+                    },
+                    "eastern_europe": {
+                        "title": "מזרח אירופה",
+                        "countries": {
+                            "ukraine": "אוקראינה",
+                            "romania": "רומניה",
+                            "russia": "רוסיה",
+                            "bulgaria": "בולגריה",
+                            "other_eae": "אחרות"
+                        }
+                    }
+                }
+            },
+            "asia": {
+                "title": "אסיה",
+                "regions": {
+                    "east_asia": {
+                        "title": "מזרח אסיה",
+                        "countries": {
+                            "japan": "יפן",
+                            "korea": "דרום קוריאה",
+                            "china": "סין",
+                            "other_eaa": "אחרות"
+                        }
+                    },
+                    "southeast_asia": {
+                        "title": "דרום-מזרח אסיה",
+                        "countries": {
+                            "thailand": "תאילנד",
+                            "indonesia": "אינדונזיה",
+                            "other_soa": "אחרות"
+                        }
+                    },
+                    "south_asia": {
+                        "title": "דרום אסיה",
+                        "countries": {
+                            "india": "הודו",
+                            "other_sua": "אחרות"
+                        }
+                    },
+                    "central_and_west_asia": {
+                        "title": "מרכז ומערב אסיה",
+                        "countries": {
+                            "turkey": "טורקיה",
+                            "israel": "ישראל",
+                            "iran": "איראן",
+                            "other_cwa": "אחרות"
+                        }
+                    }
+                }
+            },
+            "africa": {
+                "title": "אפריקה",
+                "regions": {
+                    "all": {
+                        "title": "כל האזורים",
+                        "countries": {
+                            "south_africa": "דרום אפריקה",
+                            "egypt": "מצרים",
+                            "other_afr": "אחרות"
+                        }
+                    }
+                }
+            }
+        },
+        "tags": {
+            "title": "בחר תגיות",
+            "motivational": "מעורר מוטיבציה",
+            "feel_good": "מרגש",
+            "for_company": "לשעת חיבור",
+            "based_on_books": "מבוסס על ספרים",
+            "family": "משפחתי",
+            "festive": "חגיגי",
+            "musical": "מוזיקלי",
+            "arthouse": "ארט האוס",
+            "based_on_true_events": "מבוסס על אירועים אמיתיים"
+        },
+        "genres": {
+            "title": "בחר ז'אנרים וז'אנרים משניים",
+            "comedy": {
+                "title": "קומדיה",
+                "subgenres": {
+                    "parody": "פארודיה",
+                    "satire": "סטירה",
+                    "dark_comedy": "קומדיה שחורה"
+                }
+            },
+            "drama": {
+                "title": "דרמה",
+                "subgenres": {
+                    "psychological": "פסיכולוגית",
+                    "social": "חברתית",
+                    "legal": "משפטית",
+                    "political": "פוליטית",
+                    "philosophical": "פילוסופית",
+                    "religious": "דתית",
+                    "spiritual": "רוחנית",
+                    "melancholic": "מלנכולית"
+                }
+            },
+            "thriller": {
+                "title": "מתח",
+                "subgenres": {
+                    "psychological": "פסיכולוגית",
+                    "crime": "פשע",
+                    "spy": "ריגול",
+                    "disaster": "אסון",
+                    "legal": "משפטית",
+                    "political": "פוליטית"
+                }
+            },
+            "horror": {
+                "title": "אימה",
+                "subgenres": {
+                    "psychological": "פסיכולוגית",
+                    "slasher": "סלאשר",
+                    "monsters": "מפלצות",
+                    "zombies": "זומבים",
+                    "vampires": "ערפדים",
+                    "ghosts": "רוחות"
+                }
+            },
+            "sci_fi": {
+                "title": "מדע בדיוני",
+                "subgenres": {
+                    "superheroes": "גיבורי על",
+                    "parallel_worlds": "עולמות צמודים",
+                    "alternate_history": "היסטוריה חלופית",
+                    "post_apocalyptic": "אפקליפטי"
+                }
+            },
+            "fantasy": {
+                "title": "פנטזיה",
+                "subgenres": {
+                    "magical_realism": "ריאליזם קסום",
+                    "fantasy_universe": "יצירת עולם פנטזי",
+                    "dark_fantasy": "פנטזיה אפלה",
+                    "fairy_tales": "אגדות פיות"
+                }
+            },
+            "action": {
+                "title": "פעולה",
+                "subgenres": {
+                    "adrenaline": "אדרנלין",
+                    "fights": "קרבות",
+                    "survival": "שרידים"
+                }
+            },
+            "romance": {
+                "title": "רומנטיקה",
+                "subgenres": {
+                    "romantic": "רומנטי",
+                    "teen": "נעורים",
+                    "light_romance": "רומנטיקה קלה"
+                }
+            },
+            "adventure": {
+                "title": "הרפתקאות",
+                "subgenres": {
+                    "adventurism": "הרפתקנות",
+                    "travel": "נסיעות",
+                    "expeditions": "משלחות",
+                    "road_movie": "סרט דרך"
+                }
+            },
+            "detective": {
+                "title": "דתיב",
+                "subgenres": {
+                    "crime": "פשע",
+                    "detective": "בילד",
+                    "special_agents": "סוכנים מיוחדים",
+                    "maniacs": "מאניאקים"
+                }
+            },
+            "historical": {
+                "title": "היסטורי",
+                "subgenres": {
+                    "ancient_world": "עולם עתיק",
+                    "middle_ages": "ימי הביניים",
+                    "renaissance": "רנסנס",
+                    "victorian_era": "עידן הויקטוריאני"
+                }
+            },
+            "war": {
+                "title": "מלחמה",
+                "subgenres": {
+                    "world_war_i": "מלחמת העולם הראשונה",
+                    "world_war_ii": "מלחמת העולם השנייה",
+                    "cold_war": "מלחמת הקור",
+                    "modern_warfare": "מלחמת ההגנה",
+                    "anti_war": "אנטי-מלחמה"
+                }
+            },
+            "science": {
+                "title": "מדע",
+                "subgenres": {
+                    "technology": "טכנולוגיה",
+                    "space": "חלל",
+                    "research": "מחקר",
+                    "medicine": "רפואה"
+                }
+            },
+            "animation": {
+                "title": "אנימציה",
+                "subgenres": {
+                    "drawn": "מצויר",
+                    "computer": "מחשב",
+                    "stop_motion": "תנועה עצורה",
+                    "anime": "אנימה"
+                }
+            },
+            "western": {
+                "title": "מערבי",
+                "subgenres": {
+                    "classic": "קלאסי",
+                    "spaghetti_western": "מערב ספגטי",
+                    "contemporary": "עכשווי"
+                }
+            },
+            "mystery": {
+                "title": "תעלומה",
+                "subgenres": {
+                    "paranormal": "פרא-נורמלי",
+                    "supernatural": "על-טבעי"
+                }
+            },
+            "ethnographic": {
+                "title": "אתנוגרפי",
+                "subgenres": {
+                    "myths": "מיתוסים",
+                    "legends": "אגדות",
+                    "culture": "תרבות",
+                    "folklore": "פולקלור",
+                    "traditions": "מסורות",
+                    "ethnic_groups": "קבוצות אתניות",
+                    "nature": "טבע"
+                }
+            },
+            "biographical": {
+                "title": "ביוגרפי",
+                "subgenres": {
+                    "musicians": "מוזיקאים",
+                    "politicians": "פוליטיקאים",
+                    "athletes": "ספורטאים",
+                    "artists": "אמנים",
+                    "scientists": "מדענים",
+                    "businessmen": "אנשי עסקים"
+                }
+            },
+            "sports": {
+                "title": "ספורט",
+                "subgenres": {
+                    "racing": "מירוצים",
+                    "boxing": "איגוד",
+                    "martial_arts": "אמנויות לחימה"
+                }
+            }
+        },
+        "favorite": {
+            "add": "הוסף לרשימת המועדפים",
+            "remove": "הסר מרשימת המועדפים"
+        }
+    }
+}
